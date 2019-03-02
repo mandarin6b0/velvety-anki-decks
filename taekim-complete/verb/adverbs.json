@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1",
+    "title": "adverbs",
+    "q": "How to change na-adjective into adverb",
+    "a": "Attach「に」to the end",
+    "meta": {
+      "type": "grammar",
+      "example": "静か → 静かに",
+      "question_specific":"静か"
+    }
+  },
+  {
+    "id": "2",
+    "title": "adverbs",
+    "q": "How to change i-adjective into adverb",
+    "a": "「い」→「く」",
+    "meta": {
+      "type": "grammar",
+      "example": "早い → 早く",
+      "question_specific":"早い"
+    }
+  },
+  {
+    "id": "3",
+    "title": "adverbs",
+    "q": "How to change いい into adverb",
+    "a": "よく",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "4",
+    "title": "adverbs",
+    "q": "How to change かっこいい into adverb",
+    "a": "かっこよく",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "5",
+    "title": "adverbs",
+    "q": "How to change 可愛い into adverb",
+    "a": "可愛く",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "6",
+    "title": "adverbs",
+    "q": "部屋をきれい＿する",
+    "a": "に",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Make room clean"
+    }
+  },
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "clause",
+    "q": "1) 時\n2) ご飯を食べる",
+    "a": "ご飯を食べる時",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Translate into \"When eating a meal\""
+    }
+  },
+  {
+    "id": "2",
+    "title": "clause",
+    "q": "1) 人\n2) 性格が優しくない",
+    "a": "性格が優しくない人",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Translate into \"People whose personality is not gentle\""
+    }
+  },
+  {
+    "id": "3",
+    "title": "clause",
+    "q": "1) 果物\n2) 形がとてもきれい",
+    "a": "形がとてもきれい な 果物は",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Translate into \"Fruit that has very pretty form\""
+    }
+  },
+  {
+    "id": "4",
+    "title": "clause",
+    "q": "How「こと」and「の」are related?",
+    "a": "こと is more general statement, の is specific to the context",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "clause+こと vs clause+の"
+    }
+  },
+  {
+    "id": "5",
+    "title": "clause",
+    "q": "1) 料理をする\n2) 好き",
+    "a": "料理をするのが好き",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Translate into \"(I) like cooking\""
+    }
+  },
+  {
+    "id": "6",
+    "title": "clause",
+    "q": "1) 早く起きる\n2) 苦手",
+    "a": "早く起きるのは、苦手",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Translate into \"Not good at waking up early\""
+    }
+  },
+]

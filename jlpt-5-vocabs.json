@@ -1,0 +1,7277 @@
+[
+  {
+    "id": "ああ",
+    "title": "ああ",
+    "q": "ああ",
+    "a": "Oh!, Ah!",
+    "meta": {
+      "type": "vocab",
+      "word_type": "interjection"
+    }
+  },
+  {
+    "id": "会う",
+    "title": "会う",
+    "q": "会う",
+    "a": "meet",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "あう"
+    }
+  },
+  {
+    "id": "青い",
+    "title": "青い",
+    "q": "青い",
+    "a": "blue",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "あおい"
+    }
+  },
+  {
+    "id": "赤い",
+    "title": "赤い",
+    "q": "赤い",
+    "a": "red",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "あかい"
+    }
+  },
+  {
+    "id": "明るい",
+    "title": "明るい",
+    "q": "明るい",
+    "a": "bright",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "あかるい"
+    }
+  },
+  {
+    "id": "秋",
+    "title": "秋",
+    "q": "秋",
+    "a": "autumn, fall",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "あき"
+    }
+  },
+  {
+    "id": "開く",
+    "title": "開く",
+    "q": "開く",
+    "a": "open, to be opened",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "あく"
+    }
+  },
+  {
+    "id": "開ける",
+    "title": "開ける",
+    "q": "開ける",
+    "a": "to open",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "あける"
+    }
+  },
+  {
+    "id": "上げる",
+    "title": "上げる",
+    "q": "上げる",
+    "a": "raise, give",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "あげる"
+    }
+  },
+  {
+    "id": "朝",
+    "title": "朝",
+    "q": "朝",
+    "a": "morning",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "あさ"
+    }
+  },
+  {
+    "id": "朝御飯",
+    "title": "朝御飯",
+    "q": "朝御飯",
+    "a": "breakfast",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "あさごはん"
+    }
+  },
+  {
+    "id": "明後日",
+    "title": "明後日",
+    "q": "明後日",
+    "a": "the day after tomorrow",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "あさって"
+    }
+  },
+  {
+    "id": "足",
+    "title": "足",
+    "q": "足",
+    "a": "foot, leg",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "あし"
+    }
+  },
+  {
+    "id": "明日",
+    "title": "明日",
+    "q": "明日",
+    "a": "tomorrow",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "あした"
+    }
+  },
+  {
+    "id": "彼処",
+    "title": "あそこ",
+    "q": "あそこ",
+    "a": "there, over there",
+    "meta": {
+      "type": "vocab",
+      "word_type": "pronoun",
+      "kanji": "彼処"
+    }
+  },
+  {
+    "id": "遊ぶ",
+    "title": "遊ぶ",
+    "q": "遊ぶ",
+    "a": "to play, to amuse oneself",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "あそぶ"
+    }
+  },
+  {
+    "id": "暖かい",
+    "title": "暖かい",
+    "q": "暖かい",
+    "a": "warm",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "あたたかい"
+    }
+  },
+  {
+    "id": "頭",
+    "title": "頭",
+    "q": "頭",
+    "a": "head, brains",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "あたま"
+    }
+  },
+  {
+    "id": "新しい",
+    "title": "新しい",
+    "q": "新しい",
+    "a": "new, fresh",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "あたらしい"
+    }
+  },
+  {
+    "id": "彼方",
+    "title": "あちら",
+    "q": "あちら",
+    "a": "there, that",
+    "meta": {
+      "type": "vocab",
+      "word_type": "pronoun",
+      "kanji": "彼方"
+    }
+  },
+  {
+    "id": "暑い",
+    "title": "暑い",
+    "q": "暑い",
+    "a": "hot (weather, etc), warm",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "あつい"
+    }
+  },
+  {
+    "id": "熱い",
+    "title": "熱い",
+    "q": "熱い",
+    "a": "hot (things), heated",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "あつい"
+    }
+  },
+  {
+    "id": "厚い",
+    "title": "厚い",
+    "q": "厚い",
+    "a": "thick",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "あつい"
+    }
+  },
+  {
+    "id": "後",
+    "title": "後",
+    "q": "後",
+    "a": "back, rear, after, later, the rest",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "あと"
+    }
+  },
+  {
+    "id": "貴方",
+    "title": "あなた",
+    "q": "あなた",
+    "a": "you, dear (what a wife calls a husband)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "pronoun",
+      "kanji": "貴方",
+    }
+  },
+  {
+    "id": "兄",
+    "title": "兄",
+    "q": "兄",
+    "a": "elder brother",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "あに"
+    }
+  },
+  {
+    "id": "姉",
+    "title": "姉",
+    "q": "姉",
+    "a": "elder sister",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "あね"
+    }
+  },
+  {
+    "id": "彼の",
+    "title": "あの",
+    "q": "あの",
+    "a": "that, those",
+    "meta": {
+      "type": "vocab",
+      "word_type": "attribute",
+      "kanji": "彼の"
+    }
+  },
+  {
+    "id": "あの",
+    "title": "あの",
+    "q": "あの",
+    "a": "er, umm, uh",
+    "meta": {
+      "type": "vocab",
+      "word_type": "interjection"
+    }
+  },
+  {
+    "id": "アパート",
+    "title": "アパート",
+    "q": "アパート",
+    "a": "apartment, apartment building",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "浴びる",
+    "title": "浴びる",
+    "q": "浴びる",
+    "a": "to pour on oneself, to bathe in",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "あびる"
+    }
+  },
+  {
+    "id": "危ない",
+    "title": "危ない",
+    "q": "危ない",
+    "a": "dangerous",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "あぶない"
+    }
+  },
+  {
+    "id": "甘い",
+    "title": "甘い",
+    "q": "甘い",
+    "a": "sweet",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "あまい"
+    }
+  },
+  {
+    "id": "余り",
+    "title": "あまり",
+    "q": "あまり",
+    "a": "not very (with negative sentence), not much",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adverb",
+      "kanji": "余り"
+    }
+  },
+  {
+    "id": "雨",
+    "title": "雨",
+    "q": "雨",
+    "a": "rain",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "あめ"
+    }
+  },
+  {
+    "id": "洗う",
+    "title": "洗う",
+    "q": "洗う",
+    "a": "to wash",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "あらう"
+    }
+  },
+  {
+    "id": "ある",
+    "title": "ある",
+    "q": "ある",
+    "a": "to be (inanimate objects), to exist, to be located, to have, to possess, to take place",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb"
+    }
+  },
+  {
+    "id": "歩く",
+    "title": "歩く",
+    "q": "歩く",
+    "a": "to walk",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "あるく"
+    }
+  },
+  {
+    "id": "あれ",
+    "title": "あれ",
+    "q": "あれ",
+    "a": "that, that one",
+    "meta": {
+      "type": "vocab",
+      "word_type": "pronoun"
+    }
+  },
+  {
+    "id": "良い",
+    "title": "いい",
+    "q": "いい",
+    "a": "good, right, excellent, fine, suitable",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kanji": "良い",
+    }
+  },
+  {
+    "id": "いいえ",
+    "title": "いいえ",
+    "q": "いいえ",
+    "a": "no",
+    "meta": {
+      "type": "vocab",
+      "word_type": "interjection"
+    }
+  },
+  {
+    "id": "言う",
+    "title": "言う",
+    "q": "言う",
+    "a": "say, state, express, be said, be called, named",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "いう"
+    }
+  },
+  {
+    "id": "家",
+    "title": "家",
+    "q": "家",
+    "a": "house, home, household, family",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "いえ"
+    }
+  },
+  {
+    "id": "行く",
+    "title": "行く",
+    "q": "行く",
+    "a": "go, come, proceed",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "いく"
+    }
+  },
+  {
+    "id": "幾つ",
+    "title": "いくつ",
+    "q": "いくつ",
+    "a": "how old, how many",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kanji": "幾つ"
+    }
+  },
+  {
+    "id": "幾ら",
+    "title": "いくら",
+    "q": "いくら",
+    "a": "how much, how many, hardly any, not much, however~, no matter how~",
+    "meta": {
+      "type": "vocab",
+      "kanji": "幾ら"
+    }
+  },
+  {
+    "id": "池",
+    "title": "池",
+    "q": "池",
+    "a": "pond, pool, basin",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "いけ"
+    }
+  },
+  {
+    "id": "医者",
+    "title": "医者",
+    "q": "医者",
+    "a": "doctor, physician, surgeon",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "いしゃ"
+    }
+  },
+  {
+    "id": "いす",
+    "title": "いす",
+    "q": "いす",
+    "a": "chair, sofa",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kanji": "椅子",
+    }
+  },
+  {
+    "id": "忙しい",
+    "title": "忙しい",
+    "q": "忙しい",
+    "a": "be busy, be engaged",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "いそがしい"
+    }
+  },
+  {
+    "id": "痛い",
+    "title": "痛い",
+    "q": "痛い",
+    "a": "be painful, be sore, hurts",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "いたい"
+    }
+  },
+  {
+    "id": "一",
+    "title": "一",
+    "q": "一",
+    "a": "one",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "いち"
+    }
+  },
+  {
+    "id": "一日",
+    "title": "一日",
+    "q": "一日",
+    "a": "one day, all day",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "いちにち"
+    }
+  },
+  {
+    "id": "一番",
+    "title": "一番",
+    "q": "一番",
+    "a": "most, best, number one, first",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adverb",
+      "kana": "いちばん"
+    }
+  },
+  {
+    "id": "いつ",
+    "title": "いつ",
+    "q": "いつ",
+    "a": "when",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "五日",
+    "title": "五日",
+    "q": "五日",
+    "a": "the fifth of the month, five days",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "いつか"
+    }
+  },
+  {
+    "id": "一緒に",
+    "title": "一緒に",
+    "q": "一緒に",
+    "a": "together",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adverb",
+      "kana": "いっしょに"
+    }
+  },
+  {
+    "id": "五つ",
+    "title": "五つ",
+    "q": "五つ",
+    "a": "five items, five years of age",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "いつつ"
+    }
+  },
+  {
+    "id": "いつも",
+    "title": "いつも",
+    "q": "いつも",
+    "a": "always",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adverb"
+    }
+  },
+  {
+    "id": "今",
+    "title": "今",
+    "q": "今",
+    "a": "now, at present, just now, soon",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "いま"
+    }
+  },
+  {
+    "id": "意味",
+    "title": "意味",
+    "q": "意味",
+    "a": "meaning, sense, significance",
+    "meta": {
+      "type": "vocab",
+      "kana": "いみ"
+    }
+  },
+  {
+    "id": "妹",
+    "title": "妹",
+    "q": "妹",
+    "a": "younger sister",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "いもうと"
+    }
+  },
+  {
+    "id": "嫌",
+    "title": "嫌",
+    "q": "嫌",
+    "a": "disagreeable, unpleasant, distasteful, offensive",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjectival noun",
+      "kana": "いや"
+    }
+  },
+  {
+    "id": "入口",
+    "title": "入口",
+    "q": "入口",
+    "a": "entrance",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "いりぐち"
+    }
+  },
+  {
+    "id": "居る",
+    "title": "いる",
+    "q": "いる",
+    "a": "be, exist, live, reside",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kanji": "居る",
+    }
+  },
+  {
+    "id": "要る",
+    "title": "要る",
+    "q": "要る",
+    "a": "need, be necessary",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "いる"
+    }
+  },
+  {
+    "id": "入れる",
+    "title": "入れる",
+    "q": "入れる",
+    "a": "put in, add, send, include, prepare",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "いれる"
+    }
+  },
+  {
+    "id": "色",
+    "title": "色",
+    "q": "色",
+    "a": "colour",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "いろ"
+    }
+  },
+  {
+    "id": "いろいろ",
+    "title": "いろいろ",
+    "q": "いろいろ",
+    "a": "various, several",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kanji": "色々"
+    }
+  },
+  {
+    "id": "上",
+    "title": "上",
+    "q": "上",
+    "a": "up, upward, above, top, higher, superior, older",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "うえ"
+    }
+  },
+  {
+    "id": "後-1",
+    "title": "後",
+    "q": "後",
+    "a": "the back, the rear, behind, in back of",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "うしろ"
+    }
+  },
+  {
+    "id": "薄い",
+    "title": "薄い",
+    "q": "薄い",
+    "a": "thin, weak",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "うすい"
+    }
+  },
+  {
+    "id": "歌",
+    "title": "歌",
+    "q": "歌",
+    "a": "a song, singing",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "うた"
+    }
+  },
+  {
+    "id": "歌う",
+    "title": "歌う",
+    "q": "歌う",
+    "a": "sing",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "うたう"
+    }
+  },
+  {
+    "id": "うち",
+    "title": "うち",
+    "q": "うち",
+    "a": "a house, a household",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kanji": "家"
+    }
+  },
+  {
+    "id": "生まれる",
+    "title": "生まれる",
+    "q": "生まれる",
+    "a": "be born, come into existence",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "うまれる"
+    }
+  },
+  {
+    "id": "海",
+    "title": "海",
+    "q": "海",
+    "a": "sea, ocean",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "うみ"
+    }
+  },
+  {
+    "id": "売る",
+    "title": "売る",
+    "q": "売る",
+    "a": "to sell",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "うる"
+    }
+  },
+  {
+    "id": "上着",
+    "title": "上着",
+    "q": "上着",
+    "a": "coat, suit jacket, upper garment, outerwear",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "うわぎ"
+    }
+  },
+  {
+    "id": "絵",
+    "title": "絵",
+    "q": "絵",
+    "a": "picture, painting, drawing",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "え"
+    }
+  },
+  {
+    "id": "映画",
+    "title": "映画",
+    "q": "映画",
+    "a": "movie, motion picture",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "えいが"
+    }
+  },
+  {
+    "id": "映画館",
+    "title": "映画館",
+    "q": "映画館",
+    "a": "a movie theatre",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "えいがかん"
+    }
+  },
+  {
+    "id": "英語",
+    "title": "英語",
+    "q": "英語",
+    "a": "English, the English language",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "えいご"
+    }
+  },
+  {
+    "id": "ええ",
+    "title": "ええ",
+    "q": "ええ",
+    "a": "yes, yeah",
+    "meta": {
+      "type": "vocab",
+      "word_type": "interjection"
+    }
+  },
+  {
+    "id": "駅",
+    "title": "駅",
+    "q": "駅",
+    "a": "station",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "えき"
+    }
+  },
+  {
+    "id": "エレベーター",
+    "title": "エレベーター",
+    "q": "エレベーター",
+    "a": "elevator",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "～円",
+    "title": "～円",
+    "q": "～円",
+    "a": "~yen",
+    "meta": {
+      "type": "vocab",
+      "kana": "～えん"
+    }
+  },
+  {
+    "id": "鉛筆",
+    "title": "鉛筆",
+    "q": "鉛筆",
+    "a": "pencil",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "えんぴつ"
+    }
+  },
+  {
+    "id": "おいしい",
+    "title": "おいしい",
+    "q": "おいしい",
+    "a": "good-tasting, delicious",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kanji": "美味しい"
+    }
+  },
+  {
+    "id": "大きい",
+    "title": "大きい",
+    "q": "大きい",
+    "a": "big, large, great",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "おおきい"
+    }
+  },
+  {
+    "id": "大勢",
+    "title": "大勢",
+    "q": "大勢",
+    "a": "a great number of people, a crowd",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おおぜい"
+    }
+  },
+  {
+    "id": "お母さん",
+    "title": "お母さん",
+    "q": "お母さん",
+    "a": "mother",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おかあさん"
+    }
+  },
+  {
+    "id": "お菓子",
+    "title": "お菓子",
+    "q": "お菓子",
+    "a": "sweets, confectionary, cake, pastry",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おかし"
+    }
+  },
+  {
+    "id": "お金",
+    "title": "お金",
+    "q": "お金",
+    "a": "money",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おかね"
+    }
+  },
+  {
+    "id": "起きる",
+    "title": "起きる",
+    "q": "起きる",
+    "a": "wake up, get up; be up, be awake; take place, occur;",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "おきる"
+    }
+  },
+  {
+    "id": "置く",
+    "title": "置く",
+    "q": "置く",
+    "a": "put, place, lay, leave",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "おく"
+    }
+  },
+  {
+    "id": "奥さん",
+    "title": "奥さん",
+    "q": "奥さん",
+    "a": "wife, married woman",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おくさん"
+    }
+  },
+  {
+    "id": "お酒",
+    "title": "お酒",
+    "q": "お酒",
+    "a": "liquor, alcoholic beverage; sake, Japanese rice wine",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おさけ"
+    }
+  },
+  {
+    "id": "お皿",
+    "title": "お皿",
+    "q": "お皿",
+    "a": "dish, plate, saucer, etc",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おさら"
+    }
+  },
+  {
+    "id": "おじさん",
+    "title": "おじさん",
+    "q": "おじさん",
+    "a": "uncle, a middle-aged man",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kanji": "伯父さん"
+    }
+  },
+  {
+    "id": "おじいさん",
+    "title": "おじいさん",
+    "q": "おじいさん",
+    "a": "grandfather, an old man",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kanji": "お祖父さん"
+    }
+  },
+  {
+    "id": "教える",
+    "title": "教える",
+    "q": "教える",
+    "a": "teach; tell, inform",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "おしえる"
+    }
+  },
+  {
+    "id": "押す",
+    "title": "押す",
+    "q": "押す",
+    "a": "push; stamp, seal",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "おす"
+    }
+  },
+  {
+    "id": "遅い",
+    "title": "遅い",
+    "q": "遅い",
+    "a": "late; slow",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "おそい"
+    }
+  },
+  {
+    "id": "お茶",
+    "title": "お茶",
+    "q": "お茶",
+    "a": "tea",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おちゃ"
+    }
+  },
+  {
+    "id": "お手洗い",
+    "title": "お手洗い",
+    "q": "お手洗い",
+    "a": "lavatory, rest room, Ladies' Room, Men's Room",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おてあらい"
+    }
+  },
+  {
+    "id": "お父さん",
+    "title": "お父さん",
+    "q": "お父さん",
+    "a": "father",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おとうさん"
+    }
+  },
+  {
+    "id": "弟",
+    "title": "弟",
+    "q": "弟",
+    "a": "younger brother",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おとうと"
+    }
+  },
+  {
+    "id": "男",
+    "title": "男",
+    "q": "男",
+    "a": "man, male",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おとこ"
+    }
+  },
+  {
+    "id": "男の子",
+    "title": "男の子",
+    "q": "男の子",
+    "a": "boy",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おとこのこ"
+    }
+  },
+  {
+    "id": "おととい",
+    "title": "一昨日",
+    "q": "一昨日",
+    "a": "the day before yesterday",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おととい"
+    }
+  },
+  {
+    "id": "おととし",
+    "title": "一昨年",
+    "q": "一昨年",
+    "a": "the year before last",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おととし"
+    }
+  },
+  {
+    "id": "大人",
+    "title": "大人",
+    "q": "大人",
+    "a": "an adult, a grown up",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おとな"
+    }
+  },
+  {
+    "id": "おなか",
+    "title": "お腹",
+    "q": "お腹",
+    "a": "stomach",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おなか"
+    }
+  },
+  {
+    "id": "同じ",
+    "title": "同じ",
+    "q": "同じ",
+    "a": "the same, alike",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjectival noun",
+      "kana": "おなじ"
+    }
+  },
+  {
+    "id": "お兄さん",
+    "title": "お兄さん",
+    "q": "お兄さん",
+    "a": "older brother",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おにいさん"
+    }
+  },
+  {
+    "id": "お姉さん",
+    "title": "お姉さん",
+    "q": "お姉さん",
+    "a": "older sister",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おねえさん"
+    }
+  },
+  {
+    "id": "おばさん",
+    "title": "おばさん",
+    "q": "おばさん",
+    "a": "aunt; a middle-aged woman, a lady",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kanji": "伯母さん"
+    }
+  },
+  {
+    "id": "おばあさん",
+    "title": "おばあさん",
+    "q": "おばあさん",
+    "a": "grandmother; an elderly lady",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kanji": "お祖母さん"
+    }
+  },
+  {
+    "id": "お弁当",
+    "title": "お弁当",
+    "q": "お弁当",
+    "a": "box lunch",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おべんとう"
+    }
+  },
+  {
+    "id": "覚える",
+    "title": "覚える",
+    "q": "覚える",
+    "a": "memorize, remember, know; learn, master",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "おぼえる"
+    }
+  },
+  {
+    "id": "重い",
+    "title": "重い",
+    "q": "重い",
+    "a": "heavy; severe, grave",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "おもい"
+    }
+  },
+  {
+    "id": "おもしろい",
+    "title": "面白い",
+    "q": "面白い",
+    "a": "amusing, funny; pleasant, entertaining; interesting",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "おもしろい"
+    }
+  },
+  {
+    "id": "泳ぐ",
+    "title": "泳ぐ",
+    "q": "泳ぐ",
+    "a": "swim",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "およぐ"
+    }
+  },
+  {
+    "id": "降りる",
+    "title": "降りる",
+    "q": "降りる",
+    "a": "get off, disembark",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "おりる"
+    }
+  },
+  {
+    "id": "終わる",
+    "title": "終わる",
+    "q": "終わる",
+    "a": "to end; to finish doing something",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "おわる"
+    }
+  },
+  {
+    "id": "音楽",
+    "title": "音楽",
+    "q": "音楽",
+    "a": "music",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おんがく"
+    }
+  },
+  {
+    "id": "女",
+    "title": "女",
+    "q": "女",
+    "a": "woman, female",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おんな"
+    }
+  },
+  {
+    "id": "女の子",
+    "title": "女の子",
+    "q": "女の子",
+    "a": "girl",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "おんなのこ"
+    }
+  },
+  {
+    "id": "~回",
+    "title": "~回",
+    "q": "~回",
+    "a": "~th times",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~かい"
+    }
+  },
+  {
+    "id": "~階",
+    "title": "~階",
+    "q": "~階",
+    "a": "~th floor",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~かい"
+    }
+  },
+  {
+    "id": "外国",
+    "title": "外国",
+    "q": "外国",
+    "a": "foreign country",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "がいこく"
+    }
+  },
+  {
+    "id": "外国人",
+    "title": "外国人",
+    "q": "外国人",
+    "a": "foreigner",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "がいこくじん"
+    }
+  },
+  {
+    "id": "会社",
+    "title": "会社",
+    "q": "会社",
+    "a": "corporation",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かいしゃ"
+    }
+  },
+  {
+    "id": "階段",
+    "title": "階段",
+    "q": "階段",
+    "a": "stairs",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かいだん"
+    }
+  },
+  {
+    "id": "買い物",
+    "title": "買い物",
+    "q": "買い物",
+    "a": "shopping",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かいもの"
+    }
+  },
+  {
+    "id": "買う",
+    "title": "買う",
+    "q": "買う",
+    "a": "buy, shop, purchase",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "かう"
+    }
+  },
+  {
+    "id": "返す",
+    "title": "返す",
+    "q": "返す",
+    "a": "return, turn over",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "かえす"
+    }
+  },
+  {
+    "id": "帰る",
+    "title": "帰る",
+    "q": "帰る",
+    "a": "go back, return",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "かえる"
+    }
+  },
+  {
+    "id": "顔",
+    "title": "顔",
+    "q": "顔",
+    "a": "face",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かお"
+    }
+  },
+  {
+    "id": "かかる",
+    "title": "かかる",
+    "q": "かかる",
+    "a": "take, require (time/money/resource)",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "時間がかかる",
+      "specific": "時間がかかる - to take time",
+      "word_type": "verb",
+      "kanji": "掛かる",
+    }
+  },
+  {
+    "id": "かぎ",
+    "title": "鍵",
+    "q": "鍵",
+    "a": "key",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かぎ"
+    }
+  },
+  {
+    "id": "書く",
+    "title": "書く",
+    "q": "書く",
+    "a": "write",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "かく"
+    }
+  },
+  {
+    "id": "学生",
+    "title": "学生",
+    "q": "学生",
+    "a": "student",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "がくせい"
+    }
+  },
+  {
+    "id": "~か月",
+    "title": "~か月",
+    "q": "~か月",
+    "a": "~months",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~かげつ"
+    }
+  },
+  {
+    "id": "かける",
+    "title": "かける",
+    "q": "かける",
+    "a": "to wear (glasses)",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "眼鏡をかける",
+      "specific": "眼鏡をかける - to wear glasses",
+      "kanji": "掛ける",
+      "word_type": "verb",
+    }
+  },
+  {
+    "id": "かける-1",
+    "title": "かける",
+    "q": "かける",
+    "a": "to make (a call)",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "電話をかける",
+      "specific": "電話をかける - to make a call",
+      "kanji": "掛ける",
+      "word_type": "verb",
+    }
+  },
+  {
+    "id": "傘",
+    "title": "傘",
+    "q": "傘",
+    "a": "umbrella",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かさ"
+    }
+  },
+  {
+    "id": "貸す",
+    "title": "貸す",
+    "q": "貸す",
+    "a": "rent, lease",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "かす"
+    }
+  },
+  {
+    "id": "風",
+    "title": "風",
+    "q": "風",
+    "a": "wind, breeze",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かぜ"
+    }
+  },
+  {
+    "id": "家族",
+    "title": "家族",
+    "q": "家族",
+    "a": "family",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かぞく"
+    }
+  },
+  {
+    "id": "この方",
+    "title": "この方",
+    "q": "この方",
+    "a": "this way",
+    "meta": {
+      "type": "vocab",
+      "kana": "このかた"
+    }
+  },
+  {
+    "id": "片仮名",
+    "title": "片仮名",
+    "q": "片仮名",
+    "a": "Katakana",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かたかな"
+    }
+  },
+  {
+    "id": "~月",
+    "title": "~月",
+    "q": "~月",
+    "a": "~month",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~がつ"
+    }
+  },
+  {
+    "id": "学校",
+    "title": "学校",
+    "q": "学校",
+    "a": "school",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "がっこう"
+    }
+  },
+  {
+    "id": "角",
+    "title": "角",
+    "q": "角",
+    "a": "corner",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かど"
+    }
+  },
+  {
+    "id": "家内",
+    "title": "家内",
+    "q": "家内",
+    "a": "wife",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かない"
+    }
+  },
+  {
+    "id": "かばん",
+    "title": "かばん",
+    "q": "かばん",
+    "a": "bag",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kanji": "鞄"
+    }
+  },
+  {
+    "id": "花瓶",
+    "title": "花瓶",
+    "q": "花瓶",
+    "a": "vase",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かびん"
+    }
+  },
+  {
+    "id": "かぶる",
+    "title": "かぶる",
+    "q": "かぶる",
+    "a": "wear (hat, cap, mask, helmet)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kanji": "被る"
+    }
+  },
+  {
+    "id": "紙",
+    "title": "紙",
+    "q": "紙",
+    "a": "paper",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かみ"
+    }
+  },
+  {
+    "id": "カメラ",
+    "title": "カメラ",
+    "q": "カメラ",
+    "a": "camera",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "火曜日",
+    "title": "火曜日",
+    "q": "火曜日",
+    "a": "Tuesday",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かようび"
+    }
+  },
+  {
+    "id": "辛い",
+    "title": "辛い",
+    "q": "辛い",
+    "a": "hot, spicy",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "からい"
+    }
+  },
+  {
+    "id": "体",
+    "title": "体",
+    "q": "体",
+    "a": "body",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "からだ"
+    }
+  },
+  {
+    "id": "借りる",
+    "title": "借りる",
+    "q": "借りる",
+    "a": "borrow",
+    "meta": {
+      "type": "vocab",
+      "kana": "かりる"
+    }
+  },
+  {
+    "id": "~がる",
+    "title": "~がる",
+    "q": "~がる",
+    "a": "to feel ~",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "specific": "残念がる - to feel sorry"
+    }
+  },
+  {
+    "id": "軽い",
+    "title": "軽い",
+    "q": "軽い",
+    "a": "light",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "かるい"
+    }
+  },
+  {
+    "id": "カレンダー",
+    "title": "カレンダー",
+    "q": "カレンダー",
+    "a": "calendar",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "川",
+    "title": "川",
+    "q": "川",
+    "a": "river",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かわ"
+    }
+  },
+  {
+    "id": "河",
+    "title": "河",
+    "q": "河",
+    "a": "river",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かわ"
+    }
+  },
+  {
+    "id": "~側",
+    "title": "~側",
+    "q": "~側",
+    "a": "~('s) side",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~がわ",
+      "specific": "こちら側 - this side"
+    }
+  },
+  {
+    "id": "かわいい",
+    "title": "かわいい",
+    "q": "かわいい",
+    "a": "cute, adorable",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kanji": "可愛い"
+    }
+  },
+  {
+    "id": "漢字",
+    "title": "漢字",
+    "q": "漢字",
+    "a": "kanji",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "かんじ"
+    }
+  },
+  {
+    "id": "木",
+    "title": "木",
+    "q": "木",
+    "a": "wood, tree",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "き"
+    }
+  },
+  {
+    "id": "黄色い",
+    "title": "黄色い",
+    "q": "黄色い",
+    "a": "yellow",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "きいろい"
+    }
+  },
+  {
+    "id": "消える",
+    "title": "消える",
+    "q": "消える",
+    "a": "to vanish",
+    "meta": {
+      "type": "vocab",
+      "kana": "きえる"
+    }
+  },
+  {
+    "id": "聞く",
+    "title": "聞く",
+    "q": "聞く",
+    "a": "to hear",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "きく"
+    }
+  },
+  {
+    "id": "北",
+    "title": "北",
+    "q": "北",
+    "a": "north",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "きた"
+    }
+  },
+  {
+    "id": "ギター",
+    "title": "ギター",
+    "q": "ギター",
+    "a": "guitar",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "汚い",
+    "title": "汚い",
+    "q": "汚い",
+    "a": "dirty",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "きたない"
+    }
+  },
+  {
+    "id": "喫茶店",
+    "title": "喫茶店",
+    "q": "喫茶店",
+    "a": "coffee lounge",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "きっさてん"
+    }
+  },
+  {
+    "id": "切手",
+    "title": "切手",
+    "q": "切手",
+    "a": "postage stamp",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "きって"
+    }
+  },
+  {
+    "id": "切符",
+    "title": "切符",
+    "q": "切符",
+    "a": "ticket",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "きっぷ"
+    }
+  },
+  {
+    "id": "昨日",
+    "title": "昨日",
+    "q": "昨日",
+    "a": "yesterday",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "きのう"
+    }
+  },
+  {
+    "id": "九",
+    "title": "九",
+    "q": "九",
+    "a": "nine",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "きゅう"
+    }
+  },
+  {
+    "id": "牛肉",
+    "title": "牛肉",
+    "q": "牛肉",
+    "a": "beef",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ぎゅうにく"
+    }
+  },
+  {
+    "id": "今日",
+    "title": "今日",
+    "q": "今日",
+    "a": "today",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "きょう"
+    }
+  },
+  {
+    "id": "教室",
+    "title": "教室",
+    "q": "教室",
+    "a": "classroom",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "きょうしつ"
+    }
+  },
+  {
+    "id": "兄弟",
+    "title": "兄弟",
+    "q": "兄弟",
+    "a": "siblings",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "きょうだい"
+    }
+  },
+  {
+    "id": "去年",
+    "title": "去年",
+    "q": "去年",
+    "a": "last year",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "きょねん"
+    }
+  },
+  {
+    "id": "嫌い",
+    "title": "嫌い",
+    "q": "嫌い",
+    "a": "dislike, hate",
+    "meta": {
+      "type": "vocab",
+      "kana": "きらい"
+    }
+  },
+  {
+    "id": "切る",
+    "title": "切る",
+    "q": "切る",
+    "a": "to cut, to chop",
+    "meta": {
+      "type": "vocab",
+      "kana": "きる",
+      "word_type": "verb"
+    }
+  },
+  {
+    "id": "着る",
+    "title": "着る",
+    "q": "着る",
+    "a": "to wear",
+    "meta": {
+      "type": "vocab",
+      "kana": "きる"
+    }
+  },
+  {
+    "id": "きれい",
+    "title": "きれい",
+    "q": "きれい",
+    "a": "pretty, beautiful, clean",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kanji": "綺麗"
+    }
+  },
+  {
+    "id": "キロ",
+    "title": "キロ",
+    "q": "キロ",
+    "a": "kilogram",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "キログラム",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "キロ-1",
+    "title": "キロ",
+    "q": "キロ",
+    "a": "kilometer",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "キロメートル",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "銀行",
+    "title": "銀行",
+    "q": "銀行",
+    "a": "bank",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ぎんこう"
+    }
+  },
+  {
+    "id": "金曜日",
+    "title": "金曜日",
+    "q": "金曜日",
+    "a": "Friday",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "きんようび"
+    }
+  },
+  {
+    "id": "工",
+    "title": "工",
+    "q": "工",
+    "a": "~worker, ~smith",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "こう",
+      "specific": "印刷工 - pressman (lit. printing worker)"
+    }
+  },
+  {
+    "id": "薬",
+    "title": "薬",
+    "q": "薬",
+    "a": "medicine",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "くすり"
+    }
+  },
+  {
+    "id": "ください",
+    "title": "ください",
+    "q": "ください",
+    "a": "please",
+    "meta": {
+      "type": "vocab",
+      "kanji": "下さい"
+    }
+  },
+  {
+    "id": "果物",
+    "title": "果物",
+    "q": "果物",
+    "a": "fruit",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "くだもの"
+    }
+  },
+  {
+    "id": "口",
+    "title": "口",
+    "q": "口",
+    "a": "mouth, opening, orifice",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "くち"
+    }
+  },
+  {
+    "id": "靴",
+    "title": "靴",
+    "q": "靴",
+    "a": "shoes",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "くつ"
+    }
+  },
+  {
+    "id": "靴下",
+    "title": "靴下",
+    "q": "靴下",
+    "a": "socks",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "くつした"
+    }
+  },
+  {
+    "id": "国",
+    "title": "国",
+    "q": "国",
+    "a": "country",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "くに"
+    }
+  },
+  {
+    "id": "曇る",
+    "title": "曇る",
+    "q": "曇る",
+    "a": "to become cloudy/dim",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "くもる"
+    }
+  },
+  {
+    "id": "暗い",
+    "title": "暗い",
+    "q": "暗い",
+    "a": "dark, gloomy",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "くらい"
+    }
+  },
+  {
+    "id": "~くらい",
+    "title": "~くらい",
+    "q": "~くらい",
+    "a": "approximate (quantity)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kanji": "位"
+    }
+  },
+  {
+    "id": "~ぐらい",
+    "title": "~ぐらい",
+    "q": "~ぐらい",
+    "a": "approximate (quantity)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "specific": "100人くらい - approximately 100 people"
+    }
+  },
+  {
+    "id": "クラス",
+    "title": "クラス",
+    "q": "クラス",
+    "a": "class",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "グラム",
+    "title": "グラム",
+    "q": "グラム",
+    "a": "gram",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "来る",
+    "title": "来る",
+    "q": "来る",
+    "a": "to come",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "くる"
+    }
+  },
+  {
+    "id": "車",
+    "title": "車",
+    "q": "車",
+    "a": "car, vehicle, wheel",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "くるま"
+    }
+  },
+  {
+    "id": "黒い",
+    "title": "黒い",
+    "q": "黒い",
+    "a": "black, dark",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "くろい"
+    }
+  },
+  {
+    "id": "今朝",
+    "title": "今朝",
+    "q": "今朝",
+    "a": "this morning",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "けさ"
+    }
+  },
+  {
+    "id": "消す",
+    "title": "消す",
+    "q": "消す",
+    "a": "to erase, to turn off",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "けす"
+    }
+  },
+  {
+    "id": "結構",
+    "title": "結構",
+    "q": "結構",
+    "a": "splendid, nice, well enough",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "けっこう"
+    }
+  },
+  {
+    "id": "結婚",
+    "title": "結婚",
+    "q": "結婚",
+    "a": "marriage",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "けっこん"
+    }
+  },
+  {
+    "id": "月曜日",
+    "title": "月曜日",
+    "q": "月曜日",
+    "a": "Monday",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "げつようび"
+    }
+  },
+  {
+    "id": "玄関",
+    "title": "玄関",
+    "q": "玄関",
+    "a": "entranceway, entry hall",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "げんかん"
+    }
+  },
+  {
+    "id": "元気",
+    "title": "元気",
+    "q": "元気",
+    "a": "health, spirit, energy",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "げんき"
+    }
+  },
+  {
+    "id": "~個",
+    "title": "~個",
+    "q": "~個",
+    "a": "counter for military units/articles",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~こ"
+    }
+  },
+  {
+    "id": "五",
+    "title": "五",
+    "q": "五",
+    "a": "five",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ご"
+    }
+  },
+  {
+    "id": "~語",
+    "title": "~語",
+    "q": "~語",
+    "a": "language, word",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~ご",
+      "specifig": "日本語 - Japanese"
+    }
+  },
+  {
+    "id": "公園",
+    "title": "公園",
+    "q": "公園",
+    "a": "(public) park",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "こうえん"
+    }
+  },
+  {
+    "id": "交番",
+    "title": "交番",
+    "q": "交番",
+    "a": "police box",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "こうばん"
+    }
+  },
+  {
+    "id": "声",
+    "title": "声",
+    "q": "声",
+    "a": "voice",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "こえ"
+    }
+  },
+  {
+    "id": "コート",
+    "title": "コート",
+    "q": "コート",
+    "a": "coat, tennis court",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "ここ",
+    "title": "ここ",
+    "q": "ここ",
+    "a": "here, this place",
+    "meta": {
+      "type": "vocab",
+      "word_type": "pronoun"
+    }
+  },
+  {
+    "id": "午後",
+    "title": "午後",
+    "q": "午後",
+    "a": "afternoon, PM",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ごご"
+    }
+  },
+  {
+    "id": "九日",
+    "title": "九日",
+    "q": "九日",
+    "a": "nine days, ninth of the month",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ここのか"
+    }
+  },
+  {
+    "id": "九つ",
+    "title": "九つ",
+    "q": "九つ",
+    "a": "nine",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ここのつ"
+    }
+  },
+  {
+    "id": "御主人",
+    "title": "御主人",
+    "q": "御主人",
+    "a": "husband (hon)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ごしゅじん"
+    }
+  },
+  {
+    "id": "午前",
+    "title": "午前",
+    "q": "午前",
+    "a": "morning, AM",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ごぜん"
+    }
+  },
+  {
+    "id": "答える",
+    "title": "答える",
+    "q": "答える",
+    "a": "to answer, to reply",
+    "meta": {
+      "type": "vocab",
+      "kana": "こたえる",
+      "word_type": "verb"
+    }
+  },
+  {
+    "id": "こちら",
+    "title": "こちら",
+    "q": "こちら",
+    "a": "this person, this direction, this side, thereafter",
+    "meta": {
+      "type": "vocab",
+      "word_type": "pronoun"
+    }
+  },
+  {
+    "id": "コップ",
+    "title": "コップ",
+    "q": "コップ",
+    "a": "glass",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "今年",
+    "title": "今年",
+    "q": "今年",
+    "a": "this year",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ことし"
+    }
+  },
+  {
+    "id": "言葉",
+    "title": "言葉",
+    "q": "言葉",
+    "a": "word, language, speech",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ことば"
+    }
+  },
+  {
+    "id": "子供",
+    "title": "子供",
+    "q": "子供",
+    "a": "child",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "こども"
+    }
+  },
+  {
+    "id": "この",
+    "title": "この",
+    "q": "この",
+    "a": "this",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "御飯",
+    "title": "御飯",
+    "q": "御飯",
+    "a": "(cooked) rice",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ごはん"
+    }
+  },
+  {
+    "id": "困る",
+    "title": "困る",
+    "q": "困る",
+    "a": "to be worried/bothered",
+    "meta": {
+      "type": "vocab",
+      "kana": "こまる"
+    }
+  },
+  {
+    "id": "これ",
+    "title": "これ",
+    "q": "これ",
+    "a": "this",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "~ころ",
+    "title": "~ころ",
+    "q": "~ころ / ~ごろ",
+    "a": "time, about, toward, approx. (time)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kanji": "頃"
+    }
+  },
+  {
+    "id": "今月",
+    "title": "今月",
+    "q": "今月",
+    "a": "this month",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "こんげつ"
+    }
+  },
+  {
+    "id": "今週",
+    "title": "今週",
+    "q": "今週",
+    "a": "this week",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "こんしゅう"
+    }
+  },
+  {
+    "id": "こんな",
+    "title": "こんな",
+    "q": "こんな",
+    "a": "such, like this",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "今晩",
+    "title": "今晩",
+    "q": "今晩",
+    "a": "tonight, this evening",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "こんばん"
+    }
+  },
+  {
+    "id": "さあ",
+    "title": "さあ",
+    "q": "さあ",
+    "a": "come, come now",
+    "meta": {
+      "type": "vocab",
+    }
+  },
+  {
+    "id": "~歳",
+    "title": "~歳",
+    "q": "~歳",
+    "a": "~years old",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~さい"
+    }
+  },
+  {
+    "id": "魚",
+    "title": "魚",
+    "q": "魚",
+    "a": "fish",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "さかな"
+    }
+  },
+  {
+    "id": "先",
+    "title": "先",
+    "q": "先",
+    "a": "the future, priority, precedence, former, previous, old, late",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "さき"
+    }
+  },
+  {
+    "id": "咲く",
+    "title": "咲く",
+    "q": "咲く",
+    "a": "to bloom",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "さく"
+    }
+  },
+  {
+    "id": "作文",
+    "title": "作文",
+    "q": "作文",
+    "a": "composition, writing",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "さくぶん"
+    }
+  },
+  {
+    "id": "さす",
+    "title": "さす",
+    "q": "さす",
+    "a": "to raise (stretch out) hands",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "傘をさす",
+      "specific": "傘をさす - to raise umbrella",
+      "word_type": "verb"
+    }
+  },
+  {
+    "id": "~冊",
+    "title": "~冊",
+    "q": "~冊",
+    "a": "counter for books",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~さつ"
+    }
+  },
+  {
+    "id": "雑誌",
+    "title": "雑誌",
+    "q": "雑誌",
+    "a": "journal, magazine",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ざっし"
+    }
+  },
+  {
+    "id": "砂糖",
+    "title": "砂糖",
+    "q": "砂糖",
+    "a": "sugar",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "さとう"
+    }
+  },
+  {
+    "id": "寒い",
+    "title": "寒い",
+    "q": "寒い",
+    "a": "cold (weather)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "さむい"
+    }
+  },
+  {
+    "id": "再来年",
+    "title": "再来年",
+    "q": "再来年",
+    "a": "year after next",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "さらいねん"
+    }
+  },
+  {
+    "id": "~さん",
+    "title": "~さん",
+    "q": "~さん",
+    "a": "Mr., Mrs., Ms.",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix"
+    }
+  },
+  {
+    "id": "三",
+    "title": "三",
+    "q": "三",
+    "a": "three",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "さん"
+    }
+  },
+  {
+    "id": "散歩",
+    "title": "散歩",
+    "q": "散歩",
+    "a": "walk, stroll",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "さんぽ"
+    }
+  },
+  {
+    "id": "四",
+    "title": "四",
+    "q": "四",
+    "a": "four",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "し, よん"
+    }
+  },
+  {
+    "id": "~時",
+    "title": "~時",
+    "q": "~時",
+    "a": "time (o'clock)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~じ"
+    }
+  },
+  {
+    "id": "塩",
+    "title": "塩",
+    "q": "塩",
+    "a": "salt",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "しお"
+    }
+  },
+  {
+    "id": "しかし",
+    "title": "しかし",
+    "q": "しかし",
+    "a": "however, but",
+    "meta": {
+      "type": "vocab",
+      "word_type": "conjunction",
+      "kanji": "然し"
+    }
+  },
+  {
+    "id": "時間",
+    "title": "時間",
+    "q": "時間",
+    "a": "time",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "じかん"
+    }
+  },
+  {
+    "id": "~時間",
+    "title": "~時間",
+    "q": "~時間",
+    "a": "~ hours",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~じかん"
+    }
+  },
+  {
+    "id": "仕事",
+    "title": "仕事",
+    "q": "仕事",
+    "a": "work, occupation, employment",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "しごと"
+    }
+  },
+  {
+    "id": "辞書",
+    "title": "辞書",
+    "q": "辞書",
+    "a": "dictionary, lexicon",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "じしょ"
+    }
+  },
+  {
+    "id": "静か",
+    "title": "静か",
+    "q": "静か",
+    "a": "quiet, peaceful",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "しずか"
+    }
+  },
+  {
+    "id": "下",
+    "title": "下",
+    "q": "下",
+    "a": "under, below, beneath",
+    "meta": {
+      "type": "vocab",
+      "kana": "した"
+    }
+  },
+  {
+    "id": "七",
+    "title": "七",
+    "q": "七",
+    "a": "seven",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "しち, なな"
+    }
+  },
+  {
+    "id": "質問",
+    "title": "質問",
+    "q": "質問",
+    "a": "question, inquiry",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "しつもん"
+    }
+  },
+  {
+    "id": "自転車",
+    "title": "自転車",
+    "q": "自転車",
+    "a": "bicycle",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "じてんしゃ"
+    }
+  },
+  {
+    "id": "自動車",
+    "title": "自動車",
+    "q": "自動車",
+    "a": "automobile",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "じどうしゃ"
+    }
+  },
+  {
+    "id": "死ぬ",
+    "title": "死ぬ",
+    "q": "死ぬ",
+    "a": "to die",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "しぬ"
+    }
+  },
+  {
+    "id": "字引",
+    "title": "字引",
+    "q": "字引",
+    "a": "dictionary",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "じびき"
+    }
+  },
+  {
+    "id": "自分",
+    "title": "自分",
+    "q": "自分",
+    "a": "myself, oneself",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "じぶん"
+    }
+  },
+  {
+    "id": "閉まる",
+    "title": "閉まる",
+    "q": "閉まる",
+    "a": "to close, to be closed",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "しまる"
+    }
+  },
+  {
+    "id": "閉める",
+    "title": "閉める",
+    "q": "閉める",
+    "a": "to close, to shut",
+    "meta": {
+      "type": "vocab",
+      "kana": "しめる"
+    }
+  },
+  {
+    "id": "締める",
+    "title": "締める",
+    "q": "締める",
+    "a": "to tie, to fasten",
+    "meta": {
+      "type": "vocab",
+      "kana": "しめる"
+    }
+  },
+  {
+    "id": "じゃ",
+    "title": "じゃ",
+    "q": "じゃ",
+    "a": "well, well then",
+    "meta": {
+      "type": "vocab",
+      "word_type": "interjection"
+    }
+  },
+  {
+    "id": "じゃあ",
+    "title": "じゃあ",
+    "q": "じゃあ",
+    "a": "well, well then",
+    "meta": {
+      "type": "vocab",
+      "word_type": "interjection"
+    }
+  },
+  {
+    "id": "写真",
+    "title": "写真",
+    "q": "写真",
+    "a": "photograph",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "しゃしん"
+    }
+  },
+  {
+    "id": "シャツ",
+    "title": "シャツ",
+    "q": "シャツ",
+    "a": "shirt, singlet",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "十",
+    "title": "十",
+    "q": "十",
+    "a": "ten",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "じゅう"
+    }
+  },
+  {
+    "id": "~週間",
+    "title": "~週間",
+    "q": "~週間",
+    "a": "~weeks",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~しゅうかん"
+    }
+  },
+  {
+    "id": "授業",
+    "title": "授業",
+    "q": "授業",
+    "a": "lesson, class work",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "じゅぎょう"
+    }
+  },
+  {
+    "id": "宿題",
+    "title": "宿題",
+    "q": "宿題",
+    "a": "homework",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "しゅくだい"
+    }
+  },
+  {
+    "id": "上手",
+    "title": "上手",
+    "q": "上手",
+    "a": "skill, skillful, dexterity",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "じょうず"
+    }
+  },
+  {
+    "id": "丈夫",
+    "title": "丈夫",
+    "q": "丈夫",
+    "a": "hero, gentleman, warrior, good health, robustness",
+    "meta": {
+      "type": "vocab",
+      "kana": "じょうぶ"
+    }
+  },
+  {
+    "id": "醤油",
+    "title": "醤油",
+    "q": "醤油",
+    "a": "soy sauce",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "しょうゆ"
+    }
+  },
+  {
+    "id": "食堂",
+    "title": "食堂",
+    "q": "食堂",
+    "a": "cafeteria, dining hall",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "しょくどう"
+    }
+  },
+  {
+    "id": "知る",
+    "title": "知る",
+    "q": "知る",
+    "a": "to know, to understand, to be acquainted with, to feel",
+    "meta": {
+      "type": "vocab",
+      "kana": "しる"
+    }
+  },
+  {
+    "id": "白い",
+    "title": "白い",
+    "q": "白い",
+    "a": "white",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "しろい"
+    }
+  },
+  {
+    "id": "~人",
+    "title": "~人",
+    "q": "~人",
+    "a": "~person",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~じん"
+    }
+  },
+  {
+    "id": "新聞",
+    "title": "新聞",
+    "q": "新聞",
+    "a": "newspaper",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "しんぶん"
+    }
+  },
+  {
+    "id": "水曜日",
+    "title": "水曜日",
+    "q": "水曜日",
+    "a": "Wednesday",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "すいようび"
+    }
+  },
+  {
+    "id": "吸う",
+    "title": "吸う",
+    "q": "吸う",
+    "a": "to smoke, to breathe, to suck in",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "すう"
+    }
+  },
+  {
+    "id": "スカート",
+    "title": "スカート",
+    "q": "スカート",
+    "a": "skirt",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "好き",
+    "title": "好き",
+    "q": "好き",
+    "a": "liking, fondness, love",
+    "meta": {
+      "type": "vocab",
+      "kana": "すき"
+    }
+  },
+  {
+    "id": "~すぎ",
+    "title": "~すぎ",
+    "q": "~すぎ",
+    "a": "past, after, too much",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "すぐに",
+    "title": "すぐに",
+    "q": "すぐに",
+    "a": "instantly",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "少し",
+    "title": "少し",
+    "q": "少し",
+    "a": "small quantity, little, few, little while, short distance",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "すこし"
+    }
+  },
+  {
+    "id": "涼しい",
+    "title": "涼しい",
+    "q": "涼しい",
+    "a": "cool, refreshing",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "すずしい"
+    }
+  },
+  {
+    "id": "~ずつ",
+    "title": "~ずつ",
+    "q": "~ずつ",
+    "a": "apiece, each, at a time",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix"
+    }
+  },
+  {
+    "id": "ストーブ",
+    "title": "ストーブ",
+    "q": "ストーブ",
+    "a": "heater",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "スプーン",
+    "title": "スプーン",
+    "q": "スプーン",
+    "a": "spoon",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "スポーツ",
+    "title": "スポーツ",
+    "q": "スポーツ",
+    "a": "sport(s)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "ズボン",
+    "title": "ズボン",
+    "q": "ズボン",
+    "a": "trousers",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "住む",
+    "title": "住む",
+    "q": "住む",
+    "a": "to abide, to reside, to live in, to inhabit, to dwell",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "すむ"
+    }
+  },
+  {
+    "id": "スリッパ",
+    "title": "スリッパ",
+    "q": "スリッパ",
+    "a": "slippers",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "する",
+    "title": "する",
+    "q": "する",
+    "a": "to do, to try",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb"
+    }
+  },
+  {
+    "id": "座る",
+    "title": "座る",
+    "q": "座る",
+    "a": "to sit",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "すわる"
+    }
+  },
+  {
+    "id": "背",
+    "title": "背",
+    "q": "背",
+    "a": "height, stature",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "せい"
+    }
+  },
+  {
+    "id": "生徒",
+    "title": "生徒",
+    "q": "生徒",
+    "a": "pupil",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "せいと"
+    }
+  },
+  {
+    "id": "セーター",
+    "title": "セーター",
+    "q": "セーター",
+    "a": "sweater",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "せっけん",
+    "title": "せっけん",
+    "q": "せっけん",
+    "a": "soap",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "背広",
+    "title": "背広",
+    "q": "背広",
+    "a": "business suit",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "せびろ"
+    }
+  },
+  {
+    "id": "狭い",
+    "title": "狭い",
+    "q": "狭い",
+    "a": "narrow, confined, small",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "せまい"
+    }
+  },
+  {
+    "id": "ゼロ",
+    "title": "ゼロ",
+    "q": "ゼロ",
+    "a": "zero",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "千",
+    "title": "千",
+    "q": "千",
+    "a": "thousand, many",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "せん"
+    }
+  },
+  {
+    "id": "先月",
+    "title": "先月",
+    "q": "先月",
+    "a": "last month",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "せんげつ"
+    }
+  },
+  {
+    "id": "先週",
+    "title": "先週",
+    "q": "先週",
+    "a": "last week, the week before",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "せんしゅう"
+    }
+  },
+  {
+    "id": "先生",
+    "title": "先生",
+    "q": "先生",
+    "a": "teacher, master, doctor",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "せんせい"
+    }
+  },
+  {
+    "id": "洗濯",
+    "title": "洗濯",
+    "q": "洗濯",
+    "a": "washing, laundry",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "せんたく"
+    }
+  },
+  {
+    "id": "全部",
+    "title": "全部",
+    "q": "全部",
+    "a": "all, entire, whole, altogether",
+    "meta": {
+      "type": "vocab",
+      "kana": "ぜんぶ"
+    }
+  },
+  {
+    "id": "そう",
+    "title": "そう",
+    "q": "そう (そうです)",
+    "a": "so, really",
+    "meta": {
+      "type": "vocab",
+    }
+  },
+  {
+    "id": "掃除",
+    "title": "掃除",
+    "q": "掃除",
+    "a": "cleaning, sweeping",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "そうじ"
+    }
+  },
+  {
+    "id": "そうして",
+    "title": "そうして",
+    "q": "そうして",
+    "a": "and, like that",
+    "meta": {
+      "type": "vocab",
+      "word_type": "conjunction",
+      "kanji": "然うして",
+    }
+  },
+  {
+    "id": "そして",
+    "title": "そして",
+    "q": "そして",
+    "a": "and, and then",
+    "meta": {
+      "type": "vocab",
+      "word_type": "conjunction",
+      "kanji": "然して",
+    }
+  },
+  {
+    "id": "そこ",
+    "title": "そこ",
+    "q": "そこ",
+    "a": "that place, there",
+    "meta": {
+      "type": "vocab",
+      "word_type": "pronoun"
+    }
+  },
+  {
+    "id": "そちら",
+    "title": "そちら",
+    "q": "そちら",
+    "a": "over there, the other",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "外",
+    "title": "外",
+    "q": "外",
+    "a": "outside, exterior",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "そと"
+    }
+  },
+  {
+    "id": "その",
+    "title": "その",
+    "q": "その",
+    "a": "that, the",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "そば",
+    "title": "そば",
+    "q": "そば",
+    "a": "near, close, beside, vicinity, proximity, besides, while",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "窓のそば",
+      "specific": "窓のそば - near the window"
+    }
+  },
+  {
+    "id": "空",
+    "title": "空",
+    "q": "空",
+    "a": "the sky",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "そら"
+    }
+  },
+  {
+    "id": "それ",
+    "title": "それ",
+    "q": "それ",
+    "a": "that, it",
+    "meta": {
+      "type": "vocab",
+      "word_type": "pronoun"
+    }
+  },
+  {
+    "id": "それから",
+    "title": "それから",
+    "q": "それから",
+    "a": "and then, after that",
+    "meta": {
+      "type": "vocab",
+      "word_type": "conjunction"
+    }
+  },
+  {
+    "id": "それでは",
+    "title": "それでは",
+    "q": "それでは",
+    "a": "in that situation, well then...",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "~台",
+    "title": "~台",
+    "q": "~台",
+    "a": "counter for vehicles",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~だい"
+    }
+  },
+  {
+    "id": "大学",
+    "title": "大学",
+    "q": "大学",
+    "a": "university",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "だいがく"
+    }
+  },
+  {
+    "id": "大使館",
+    "title": "大使館",
+    "q": "大使館",
+    "a": "embassy",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "たいしかん"
+    }
+  },
+  {
+    "id": "大丈夫",
+    "title": "大丈夫",
+    "q": "大丈夫",
+    "a": "safe, all right, OK",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "だいじょうぶ"
+    }
+  },
+  {
+    "id": "大好き",
+    "title": "大好き",
+    "q": "大好き",
+    "a": "very likeable, liking very much",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "だいすき"
+    }
+  },
+  {
+    "id": "大切",
+    "title": "大切",
+    "q": "大切",
+    "a": "important",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "たいせつ"
+    }
+  },
+  {
+    "id": "たいてい",
+    "title": "たいてい",
+    "q": "たいてい",
+    "a": "usually, generally",
+    "meta": {
+      "type": "vocab",
+      "kanji": "大抵"
+    }
+  },
+  {
+    "id": "台所",
+    "title": "台所",
+    "q": "台所",
+    "a": "kitchen",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "だいどころ"
+    }
+  },
+  {
+    "id": "たいへん",
+    "title": "大変",
+    "q": "大変",
+    "a": "awful, dreadful, terrible, very",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "たいへん"
+    }
+  },
+  {
+    "id": "高い",
+    "title": "高い",
+    "q": "高い",
+    "a": "tall, high, expensive",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "たかい"
+    }
+  },
+  {
+    "id": "たくさん",
+    "title": "たくさん",
+    "q": "たくさん",
+    "a": "many, a lot, much",
+    "meta": {
+      "type": "vocab",
+      "kanji": "沢山"
+    }
+  },
+  {
+    "id": "タクシー",
+    "title": "タクシー",
+    "q": "タクシー",
+    "a": "taxi",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "出す",
+    "title": "出す",
+    "q": "出す",
+    "a": "to put out, to send",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "だす"
+    }
+  },
+  {
+    "id": "~たち",
+    "title": "~たち",
+    "q": "~たち",
+    "a": "(plural suffix) e.g. watashi = I; watashi-tachi = we",
+    "meta": {
+      "type": "vocab",
+      "kanji": "~達"
+    }
+  },
+  {
+    "id": "立つ",
+    "title": "立つ",
+    "q": "立つ",
+    "a": "to stand",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "たつ"
+    }
+  },
+  {
+    "id": "建物",
+    "title": "建物",
+    "q": "建物",
+    "a": "building",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "たてもの"
+    }
+  },
+  {
+    "id": "楽しい",
+    "title": "楽しい",
+    "q": "楽しい",
+    "a": "enjoyable, fun",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "たのしい"
+    }
+  },
+  {
+    "id": "頼む",
+    "title": "頼む",
+    "q": "頼む",
+    "a": "to request, to beg, to ask",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "たのむ"
+    }
+  },
+  {
+    "id": "たばこ",
+    "title": "たばこ",
+    "q": "たばこ",
+    "a": "tobacco, cigarettes",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kanji": "煙草"
+    }
+  },
+  {
+    "id": "たぶん",
+    "title": "たぶん",
+    "q": "たぶん",
+    "a": "perhaps, probably",
+    "meta": {
+      "type": "vocab",
+      "kanji": "多分"
+    }
+  },
+  {
+    "id": "食べ物",
+    "title": "食べ物",
+    "q": "食べ物",
+    "a": "food",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "たべもの"
+    }
+  },
+  {
+    "id": "食べる",
+    "title": "食べる",
+    "q": "食べる",
+    "a": "to eat",
+    "meta": {
+      "type": "vocab",
+      "kana": "たべる"
+    }
+  },
+  {
+    "id": "卵",
+    "title": "卵",
+    "q": "卵",
+    "a": "spawn, eggs, roe",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "たまご"
+    }
+  },
+  {
+    "id": "だれ",
+    "title": "だれ",
+    "q": "だれ",
+    "a": "who",
+    "meta": {
+      "type": "vocab",
+      "kanji": "誰"
+    }
+  },
+  {
+    "id": "誕生日",
+    "title": "誕生日",
+    "q": "誕生日",
+    "a": "birthday",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "たんじょうび"
+    }
+  },
+  {
+    "id": "だんだん",
+    "title": "だんだん",
+    "q": "だんだん",
+    "a": "gradually, by degrees",
+    "meta": {
+      "type": "vocab",
+      "kanji": "段々"
+    }
+  },
+  {
+    "id": "小さい",
+    "title": "小さい",
+    "q": "小さい",
+    "a": "small, little, tiny",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "ちいさい"
+    }
+  },
+  {
+    "id": "近い",
+    "title": "近い",
+    "q": "近い",
+    "a": "near, close by, short",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "ちかい"
+    }
+  },
+  {
+    "id": "違う",
+    "title": "違う",
+    "q": "違う",
+    "a": "to differ (from)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "ちがう"
+    }
+  },
+  {
+    "id": "近く",
+    "title": "近く",
+    "q": "近く",
+    "a": "near, neighborhood, vicinity",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ちかく"
+    }
+  },
+  {
+    "id": "地下鉄",
+    "title": "地下鉄",
+    "q": "地下鉄",
+    "a": "underground train, subway",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ちかてつ"
+    }
+  },
+  {
+    "id": "地図",
+    "title": "地図",
+    "q": "地図",
+    "a": "map",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ちず"
+    }
+  },
+  {
+    "id": "父",
+    "title": "父",
+    "q": "父",
+    "a": "father (humble)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ちち"
+    }
+  },
+  {
+    "id": "茶色",
+    "title": "茶色",
+    "q": "茶色",
+    "a": "light brown, tawny",
+    "meta": {
+      "type": "vocab",
+      "kana": "ちゃいろ"
+    }
+  },
+  {
+    "id": "ちゃわん",
+    "title": "茶碗",
+    "q": "茶碗",
+    "a": "rice bowl, teacup",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ちゃわん"
+    }
+  },
+  {
+    "id": "~中",
+    "title": "~中",
+    "q": "~中",
+    "a": "middle, during, in the midst of",
+    "meta": {
+      "type": "vocab",
+      "kana": "~ちゅう"
+    }
+  },
+  {
+    "id": "ちょうど",
+    "title": "ちょうど",
+    "q": "ちょうど",
+    "a": "just, right, exactly",
+    "meta": {
+      "type": "vocab",
+      "kanji": "丁度"
+    }
+  },
+  {
+    "id": "ちょっと",
+    "title": "ちょっと",
+    "q": "ちょっと",
+    "a": "just a minute, a short time, a while, just a little, somewhat, easily, readily, rather",
+    "meta": {
+      "type": "vocab",
+      "kanji": "一寸"
+    }
+  },
+  {
+    "id": "一日-1",
+    "title": "一日",
+    "q": "一日",
+    "a": "first of the month",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ついたち"
+    }
+  },
+  {
+    "id": "使う",
+    "title": "使う",
+    "q": "使う",
+    "a": "to use, to handle, to manipulate, to employ, to need, to want, to spend, to consume",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "つかう"
+    }
+  },
+  {
+    "id": "疲れる",
+    "title": "疲れる",
+    "q": "疲れる",
+    "a": "to get tired, to tire",
+    "meta": {
+      "type": "vocab",
+      "kana": "つかれる"
+    }
+  },
+  {
+    "id": "次",
+    "title": "次",
+    "q": "次",
+    "a": "next, stage, station, subsequent",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "つぎ"
+    }
+  },
+  {
+    "id": "着く",
+    "title": "着く",
+    "q": "着く",
+    "a": "to arrive at, to reach",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "つく"
+    }
+  },
+  {
+    "id": "机",
+    "title": "机",
+    "q": "机",
+    "a": "desk",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "つくえ"
+    }
+  },
+  {
+    "id": "作る",
+    "title": "作る",
+    "q": "作る",
+    "a": "to make, to create, to manufacture, to draw up, to write, to compose, to build, to coin, to cultivate, to organize, to establish",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "つくる"
+    }
+  },
+  {
+    "id": "つける",
+    "title": "付ける",
+    "q": "付ける",
+    "a": "to attach, to join, to add, to append, to stick, to glue, to fasten, to furnish, to wear, to appraise, to bring alongside, to follow",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "つける"
+    }
+  },
+  {
+    "id": "勤める",
+    "title": "勤める",
+    "q": "勤める",
+    "a": "to serve, to fill a post, to work (for), to exert oneself, to endeavor, to be diligent",
+    "meta": {
+      "type": "vocab",
+      "kana": "つとめる"
+    }
+  },
+  {
+    "id": "つまらない",
+    "title": "つまらない",
+    "q": "つまらない",
+    "a": "insignificant, boring, trifling",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kanji": "詰らない"
+    }
+  },
+  {
+    "id": "冷たい",
+    "title": "冷たい",
+    "q": "冷たい",
+    "a": "cold, icy, freezing, coldhearted",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "つめたい"
+    }
+  },
+  {
+    "id": "強い",
+    "title": "強い",
+    "q": "強い",
+    "a": "strong, powerful, mighty, potent",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "つよい"
+    }
+  },
+  {
+    "id": "手",
+    "title": "手",
+    "q": "手",
+    "a": "hand",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "て"
+    }
+  },
+  {
+    "id": "テープ",
+    "title": "テープ",
+    "q": "テープ",
+    "a": "tape",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "テープレコーダー",
+    "title": "テープレコーダー",
+    "q": "テープレコーダー",
+    "a": "tape recorder",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "テーブル",
+    "title": "テーブル",
+    "q": "テーブル",
+    "a": "table",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "出かける",
+    "title": "出かける",
+    "q": "出かける",
+    "a": "to depart, to go out, to set out, to start",
+    "meta": {
+      "type": "vocab",
+      "kana": "でかける"
+    }
+  },
+  {
+    "id": "手紙",
+    "title": "手紙",
+    "q": "手紙",
+    "a": "letter",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "てがみ"
+    }
+  },
+  {
+    "id": "できる",
+    "title": "できる",
+    "q": "できる",
+    "a": "to be able to, to be ready, to occur",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "英語ができる",
+      "specific": "英語ができる - to be able to use English",
+      "kanji": "出来る"
+    }
+  },
+  {
+    "id": "出口",
+    "title": "出口",
+    "q": "出口",
+    "a": "exit, gateway, outlet, leak, vent",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "でぐち"
+    }
+  },
+  {
+    "id": "テスト",
+    "title": "テスト",
+    "q": "テスト",
+    "a": "test",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "では",
+    "title": "では",
+    "q": "では",
+    "a": "then, well, so, well then",
+    "meta": {
+      "type": "vocab",
+      "word_type": "interjection"
+    }
+  },
+  {
+    "id": "デパート",
+    "title": "デパート",
+    "q": "デパート",
+    "a": "department store",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "でも",
+    "title": "でも",
+    "q": "でも",
+    "a": "but, however",
+    "meta": {
+      "type": "vocab",
+      "word_type": "conjunction"
+    }
+  },
+  {
+    "id": "出る",
+    "title": "出る",
+    "q": "出る",
+    "a": "to appear, to come forth, to leave",
+    "meta": {
+      "type": "vocab",
+      "kana": "でる"
+    }
+  },
+  {
+    "id": "テレビ",
+    "title": "テレビ",
+    "q": "テレビ",
+    "a": "television, TV",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "天気",
+    "title": "天気",
+    "q": "天気",
+    "a": "weather, the elements",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "てんき"
+    }
+  },
+  {
+    "id": "電気",
+    "title": "電気",
+    "q": "電気",
+    "a": "electricity, (electric) light",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "でんき"
+    }
+  },
+  {
+    "id": "電車",
+    "title": "電車",
+    "q": "電車",
+    "a": "electric train",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "でんしゃ"
+    }
+  },
+  {
+    "id": "電話",
+    "title": "電話",
+    "q": "電話",
+    "a": "telephone",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "でんわ"
+    }
+  },
+  {
+    "id": "戸",
+    "title": "戸",
+    "q": "戸",
+    "a": "door (Japanese style)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "と"
+    }
+  },
+  {
+    "id": "~度",
+    "title": "~度",
+    "q": "~度",
+    "a": "counter for occurences",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~ど"
+    }
+  },
+  {
+    "id": "ドア",
+    "title": "ドア",
+    "q": "ドア",
+    "a": "door (Western style)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "トイレ",
+    "title": "トイレ",
+    "q": "トイレ",
+    "a": "toilet, restroom, bathroom, lavatory",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "どう",
+    "title": "どう",
+    "q": "どう",
+    "a": "how, in what way",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "どうして",
+    "title": "どうして",
+    "q": "どうして",
+    "a": "why?, for what reason, how, in what way, for what purpose, what for",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "どうぞ",
+    "title": "どうぞ",
+    "q": "どうぞ",
+    "a": "please, kindly, by all means",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "動物",
+    "title": "動物",
+    "q": "動物",
+    "a": "animal",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "どうぶつ"
+    }
+  },
+  {
+    "id": "どうも",
+    "title": "どうも",
+    "q": "どうも",
+    "a": "thanks, how, (very) much, very, quite, really, somehow",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "十-1",
+    "title": "十",
+    "q": "十",
+    "a": "ten",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "とお"
+    }
+  },
+  {
+    "id": "遠い",
+    "title": "遠い",
+    "q": "遠い",
+    "a": "far, distant",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "とおい"
+    }
+  },
+  {
+    "id": "十日",
+    "title": "十日",
+    "q": "十日",
+    "a": "ten days, the 10th of the month",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "とおか"
+    }
+  },
+  {
+    "id": "時々",
+    "title": "時々",
+    "q": "時々",
+    "a": "sometimes",
+    "meta": {
+      "type": "vocab",
+      "kana": "ときどき"
+    }
+  },
+  {
+    "id": "時計",
+    "title": "時計",
+    "q": "時計",
+    "a": "watch, clock",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "とけい"
+    }
+  },
+  {
+    "id": "どこ",
+    "title": "どこ",
+    "q": "どこ",
+    "a": "where, what place",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "所",
+    "title": "所",
+    "q": "所",
+    "a": "place",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ところ"
+    }
+  },
+  {
+    "id": "図書館",
+    "title": "図書館",
+    "q": "図書館",
+    "a": "library",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "としょかん"
+    }
+  },
+  {
+    "id": "どちら",
+    "title": "どちら",
+    "q": "どちら",
+    "a": "which (of two), who",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "とても",
+    "title": "とても",
+    "q": "とても",
+    "a": "very, awfully, exceedingly",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adverb"
+    }
+  },
+  {
+    "id": "どなた",
+    "title": "どなた",
+    "q": "どなた",
+    "a": "who?",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "隣",
+    "title": "隣",
+    "q": "隣",
+    "a": "next to, next door to",
+    "meta": {
+      "type": "vocab",
+      "kana": "となり"
+    }
+  },
+  {
+    "id": "どの",
+    "title": "どの",
+    "q": "どの",
+    "a": "which, what (way)",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "どの人",
+      "specific": "どの人 - which person",
+      "kanji": "何の"
+    }
+  },
+  {
+    "id": "飛ぶ",
+    "title": "飛ぶ",
+    "q": "飛ぶ",
+    "a": "to jump, to fly, to leap, to spring, to bound, to hop",
+    "meta": {
+      "type": "vocab",
+      "kana": "とぶ"
+    }
+  },
+  {
+    "id": "止まる",
+    "title": "止まる",
+    "q": "止まる",
+    "a": "to stop, to come to a halt",
+    "meta": {
+      "type": "vocab",
+      "kana": "とまる"
+    }
+  },
+  {
+    "id": "友達",
+    "title": "友達",
+    "q": "友達",
+    "a": "friend",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ともだち"
+    }
+  },
+  {
+    "id": "土曜日",
+    "title": "土曜日",
+    "q": "土曜日",
+    "a": "Saturday",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "どようび"
+    }
+  },
+  {
+    "id": "鳥",
+    "title": "鳥",
+    "q": "鳥",
+    "a": "bird, fowl, poultry",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "とり"
+    }
+  },
+  {
+    "id": "鳥肉",
+    "title": "鳥肉",
+    "q": "鳥肉",
+    "a": "chicken meat",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "とりにく"
+    }
+  },
+  {
+    "id": "取る",
+    "title": "取る",
+    "q": "取る",
+    "a": "to take, to pick up, to harvest, to earn, to choose",
+    "meta": {
+      "type": "vocab",
+      "kana": "とる"
+    }
+  },
+  {
+    "id": "撮る",
+    "title": "撮る",
+    "q": "撮る",
+    "a": "to take (photo), to make (film)",
+    "meta": {
+      "type": "vocab",
+      "kana": "とる"
+    }
+  },
+  {
+    "id": "どれ",
+    "title": "どれ",
+    "q": "どれ",
+    "a": "well, now, let me see, which (3 or more)",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "どんな",
+    "title": "どんな",
+    "q": "どんな",
+    "a": "what, what kind of",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "ない",
+    "title": "ない",
+    "q": "ない",
+    "a": "there isn't, doesn't have",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "ナイフ",
+    "title": "ナイフ",
+    "q": "ナイフ",
+    "a": "knife",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "中",
+    "title": "中",
+    "q": "中",
+    "a": "inside, middle, among",
+    "meta": {
+      "type": "vocab",
+      "kana": "なか"
+    }
+  },
+  {
+    "id": "長い",
+    "title": "長い",
+    "q": "長い",
+    "a": "long",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "ながい"
+    }
+  },
+  {
+    "id": "鳴く",
+    "title": "鳴く",
+    "q": "鳴く",
+    "a": "to bark, to purr, to make animal sound",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "なく"
+    }
+  },
+  {
+    "id": "夏",
+    "title": "夏",
+    "q": "夏",
+    "a": "summer",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "なつ"
+    }
+  },
+  {
+    "id": "夏休み",
+    "title": "夏休み",
+    "q": "夏休み",
+    "a": "summer vacation",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "なつやすみ"
+    }
+  },
+  {
+    "id": "~など",
+    "title": "~など",
+    "q": "~など",
+    "a": "et cetera",
+    "meta": {
+      "type": "vocab",
+      "kanji": "等"
+    }
+  },
+  {
+    "id": "七つ",
+    "title": "七つ",
+    "q": "七つ",
+    "a": "seven",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ななつ"
+    }
+  },
+  {
+    "id": "何",
+    "title": "何",
+    "q": "何",
+    "a": "what",
+    "meta": {
+      "type": "vocab",
+      "kana": "なに"
+    }
+  },
+  {
+    "id": "七日",
+    "title": "七日",
+    "q": "七日",
+    "a": "seven days, the seventh day (of the month)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "なのか"
+    }
+  },
+  {
+    "id": "名前",
+    "title": "名前",
+    "q": "名前",
+    "a": "name",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "なまえ"
+    }
+  },
+  {
+    "id": "習う",
+    "title": "習う",
+    "q": "習う",
+    "a": "to learn",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "ならう"
+    }
+  },
+  {
+    "id": "並ぶ",
+    "title": "並ぶ",
+    "q": "並ぶ",
+    "a": "to line up, to stand in a line",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "ならぶ"
+    }
+  },
+  {
+    "id": "並べる",
+    "title": "並べる",
+    "q": "並べる",
+    "a": "to line up, to set up",
+    "meta": {
+      "type": "vocab",
+      "kana": "ならべる"
+    }
+  },
+  {
+    "id": "なる",
+    "title": "なる",
+    "q": "なる",
+    "a": "to become",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb"
+    }
+  },
+  {
+    "id": "二",
+    "title": "二",
+    "q": "二",
+    "a": "two",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "に"
+    }
+  },
+  {
+    "id": "にぎやか",
+    "title": "賑やか",
+    "q": "賑やか",
+    "a": "bustling, busy",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "にぎやか"
+    }
+  },
+  {
+    "id": "肉",
+    "title": "肉",
+    "q": "肉",
+    "a": "meat",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "にく"
+    }
+  },
+  {
+    "id": "西",
+    "title": "西",
+    "q": "西",
+    "a": "west",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "にし"
+    }
+  },
+  {
+    "id": "~日",
+    "title": "~日",
+    "q": "~日",
+    "a": "day of the month",
+    "meta": {
+      "type": "vocab",
+      "kana": "~にち"
+    }
+  },
+  {
+    "id": "日曜日",
+    "title": "日曜日",
+    "q": "日曜日",
+    "a": "Sunday",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "にちようび"
+    }
+  },
+  {
+    "id": "荷物",
+    "title": "荷物",
+    "q": "荷物",
+    "a": "luggage",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "にもつ"
+    }
+  },
+  {
+    "id": "ニュース",
+    "title": "ニュース",
+    "q": "ニュース",
+    "a": "news",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "庭",
+    "title": "庭",
+    "q": "庭",
+    "a": "garden",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "にわ"
+    }
+  },
+  {
+    "id": "~人-1",
+    "title": "~人",
+    "q": "~人",
+    "a": "counter for people",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "100人",
+      "kana": "~にん"
+    }
+  },
+  {
+    "id": "脱ぐ",
+    "title": "脱ぐ",
+    "q": "脱ぐ",
+    "a": "to take off clothes",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "ぬぐ"
+    }
+  },
+  {
+    "id": "ネクタイ",
+    "title": "ネクタイ",
+    "q": "ネクタイ",
+    "a": "necktie",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "寝る",
+    "title": "寝る",
+    "q": "寝る",
+    "a": "to sleep, to lie down",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "ねる"
+    }
+  },
+  {
+    "id": "~年",
+    "title": "~年",
+    "q": "~年",
+    "a": "~year(s)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~ねん"
+    }
+  },
+  {
+    "id": "ノート",
+    "title": "ノート",
+    "q": "ノート",
+    "a": "notebook, copybook, exercise book",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "登る",
+    "title": "登る",
+    "q": "登る",
+    "a": "to climb",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "のぼる"
+    }
+  },
+  {
+    "id": "飲み物",
+    "title": "飲み物",
+    "q": "飲み物",
+    "a": "drink, beverage",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "のみもの"
+    }
+  },
+  {
+    "id": "飲む",
+    "title": "飲む",
+    "q": "飲む",
+    "a": "to drink",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "のむ"
+    }
+  },
+  {
+    "id": "乗る",
+    "title": "乗る",
+    "q": "乗る",
+    "a": "to get on, to ride in",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "のる"
+    }
+  },
+  {
+    "id": "歯",
+    "title": "歯",
+    "q": "歯",
+    "a": "tooth",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "は"
+    }
+  },
+  {
+    "id": "パーティー",
+    "title": "パーティー",
+    "q": "パーティー",
+    "a": "party",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "はい",
+    "title": "はい",
+    "q": "はい",
+    "a": "yes",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "~杯",
+    "title": "~杯",
+    "q": "~杯",
+    "a": "counter for cupfuls",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~はい"
+    }
+  },
+  {
+    "id": "灰皿",
+    "title": "灰皿",
+    "q": "灰皿",
+    "a": "ashtray",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はいざら"
+    }
+  },
+  {
+    "id": "入る",
+    "title": "入る",
+    "q": "入る",
+    "a": "to enter",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "はいる"
+    }
+  },
+  {
+    "id": "葉書",
+    "title": "葉書",
+    "q": "葉書",
+    "a": "postcard",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はがき"
+    }
+  },
+  {
+    "id": "はく",
+    "title": "はく",
+    "q": "はく",
+    "a": "to wear, to put on (a sword)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb"
+    }
+  },
+  {
+    "id": "箱",
+    "title": "箱",
+    "q": "箱",
+    "a": "box",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はこ"
+    }
+  },
+  {
+    "id": "橋",
+    "title": "橋",
+    "q": "橋",
+    "a": "bridge",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はし"
+    }
+  },
+  {
+    "id": "はし",
+    "title": "箸",
+    "q": "箸",
+    "a": "chopsticks",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はし"
+    }
+  },
+  {
+    "id": "始まる",
+    "title": "始まる",
+    "q": "始まる",
+    "a": "to begin",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "はじまる"
+    }
+  },
+  {
+    "id": "初めに",
+    "title": "初めに",
+    "q": "初めに",
+    "a": "to begin with, first of all",
+    "meta": {
+      "type": "vocab",
+      "kana": "はじめに"
+    }
+  },
+  {
+    "id": "初めて",
+    "title": "初めて",
+    "q": "初めて",
+    "a": "for the first time",
+    "meta": {
+      "type": "vocab",
+      "kana": "はじめて"
+    }
+  },
+  {
+    "id": "走る",
+    "title": "走る",
+    "q": "走る",
+    "a": "to run",
+    "meta": {
+      "type": "vocab",
+      "kana": "はしる",
+      "word_type": "verb"
+    }
+  },
+  {
+    "id": "バス",
+    "title": "バス",
+    "q": "バス",
+    "a": "bus, bath, bass",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "バター",
+    "title": "バター",
+    "q": "バター",
+    "a": "butter",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "二十歳",
+    "title": "二十歳",
+    "q": "二十歳",
+    "a": "20 years old",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はたち"
+    }
+  },
+  {
+    "id": "働く",
+    "title": "働く",
+    "q": "働く",
+    "a": "to work, to labor",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "はたらく"
+    }
+  },
+  {
+    "id": "八",
+    "title": "八",
+    "q": "八",
+    "a": "eight",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はち"
+    }
+  },
+  {
+    "id": "二十日",
+    "title": "二十日",
+    "q": "二十日",
+    "a": "twenty days, twentieth (day of the month)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はつか"
+    }
+  },
+  {
+    "id": "花",
+    "title": "花",
+    "q": "花",
+    "a": "flower",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はな"
+    }
+  },
+  {
+    "id": "鼻",
+    "title": "鼻",
+    "q": "鼻",
+    "a": "nose",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はな"
+    }
+  },
+  {
+    "id": "話",
+    "title": "話",
+    "q": "話",
+    "a": "talk",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はなし"
+    }
+  },
+  {
+    "id": "話す",
+    "title": "話す",
+    "q": "話す",
+    "a": "to speak",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "はなす"
+    }
+  },
+  {
+    "id": "母",
+    "title": "母",
+    "q": "母",
+    "a": "mother",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はは"
+    }
+  },
+  {
+    "id": "早い",
+    "title": "早い",
+    "q": "早い",
+    "a": "early",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "はやい"
+    }
+  },
+  {
+    "id": "速い",
+    "title": "速い",
+    "q": "速い",
+    "a": "quick, fast, swift",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "はやい"
+    }
+  },
+  {
+    "id": "春",
+    "title": "春",
+    "q": "春",
+    "a": "spring",
+    "meta": {
+      "type": "vocab",
+      "kana": "はる"
+    }
+  },
+  {
+    "id": "はる",
+    "title": "貼る",
+    "q": "貼る",
+    "a": "to stick, to paste",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "はる"
+    }
+  },
+  {
+    "id": "晴れる",
+    "title": "晴れる",
+    "q": "晴れる",
+    "a": "to be sunny, to clear away",
+    "meta": {
+      "type": "vocab",
+      "kana": "はれる"
+    }
+  },
+  {
+    "id": "半",
+    "title": "半",
+    "q": "半",
+    "a": "half",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はん"
+    }
+  },
+  {
+    "id": "晩",
+    "title": "晩",
+    "q": "晩",
+    "a": "evening",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ばん"
+    }
+  },
+  {
+    "id": "～番",
+    "title": "～番",
+    "q": "～番",
+    "a": "number ～",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "～ばん"
+    }
+  },
+  {
+    "id": "パン",
+    "title": "パン",
+    "q": "パン",
+    "a": "bread, panning",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "ハンカチ",
+    "title": "ハンカチ",
+    "q": "ハンカチ",
+    "a": "handkerchief",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "番号",
+    "title": "番号",
+    "q": "番号",
+    "a": "number, series of digits",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ばんごう"
+    }
+  },
+  {
+    "id": "晩御飯",
+    "title": "晩御飯",
+    "q": "晩御飯",
+    "a": "dinner, evening meal",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ばんごはん"
+    }
+  },
+  {
+    "id": "半分",
+    "title": "半分",
+    "q": "半分",
+    "a": "half minute",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "はんぶん"
+    }
+  },
+  {
+    "id": "東",
+    "title": "東",
+    "q": "東",
+    "a": "east",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ひがし"
+    }
+  },
+  {
+    "id": "~匹",
+    "title": "~匹",
+    "q": "~匹",
+    "a": "small animal counter",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~ひき"
+    }
+  },
+  {
+    "id": "引く",
+    "title": "引く",
+    "q": "引く",
+    "a": "minus, to pull",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "ひく"
+    }
+  },
+  {
+    "id": "弾く",
+    "title": "弾く",
+    "q": "弾く",
+    "a": "to play (piano, guitar)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "ひく"
+    }
+  },
+  {
+    "id": "低い",
+    "title": "低い",
+    "q": "低い",
+    "a": "short, low, humble",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "ひくい"
+    }
+  },
+  {
+    "id": "飛行機",
+    "title": "飛行機",
+    "q": "飛行機",
+    "a": "airplane",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ひこうき"
+    }
+  },
+  {
+    "id": "左",
+    "title": "左",
+    "q": "左",
+    "a": "left hand side",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ひだり"
+    }
+  },
+  {
+    "id": "人",
+    "title": "人",
+    "q": "人",
+    "a": "person",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ひと"
+    }
+  },
+  {
+    "id": "一つ",
+    "title": "一つ",
+    "q": "一つ",
+    "a": "one (thing)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ひとつ"
+    }
+  },
+  {
+    "id": "一月",
+    "title": "一月",
+    "q": "一月",
+    "a": "one month",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ひとつき"
+    }
+  },
+  {
+    "id": "一人",
+    "title": "一人",
+    "q": "一人",
+    "a": "one person",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ひとり"
+    }
+  },
+  {
+    "id": "暇",
+    "title": "暇",
+    "q": "暇",
+    "a": "free time; farewell",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ひま"
+    }
+  },
+  {
+    "id": "百",
+    "title": "百",
+    "q": "百",
+    "a": "100 (hundred)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ひゃく"
+    }
+  },
+  {
+    "id": "病院",
+    "title": "病院",
+    "q": "病院",
+    "a": "hospital",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "びょういん"
+    }
+  },
+  {
+    "id": "病気",
+    "title": "病気",
+    "q": "病気",
+    "a": "illness, disease, sickness",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "びょうき"
+    }
+  },
+  {
+    "id": "平仮名",
+    "title": "平仮名",
+    "q": "平仮名",
+    "a": "hiragana",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ひらがな"
+    }
+  },
+  {
+    "id": "昼",
+    "title": "昼",
+    "q": "昼",
+    "a": "noon, daytime",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ひる"
+    }
+  },
+  {
+    "id": "昼御飯",
+    "title": "昼御飯",
+    "q": "昼御飯",
+    "a": "lunch, midday meal",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ひるごはん"
+    }
+  },
+  {
+    "id": "広い",
+    "title": "広い",
+    "q": "広い",
+    "a": "spacious, vast, wide",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "ひろい"
+    }
+  },
+  {
+    "id": "フィルム",
+    "title": "フィルム",
+    "q": "フィルム",
+    "a": "film (roll of)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "封筒",
+    "title": "封筒",
+    "q": "封筒",
+    "a": "envelope",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ふうとう"
+    }
+  },
+  {
+    "id": "プール",
+    "title": "プール",
+    "q": "プール",
+    "a": "swimming pool",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "フォーク",
+    "title": "フォーク",
+    "q": "フォーク",
+    "a": "fork, folk",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "吹く",
+    "title": "吹く",
+    "q": "吹く",
+    "a": "to blow (e.g. wind); to emit, to spout",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "ふく"
+    }
+  },
+  {
+    "id": "服",
+    "title": "服",
+    "q": "服",
+    "a": "clothes",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ふく"
+    }
+  },
+  {
+    "id": "二つ",
+    "title": "二つ",
+    "q": "二つ",
+    "a": "two (things)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ふたつ"
+    }
+  },
+  {
+    "id": "豚肉",
+    "title": "豚肉",
+    "q": "豚肉",
+    "a": "pork",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ぶたにく"
+    }
+  },
+  {
+    "id": "二人",
+    "title": "二人",
+    "q": "二人",
+    "a": "two persons, pair",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ふたり"
+    }
+  },
+  {
+    "id": "二日",
+    "title": "二日",
+    "q": "二日",
+    "a": "second day of the month, two days",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ふつか"
+    }
+  },
+  {
+    "id": "太い",
+    "title": "太い",
+    "q": "太い",
+    "a": "fat, thick",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "ふとい"
+    }
+  },
+  {
+    "id": "冬",
+    "title": "冬",
+    "q": "冬",
+    "a": "winter",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ふゆ"
+    }
+  },
+  {
+    "id": "降る",
+    "title": "降る",
+    "q": "降る",
+    "a": "to precipitate, to fall (e.g. rain)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "ふる"
+    }
+  },
+  {
+    "id": "古い",
+    "title": "古い",
+    "q": "古い",
+    "a": "old (not of person), aged, ancient",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "ふるい"
+    }
+  },
+  {
+    "id": "風呂",
+    "title": "風呂",
+    "q": "風呂",
+    "a": "bath",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ふろ"
+    }
+  },
+  {
+    "id": "~分",
+    "title": "~分",
+    "q": "~分",
+    "a": "~ minutes",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~ふん"
+    }
+  },
+  {
+    "id": "下手",
+    "title": "下手",
+    "q": "下手",
+    "a": "unskillful, poor, awkward",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "へた"
+    }
+  },
+  {
+    "id": "ベッド",
+    "title": "ベッド",
+    "q": "ベッド",
+    "a": "bed",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "部屋",
+    "title": "部屋",
+    "q": "部屋",
+    "a": "room",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "へや"
+    }
+  },
+  {
+    "id": "辺",
+    "title": "辺",
+    "q": "辺",
+    "a": "area, vicinity",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "へん"
+    }
+  },
+  {
+    "id": "ペン",
+    "title": "ペン",
+    "q": "ペン",
+    "a": "pen",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "勉強",
+    "title": "勉強",
+    "q": "勉強",
+    "a": "study, diligence, discount, reduction",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "べんきょう"
+    }
+  },
+  {
+    "id": "便利",
+    "title": "便利",
+    "q": "便利",
+    "a": "convenient, handy, useful",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "べんり"
+    }
+  },
+  {
+    "id": "ほう",
+    "title": "方",
+    "q": "方",
+    "a": "direction; way",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ほう"
+    }
+  },
+  {
+    "id": "帽子",
+    "title": "帽子",
+    "q": "帽子",
+    "a": "hat",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ぼうし"
+    }
+  },
+  {
+    "id": "ボールペン",
+    "title": "ボールペン",
+    "q": "ボールペン",
+    "a": "ballpoint pen",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "外-1",
+    "title": "外",
+    "q": "外",
+    "a": "other place, the rest",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "question_specific": "他",
+      "kana": "ほか"
+    }
+  },
+  {
+    "id": "ポケット",
+    "title": "ポケット",
+    "q": "ポケット",
+    "a": "pocket",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "欲しい",
+    "title": "欲しい",
+    "q": "欲しい",
+    "a": "wanted, wished for, in need of, desired",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "ほしい"
+    }
+  },
+  {
+    "id": "細い",
+    "title": "細い",
+    "q": "細い",
+    "a": "thin, slender, fine",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "ほそい"
+    }
+  },
+  {
+    "id": "ボタン",
+    "title": "ボタン",
+    "q": "ボタン",
+    "a": "button",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "ホテル",
+    "title": "ホテル",
+    "q": "ホテル",
+    "a": "hotel",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "本",
+    "title": "本",
+    "q": "本",
+    "a": "book",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ほん"
+    }
+  },
+  {
+    "id": "~本",
+    "title": "~本",
+    "q": "~本",
+    "a": "counter for long cylindrical things",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~ほん"
+    }
+  },
+  {
+    "id": "本棚",
+    "title": "本棚",
+    "q": "本棚",
+    "a": "bookshelves",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ほんだな"
+    }
+  },
+  {
+    "id": "本当に",
+    "title": "本当に",
+    "q": "本当に",
+    "a": "really, truly",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adverb",
+      "kana": "ほんとうに"
+    }
+  },
+  {
+    "id": "~枚",
+    "title": "~枚",
+    "q": "~枚",
+    "a": "counter for flat things",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~まい"
+    }
+  },
+  {
+    "id": "毎朝",
+    "title": "毎朝",
+    "q": "毎朝",
+    "a": "every morning",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "まいあさ"
+    }
+  },
+  {
+    "id": "毎月",
+    "title": "毎月",
+    "q": "毎月",
+    "a": "every month, each month, monthly",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "まいげつ / まいつき"
+    }
+  },
+  {
+    "id": "毎週",
+    "title": "毎週",
+    "q": "毎週",
+    "a": "every week",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "まいしゅう"
+    }
+  },
+  {
+    "id": "毎日",
+    "title": "毎日",
+    "q": "毎日",
+    "a": "every day",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "まいにち"
+    }
+  },
+  {
+    "id": "毎年",
+    "title": "毎年",
+    "q": "毎年",
+    "a": "every year, yearly, annually",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "まいねん / まいとし"
+    }
+  },
+  {
+    "id": "毎晩",
+    "title": "毎晩",
+    "q": "毎晩",
+    "a": "every night",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "まいばん"
+    }
+  },
+  {
+    "id": "前",
+    "title": "前",
+    "q": "前",
+    "a": "before, in front",
+    "meta": {
+      "type": "vocab",
+      "kana": "まえ"
+    }
+  },
+  {
+    "id": "曲る",
+    "title": "曲る",
+    "q": "曲る",
+    "a": "to turn, to bend",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "まがる"
+    }
+  },
+  {
+    "id": "まずい",
+    "title": "まずい",
+    "q": "まずい",
+    "a": "unappetising, unpleasant (taste, appearance, situation), ugly, unskilful",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kanji": "不味い"
+    }
+  },
+  {
+    "id": "また",
+    "title": "また",
+    "q": "また",
+    "a": "again, and",
+    "meta": {
+      "type": "vocab",
+      "word_type": "conjunction",
+      "kanji": "又"
+    }
+  },
+  {
+    "id": "まだ",
+    "title": "まだ",
+    "q": "まだ",
+    "a": "yet, still, more, besides",
+    "meta": {
+      "type": "vocab",
+      "kanji": "未だ"
+    }
+  },
+  {
+    "id": "町",
+    "title": "町",
+    "q": "町",
+    "a": "town",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "まち"
+    }
+  },
+  {
+    "id": "待つ",
+    "title": "待つ",
+    "q": "待つ",
+    "a": "to wait",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "まつ"
+    }
+  },
+  {
+    "id": "まっすぐ",
+    "title": "まっすぐ",
+    "q": "まっすぐ",
+    "a": "straight (ahead)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kanji": "真っ直ぐ"
+    }
+  },
+  {
+    "id": "マッチ",
+    "title": "マッチ",
+    "q": "マッチ",
+    "a": "match",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "窓",
+    "title": "窓",
+    "q": "窓",
+    "a": "window",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "まど"
+    }
+  },
+  {
+    "id": "丸い",
+    "title": "丸い",
+    "q": "丸い",
+    "a": "round, circular, spherical",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "まるい"
+    }
+  },
+  {
+    "id": "円い",
+    "title": "円い",
+    "q": "円い",
+    "a": "round, circular, spherical",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "まるい"
+    }
+  },
+  {
+    "id": "万",
+    "title": "万",
+    "q": "万",
+    "a": "10,000, ten thousand, all, everything",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "まん"
+    }
+  },
+  {
+    "id": "万年筆",
+    "title": "万年筆",
+    "q": "万年筆",
+    "a": "fountain pen",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "まんねんひつ"
+    }
+  },
+  {
+    "id": "磨く",
+    "title": "磨く",
+    "q": "磨く",
+    "a": "to polish, to shine",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "みがく"
+    }
+  },
+  {
+    "id": "右",
+    "title": "右",
+    "q": "右",
+    "a": "right hand side",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "みぎ"
+    }
+  },
+  {
+    "id": "短い",
+    "title": "短い",
+    "q": "短い",
+    "a": "short",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "みじかい"
+    }
+  },
+  {
+    "id": "水",
+    "title": "水",
+    "q": "水",
+    "a": "water",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "みず"
+    }
+  },
+  {
+    "id": "店",
+    "title": "店",
+    "q": "店",
+    "a": "store, shop",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "みせ"
+    }
+  },
+  {
+    "id": "見せる",
+    "title": "見せる",
+    "q": "見せる",
+    "a": "to show, to display",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "みせる"
+    }
+  },
+  {
+    "id": "道",
+    "title": "道",
+    "q": "道",
+    "a": "road, street, way",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "みち"
+    }
+  },
+  {
+    "id": "三日",
+    "title": "三日",
+    "q": "三日",
+    "a": "three days, the third day (of the month)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "みっか"
+    }
+  },
+  {
+    "id": "三つ",
+    "title": "三つ",
+    "q": "三つ",
+    "a": "three (things)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "みっつ"
+    }
+  },
+  {
+    "id": "皆さん",
+    "title": "皆さん",
+    "q": "皆さん",
+    "a": "everyone",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "みなさん"
+    }
+  },
+  {
+    "id": "南",
+    "title": "南",
+    "q": "南",
+    "a": "south, proceeding south",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "みなみ"
+    }
+  },
+  {
+    "id": "耳",
+    "title": "耳",
+    "q": "耳",
+    "a": "ear",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "みみ"
+    }
+  },
+  {
+    "id": "見る",
+    "title": "見る",
+    "q": "見る",
+    "a": "to see, to watch",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "みる"
+    }
+  },
+  {
+    "id": "みんな",
+    "title": "みんな",
+    "q": "みんな",
+    "a": "all, everyone, everybody",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "六日",
+    "title": "六日",
+    "q": "六日",
+    "a": "six days, the sixth day (of the month)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "むいか"
+    }
+  },
+  {
+    "id": "向こう",
+    "title": "向こう",
+    "q": "向こう",
+    "a": "beyond, over there, opposite direction",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "むこう"
+    }
+  },
+  {
+    "id": "難しい",
+    "title": "難しい",
+    "q": "難しい",
+    "a": "difficult",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "むずかしい"
+    }
+  },
+  {
+    "id": "六つ",
+    "title": "六つ",
+    "q": "六つ",
+    "a": "six",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "むっつ"
+    }
+  },
+  {
+    "id": "目",
+    "title": "目",
+    "q": "目",
+    "a": "eye",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "め"
+    }
+  },
+  {
+    "id": "メートル",
+    "title": "メートル",
+    "q": "メートル",
+    "a": "meter",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "眼鏡",
+    "title": "眼鏡",
+    "q": "眼鏡",
+    "a": "glasses",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "めがね"
+    }
+  },
+  {
+    "id": "もう",
+    "title": "もう",
+    "q": "もう",
+    "a": "already, soon, more, again",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "もう、帰りました",
+      "specific": "もう、帰りました - already did go home"
+    }
+  },
+  {
+    "id": "もう-1",
+    "title": "もう",
+    "q": "もう",
+    "a": "already, soon, more, again",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "もう一度",
+      "specific": "もう一度 - one more time"
+    }
+  },
+  {
+    "id": "木曜日",
+    "title": "木曜日",
+    "q": "木曜日",
+    "a": "thursday",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "もくようび"
+    }
+  },
+  {
+    "id": "もしもし",
+    "title": "もしもし",
+    "q": "もしもし",
+    "a": "hello (on phone)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "interjection"
+    }
+  },
+  {
+    "id": "もちろん",
+    "title": "もちろん",
+    "q": "もちろん",
+    "a": "of course, certainly, naturally",
+    "meta": {
+      "type": "vocab",
+      "kanji": "勿論"
+    }
+  },
+  {
+    "id": "持つ",
+    "title": "持つ",
+    "q": "持つ",
+    "a": "to hold, to carry",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "もつ"
+    }
+  },
+  {
+    "id": "もっと",
+    "title": "もっと",
+    "q": "もっと",
+    "a": "more, longer, farther",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "物",
+    "title": "物",
+    "q": "物",
+    "a": "thing, object",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "もの"
+    }
+  },
+  {
+    "id": "門",
+    "title": "門",
+    "q": "門",
+    "a": "gate",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "もん"
+    }
+  },
+  {
+    "id": "問題",
+    "title": "問題",
+    "q": "問題",
+    "a": "problem, question",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "もんだい"
+    }
+  },
+  {
+    "id": "~屋",
+    "title": "~屋",
+    "q": "~屋",
+    "a": "~store",
+    "meta": {
+      "type": "vocab",
+      "word_type": "suffix",
+      "kana": "~や"
+    }
+  },
+  {
+    "id": "八百屋",
+    "title": "八百屋",
+    "q": "八百屋",
+    "a": "greengrocer",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "やおや"
+    }
+  },
+  {
+    "id": "野菜",
+    "title": "野菜",
+    "q": "野菜",
+    "a": "vegetable",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "やさい"
+    }
+  },
+  {
+    "id": "易しい",
+    "title": "易しい",
+    "q": "易しい",
+    "a": "easy, plain, simple",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "やさしい"
+    }
+  },
+  {
+    "id": "安い",
+    "title": "安い",
+    "q": "安い",
+    "a": "cheap, inexpensive, peaceful",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "やすい"
+    }
+  },
+  {
+    "id": "休み",
+    "title": "休み",
+    "q": "休み",
+    "a": "rest, vacation, holiday",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "やすみ"
+    }
+  },
+  {
+    "id": "休む",
+    "title": "休む",
+    "q": "休む",
+    "a": "to rest, to have a break",
+    "meta": {
+      "type": "vocab",
+      "kana": "やすむ"
+    }
+  },
+  {
+    "id": "八つ",
+    "title": "八つ",
+    "q": "八つ",
+    "a": "eight",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "やっつ"
+    }
+  },
+  {
+    "id": "山",
+    "title": "山",
+    "q": "山",
+    "a": "mountain",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "やま"
+    }
+  },
+  {
+    "id": "やる",
+    "title": "やる",
+    "q": "やる",
+    "a": "to do, to give (to inferiors, animals, etc.), to send, to perform, to play, to have sex",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "仕事をやる",
+      "specific": "仕事をやる - to do work",
+      "word_type": "verb",
+      "kanji": "遣る"
+    }
+  },
+  {
+    "id": "夕方",
+    "title": "夕方",
+    "q": "夕方",
+    "a": "evening",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ゆうがた"
+    }
+  },
+  {
+    "id": "郵便局",
+    "title": "郵便局",
+    "q": "郵便局",
+    "a": "post office",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ゆうびんきょく"
+    }
+  },
+  {
+    "id": "ゆうべ",
+    "title": "ゆうべ",
+    "q": "ゆうべ",
+    "a": "last night, yesterday evening",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "昨夜",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "有名",
+    "title": "有名",
+    "q": "有名",
+    "a": "fame",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ゆうめい"
+    }
+  },
+  {
+    "id": "雪",
+    "title": "雪",
+    "q": "雪",
+    "a": "snow",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ゆき"
+    }
+  },
+  {
+    "id": "ゆっくり",
+    "title": "ゆっくり",
+    "q": "ゆっくり",
+    "a": "slowly, at ease",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "八日",
+    "title": "八日",
+    "q": "八日",
+    "a": "eight days, the eighth (day of the month)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ようか"
+    }
+  },
+  {
+    "id": "洋服",
+    "title": "洋服",
+    "q": "洋服",
+    "a": "Western-style clothes",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ようふく"
+    }
+  },
+  {
+    "id": "よく",
+    "title": "よく",
+    "q": "よく",
+    "a": "frequently, often",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "よく行く",
+      "specific": "よく行く - to go often"
+    }
+  },
+  {
+    "id": "よく-1",
+    "title": "よく",
+    "q": "よく",
+    "a": "nice, properly, well, skilled in",
+    "meta": {
+      "type": "vocab",
+      "question_specific": "よくできる",
+      "specific": "よくできる - can do well"
+    }
+  },
+  {
+    "id": "横",
+    "title": "横",
+    "q": "横",
+    "a": "beside, side, width",
+    "meta": {
+      "type": "vocab",
+      "kana": "よこ"
+    }
+  },
+  {
+    "id": "四日",
+    "title": "四日",
+    "q": "四日",
+    "a": "four days, the fourth (day of the month)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "よっか"
+    }
+  },
+  {
+    "id": "四つ",
+    "title": "四つ",
+    "q": "四つ",
+    "a": "four (things)",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "よっつ"
+    }
+  },
+  {
+    "id": "呼ぶ",
+    "title": "呼ぶ",
+    "q": "呼ぶ",
+    "a": "to call out, to invite",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "よぶ"
+    }
+  },
+  {
+    "id": "読む",
+    "title": "読む",
+    "q": "読む",
+    "a": "to read",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "よむ"
+    }
+  },
+  {
+    "id": "夜",
+    "title": "夜",
+    "q": "夜",
+    "a": "evening, night",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "よる"
+    }
+  },
+  {
+    "id": "来月",
+    "title": "来月",
+    "q": "来月",
+    "a": "next month",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "らいげつ"
+    }
+  },
+  {
+    "id": "来週",
+    "title": "来週",
+    "q": "来週",
+    "a": "next week",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "らいしゅう"
+    }
+  },
+  {
+    "id": "来年",
+    "title": "来年",
+    "q": "来年",
+    "a": "next year",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "らいねん"
+    }
+  },
+  {
+    "id": "ラジオ",
+    "title": "ラジオ",
+    "q": "ラジオ",
+    "a": "radio",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "りっぱ",
+    "title": "立派",
+    "q": "立派",
+    "a": "splendid, fine, handsome, elegant",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "りっぱ"
+    }
+  },
+  {
+    "id": "留学生",
+    "title": "留学生",
+    "q": "留学生",
+    "a": "overseas student",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "りゅうがくせい"
+    }
+  },
+  {
+    "id": "両親",
+    "title": "両親",
+    "q": "両親",
+    "a": "parents, both parents",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "りょうしん"
+    }
+  },
+  {
+    "id": "料理",
+    "title": "料理",
+    "q": "料理",
+    "a": "cooking, cookery",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "りょうり"
+    }
+  },
+  {
+    "id": "旅行",
+    "title": "旅行",
+    "q": "旅行",
+    "a": "travel, trip",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "りょこう"
+    }
+  },
+  {
+    "id": "零",
+    "title": "零",
+    "q": "零",
+    "a": "zero",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "れい"
+    }
+  },
+  {
+    "id": "冷蔵庫",
+    "title": "冷蔵庫",
+    "q": "冷蔵庫",
+    "a": "refrigerator",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "れいぞうこ"
+    }
+  },
+  {
+    "id": "レコード",
+    "title": "レコード",
+    "q": "レコード",
+    "a": "record",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "レストラン",
+    "title": "レストラン",
+    "q": "レストラン",
+    "a": "restaurant",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "練習",
+    "title": "練習",
+    "q": "練習",
+    "a": "practice",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "れんしゅう"
+    }
+  },
+  {
+    "id": "六",
+    "title": "六",
+    "q": "六",
+    "a": "six",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun",
+      "kana": "ろく"
+    }
+  },
+  {
+    "id": "ワイシャツ",
+    "title": "ワイシャツ",
+    "q": "ワイシャツ",
+    "a": "business shirt",
+    "meta": {
+      "type": "vocab",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "若い",
+    "title": "若い",
+    "q": "若い",
+    "a": "young",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "わかい"
+    }
+  },
+  {
+    "id": "分る",
+    "title": "分る",
+    "q": "分る",
+    "a": "to be understood",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "わかる"
+    }
+  },
+  {
+    "id": "忘れる",
+    "title": "忘れる",
+    "q": "忘れる",
+    "a": "to forget",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "わすれる"
+    }
+  },
+  {
+    "id": "私",
+    "title": "私",
+    "q": "私",
+    "a": "I",
+    "meta": {
+      "type": "vocab",
+      "word_type": "pronoun",
+      "kana": "わたくし"
+    }
+  },
+  {
+    "id": "私-1",
+    "title": "私",
+    "q": "私",
+    "a": "I",
+    "meta": {
+      "type": "vocab",
+      "word_type": "pronoun",
+      "kana": "わたし"
+    }
+  },
+  {
+    "id": "渡す",
+    "title": "渡す",
+    "q": "渡す",
+    "a": "to pass over, to hand over",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "わたす"
+    }
+  },
+  {
+    "id": "渡る",
+    "title": "渡る",
+    "q": "渡る",
+    "a": "to cross over, to go across",
+    "meta": {
+      "type": "vocab",
+      "word_type": "verb",
+      "kana": "わたる"
+    }
+  },
+  {
+    "id": "悪い",
+    "title": "悪い",
+    "q": "悪い",
+    "a": "bad, inferior",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adjective",
+      "kana": "わるい"
+    }
+  }
+]

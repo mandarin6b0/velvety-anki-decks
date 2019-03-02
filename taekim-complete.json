@@ -1,0 +1,256 @@
+{
+  "id": "taekim-complete",
+  "navigation": "Complete Guide",
+  "title": "The Complete Guide to Japanese",
+  "quote": "If you’re new to learning Japanese, I recommend you start with the Complete Guide to Japanese. This guide avoids long and complicated explanations and teaches you essential grammar and vocabulary through examples, interesting dialogues, and suggestions for practical applications.",
+  "author": "Tae Kim",
+  "site": { "url": "http://www.guidetojapanese.org/learn/complete/", "text": "guidetojapanese.org" },
+  "cards_count": 304,
+
+  "categories": [
+    {
+      "id": "noun-adj",
+      "title": "Nouns and Adjectives",
+      "cards_count": 88,
+      "decks": [
+        {
+          "id": "state-of-being",
+          "title": "State-of-Being",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/stateofbeing", "text": "guidetojapanese.org" },
+          "cards_count": 4,
+        },
+        {
+          "id": "topic-particles",
+          "title": "Topic Particles",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/topic_particles", "text": "guidetojapanese.org" },
+          "cards_count": 5,
+        },
+        {
+          "id": "addressing-people",
+          "title": "Addressing People",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/people", "text": "guidetojapanese.org" },
+          "cards_count": 20
+        },
+        {
+          "id": "sentence-ending",
+          "title": "Sentence-Ending Particles",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/ending_particles", "text": "guidetojapanese.org" },
+          "cards_count": 6
+        },
+        {
+          "id": "adjectives",
+          "title": "Adjectives",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/adjectives", "text": "guidetojapanese.org" },
+          "cards_count": 8
+        },
+        {
+          "id": "male-female",
+          "title": "Male/Female Speech",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/male_female", "text": "guidetojapanese.org" },
+          "cards_count": 4
+        },
+        {
+          "id": "noun-props",
+          "title": "Noun properties",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/no_particle", "text": "guidetojapanese.org" },
+          "cards_count": 5
+        },
+        {
+          "id": "negative-state-of-being",
+          "title": "Negative State-of-Being",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/negative_stateofbeing", "text": "guidetojapanese.org" },
+          "cards_count": 7
+        },
+        {
+          "id": "ga-particle",
+          "title": "が　identifier particle",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/unknown", "text": "guidetojapanese.org" },
+          "cards_count": 4
+        },
+        {
+          "id": "compound",
+          "title": "Compound Sentences",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/conjunctions", "text": "guidetojapanese.org" },
+          "cards_count": 16
+        },
+        {
+          "id": "multiple-nouns",
+          "title": "Listing multiple nouns",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/multiple_nouns", "text": "guidetojapanese.org" },
+          "cards_count": 4
+        },
+        {
+          "id": "explanation",
+          "title": "Explanation の",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/explanation", "text": "guidetojapanese.org" },
+          "cards_count": 5
+        },
+      ]
+    },
+    {
+      "id": "verb",
+      "title": "Verbs",
+      "cards_count": 91,
+      "decks": [
+        {
+          "id": "particles",
+          "title": "Particles used with verbs",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/verb_particles", "text": "guidetojapanese.org" },
+          "cards_count": 15
+        },
+        {
+          "id": "existence",
+          "title": "Existence Verbs",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/existence", "text": "guidetojapanese.org" },
+          "cards_count": 4
+        },
+        {
+          "id": "negative",
+          "title": "Negative Form",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/negativeverbs", "text": "guidetojapanese.org" },
+          "cards_count": 20
+        },
+        {
+          "id": "polite",
+          "title": "Polite Verbs",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/polite_verbs", "text": "guidetojapanese.org" },
+          "cards_count": 13
+        },
+        {
+          "id": "desire_volition",
+          "title": "Desire and Volition",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/desire_volition", "text": "guidetojapanese.org" },
+          "cards_count": 11
+        },
+        {
+          "id": "time",
+          "title": "Telling Time",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/time", "text": "guidetojapanese.org" },
+          "cards_count": 5
+        },
+        {
+          "id": "question",
+          "title": "Question words",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/questionwords", "text": "guidetojapanese.org" },
+          "cards_count": 11
+        },
+        {
+          "id": "adverbs",
+          "title": "Adverbs",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/adverbs", "text": "guidetojapanese.org" },
+          "cards_count": 6
+        },
+        {
+          "id": "clauses",
+          "title": "Verb clauses",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/verb_clauses", "text": "guidetojapanese.org" },
+          "cards_count": 6
+        },
+      ]
+    },
+    {
+      "id": "verb-tenses",
+      "title": "Verb tenses and clauses",
+      "cards_count": 79,
+      "decks": [
+        {
+          "id": "progressive",
+          "title": "Progressive Tense",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/progressive_tense", "text": "guidetojapanese.org" },
+          "cards_count": 17
+        },
+        {
+          "id": "past",
+          "title": "Past Verb Tense",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/verb_past", "text": "guidetojapanese.org" },
+          "cards_count": 10
+        },
+        {
+          "id": "stateofbeingpast",
+          "title": "State-of-Being Past Tense",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/stateofbeing_past", "text": "guidetojapanese.org" },
+          "cards_count": 15
+        },
+        {
+          "id": "sequence",
+          "title": "Verb sequences",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/verb_sequences", "text": "guidetojapanese.org" },
+          "cards_count": 10
+        },
+        {
+          "id": "multiple",
+          "title": "Listing multiple verbs",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/multiple_verbs", "text": "guidetojapanese.org" },
+          "cards_count": 6
+        },
+        {
+          "id": "phrase",
+          "title": "Phrasing verb clauses",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/verb_phrase", "text": "guidetojapanese.org" },
+          "cards_count": 7
+        },
+        {
+          "id": "experience",
+          "title": "Experiences",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/experiences", "text": "guidetojapanese.org" },
+          "cards_count": 2
+        },
+        {
+          "id": "transtype",
+          "title": "Transitive and Intransitive",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/transtype", "text": "guidetojapanese.org" },
+          "cards_count": 3
+        },
+        {
+          "id": "polite_negative",
+          "title": "Polite Negative Forms",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/polite_negative", "text": "guidetojapanese.org" },
+          "cards_count": 9
+        },
+      ]
+    },
+    {
+      "id": "counters",
+      "title": "Numbers, amounts, and directions",
+      "cards_count": 46,
+      "decks": [
+        {
+          "id": "numeric",
+          "title": "The numeric system",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/numeric_system", "text": "guidetojapanese.org" },
+          "cards_count": 6
+        },
+        {
+          "id": "counting",
+          "title": "Counting and counters",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/counting", "text": "guidetojapanese.org" },
+          "cards_count": 9
+        },
+        {
+          "id": "date_time",
+          "title": "Dates and time",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/date_time", "text": "guidetojapanese.org" },
+          "cards_count": 9
+        },
+        {
+          "id": "amounts",
+          "title": "Various amounts",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/amounts", "text": "guidetojapanese.org" },
+          "cards_count": 9
+        },
+        {
+          "id": "comparisons",
+          "title": "Comparisons",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/comparisons", "text": "guidetojapanese.org" },
+          "cards_count": 8
+        },
+        {
+          "id": "directions",
+          "title": "Directions",
+          "site": { "url": "http://www.guidetojapanese.org/learn/complete/directions", "text": "guidetojapanese.org" },
+          "cards_count": 5
+        },
+      ],
+    }
+  ],
+}

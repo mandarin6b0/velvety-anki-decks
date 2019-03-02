@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "title": "ru",
+    "q": "In what sound ru-verbs end?",
+    "a": "/i/ru, /e/ru",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "2",
+    "title": "u",
+    "q": "In what sound u-verbs end?",
+    "a": "/u/",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "3",
+    "title": "exception",
+    "q": "What are exceptional verbs that are neither u- nor ru- verbs?",
+    "a": "する、来る",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "4",
+    "title": "ru",
+    "q": "食べる",
+    "a": "ru-verb",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "ru- or u- verb?"
+    }
+  },
+  {
+    "id": "5",
+    "title": "u",
+    "q": "話す",
+    "a": "u-verb",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "ru- or u- verb?"
+    }
+  },
+  {
+    "id": "6",
+    "title": "ru",
+    "q": "起きる",
+    "a": "ru-verb",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "ru- or u- verb?"
+    }
+  },
+  {
+    "id": "7",
+    "title": "u",
+    "q": "泳ぐ",
+    "a": "u-verb",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "ru- or u- verb?"
+    }
+  },
+  {
+    "id": "8",
+    "title": "ru",
+    "q": "いる",
+    "a": "ru-verb",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "ru- or u- verb?"
+    }
+  },
+  {
+    "id": "9",
+    "title": "u",
+    "q": "帰る",
+    "a": "u-verb",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "ru- or u- verb?"
+    }
+  },
+  {
+    "id": "10",
+    "title": "n.ru",
+    "q": "How to conjugate ru-verb into the negative form",
+    "a": "Drop the「る」and attach「ない」",
+    "meta": {
+      "type": "grammar",
+      "example": "食べる → 食べない",
+      "question_specific":"食べる"
+    }
+  },
+  {
+    "id": "11",
+    "title": "n.u",
+    "q": "How to conjugate u-verb into the negative form",
+    "a": "End in「う」:「う」→「わ」, add「ない」\n\nOther: u-vowel → a-vowel equivalent, add「ない」",
+    "meta": {
+      "type": "grammar",
+      "example": "買う → 買わない\n待つ → 待たない",
+      "question_specific":"買う、待つ"
+    }
+  },
+  {
+    "id": "12",
+    "title": "n",
+    "q": "見る",
+    "a": "見ない",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate into negative"
+    }
+  },
+  {
+    "id": "13",
+    "title": "n",
+    "q": "考える",
+    "a": "考えない",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate into negative"
+    }
+  },
+  {
+    "id": "14",
+    "title": "n",
+    "q": "出る",
+    "a": "出ない",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate into negative"
+    }
+  },
+  {
+    "id": "15",
+    "title": "n",
+    "q": "聞く",
+    "a": "聞かない",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate into negative"
+    }
+  },
+  {
+    "id": "16",
+    "title": "n",
+    "q": "遊ぶ",
+    "a": "遊ばない",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate into negative"
+    }
+  },
+  {
+    "id": "17",
+    "title": "n",
+    "q": "飲む",
+    "a": "飲まない",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate into negative"
+    }
+  },
+  {
+    "id": "18",
+    "title": "n",
+    "q": "する",
+    "a": "しない",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate into negative"
+    }
+  },
+  {
+    "id": "19",
+    "title": "n",
+    "q": "来る",
+    "a": "来ない【こない】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate into negative"
+    }
+  },
+  {
+    "id": "20",
+    "title": "n",
+    "q": "ある",
+    "a": "ない",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate into negative"
+    }
+  },
+
+]

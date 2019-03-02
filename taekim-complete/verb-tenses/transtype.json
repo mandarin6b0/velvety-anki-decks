@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "title": "tr",
+    "q": "Transitive or intransitive verb can't take direct object (を particle)?",
+    "a": "Intransitive",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "2",
+    "title": "tr",
+    "q": "会話＿始める",
+    "a": "を",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Start a conversation"
+    }
+  },
+  {
+    "id": "3",
+    "title": "tr",
+    "q": "映画＿始まる",
+    "a": "が",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Movie begins"
+    }
+  },
+]

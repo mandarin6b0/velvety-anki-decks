@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "A?",
+    "q": "元気＿",
+    "a": "元気？",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Are you well?\n(casual)"
+    }
+  },
+  {
+    "id": "2",
+    "title": "A",
+    "q": "元気＿",
+    "a": "元気",
+    "meta": {
+      "type": "speech",
+      "question_specific": "I'm fine\n(casual)"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Aですか",
+    "q": "元気＿",
+    "a": "元気ですか",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Are you well?\n(polite)"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Aです",
+    "q": "元気＿",
+    "a": "元気です",
+    "meta": {
+      "type": "speech",
+      "question_specific": "I'm well\n(polite)"
+    }
+  },
+]

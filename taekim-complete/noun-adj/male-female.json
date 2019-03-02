@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "だ",
+    "q": "Can だ be used in the next sentence? If yes, can you omit it?",
+    "a": "Yes, だ can be used with na-adjective. When used the sentence becomes more masculine.",
+    "meta": {
+      "type": "speech",
+      "question_specific": "日本語は、上手＿ね"
+    }
+  },
+  {
+    "id": "2",
+    "title": "だ",
+    "q": "Can だ be used in the next sentence? If yes, can you omit it?",
+    "a": "No, だ can't be used with i-adjective.",
+    "meta": {
+      "type": "speech",
+      "question_specific": "日本語は、楽しい＿よ"
+    }
+  },
+  {
+    "id": "3",
+    "title": "だ",
+    "q": "Can だ be used in the next sentence? If yes, can you omit it?",
+    "a": "Yes, だ can be used with na-adjective. When used the sentence becomes more masculine.",
+    "meta": {
+      "type": "speech",
+      "question_specific": "アリス：宿題は、難しい？\nジョン：簡単＿よ！"
+    }
+  },
+  {
+    "id": "4",
+    "title": "だ",
+    "q": "Can だ be used in the next sentence? If yes, can you omit it?",
+    "a": "No, だ can't be used with i-adjective.",
+    "meta": {
+      "type": "speech",
+      "question_specific": "ジョン：うーん、多分難しい＿よ。\nアリス：どっちよ。"
+    }
+  },
+]

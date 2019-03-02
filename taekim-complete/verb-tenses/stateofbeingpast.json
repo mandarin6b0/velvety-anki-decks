@@ -1,0 +1,166 @@
+[
+  {
+    "id": "1",
+    "title": "past",
+    "q": "How to conjugate nouns/na-adjectives into past tense?",
+    "a": "Attach だった",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "学生",
+      "example": "学生だった"
+    }
+  },
+  {
+    "id": "2",
+    "title": "past",
+    "q": "How to conjugate i-adjectives/negative into past tense?",
+    "a": "Replace い → かった",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "かわいい, 学生じゃない",
+      "example": "かわいい → かわいかった\n学生じゃない → 学生じゃなかった"
+    }
+  },
+  {
+    "id": "3",
+    "title": "past",
+    "q": "いい",
+    "a": "よい",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to past tense"
+    }
+  },
+  {
+    "id": "4",
+    "title": "past",
+    "q": "かっこいい",
+    "a": "かっこよかった",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to past tense"
+    }
+  },
+  {
+    "id": "5",
+    "title": "past",
+    "q": "行きたい",
+    "a": "行きたかった",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to past tense"
+    }
+  },
+  {
+    "id": "6",
+    "title": "past",
+    "q": "食べたくない",
+    "a": "食べなくなかった",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to past tense"
+    }
+  },
+  {
+    "id": "7",
+    "title": "past",
+    "q": "先生",
+    "a": "先生だった",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to past tense"
+    }
+  },
+  {
+    "id": "8",
+    "title": "past",
+    "q": "高くない",
+    "a": "高くなかった",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to past tense"
+    }
+  },
+  {
+    "id": "9",
+    "title": "past",
+    "q": "How to conjugate nouns/na-adjectives into polite past tense?",
+    "a": "Attach でした",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "学生",
+      "example": "学生でした"
+    }
+  },
+  {
+    "id": "10",
+    "title": "past",
+    "q": "How to conjugate i-adjectives/negative into polite past tense?",
+    "a": "Add です to plain past tense",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "かわいい",
+      "example": "かわいかったです"
+    }
+  },
+  {
+    "id": "11",
+    "title": "past",
+    "q": "いい",
+    "a": "よかったです",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to polite past tense"
+    }
+  },
+  {
+    "id": "12",
+    "title": "past",
+    "q": "かっこいい",
+    "a": "かっこよかったです",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to polite past tense"
+    }
+  },
+  {
+    "id": "13",
+    "title": "past",
+    "q": "暇",
+    "a": "暇でした",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to polite past tense"
+    }
+  },
+  {
+    "id": "14",
+    "title": "past",
+    "q": "早い",
+    "a": "早かったです",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to polite past tense"
+    }
+  },
+  {
+    "id": "15",
+    "title": "past",
+    "q": "来たい",
+    "a": "来たかったです",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to polite past tense"
+    }
+  },
+  {
+    "id": "16",
+    "title": "past",
+    "q": "見ない",
+    "a": "見なかったです",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to polite past tense"
+    }
+  }
+]

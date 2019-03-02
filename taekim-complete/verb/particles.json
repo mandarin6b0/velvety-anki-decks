@@ -1,0 +1,151 @@
+[
+  {
+    "id": "1",
+    "title": "を",
+    "q": "What is the role of を particle?",
+    "a": "It designates the direct object of a verb",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "2",
+    "title": "を",
+    "q": "映画＿見る",
+    "a": "を",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Watch movie"
+    }
+  },
+  {
+    "id": "3",
+    "title": "を",
+    "q": "手紙＿書く",
+    "a": "を",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Write letter"
+    }
+  },
+  {
+    "id": "4",
+    "title": "と",
+    "q": "What is the role of と particle?",
+    "a": "It describes that the action was done with someone or something",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "リーさんと話す"
+    }
+  },
+  {
+    "id": "5",
+    "title": "と",
+    "q": "友達＿遊ぶ",
+    "a": "と",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Play with friends"
+    }
+  },
+  {
+    "id": "6",
+    "title": "と",
+    "q": "親戚＿会う",
+    "a": "と",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Meet with relatives"
+    }
+  },
+  {
+    "id": "7",
+    "title": "に",
+    "q": "What is the role of に particle?",
+    "a": "It designates the target of an action",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "バスに乗る"
+    }
+  },
+  {
+    "id": "8",
+    "title": "に",
+    "q": "学校＿行く",
+    "a": "に",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Go to school"
+    }
+  },
+  {
+    "id": "9",
+    "title": "に",
+    "q": "明日＿くる",
+    "a": "に",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Come tomorrow"
+    }
+  },
+  {
+    "id": "10",
+    "title": "に",
+    "q": "先生＿聞く",
+    "a": "に",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Ask/listen to teacher"
+    }
+  },
+  {
+    "id": "11",
+    "title": "で",
+    "q": "What is the role of で particle?",
+    "a": "It describes the context or the means in which a verb takes place",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "はしで食べる"
+    }
+  },
+  {
+    "id": "12",
+    "title": "で",
+    "q": "日本語＿話す",
+    "a": "で",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Speak in Japanese"
+    }
+  },
+  {
+    "id": "13",
+    "title": "で",
+    "q": "仕事＿忙しい",
+    "a": "で",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Busy with work"
+    }
+  },
+  {
+    "id": "14",
+    "title": "へ",
+    "q": "What is the role of へ particle?",
+    "a": "It describes the direction of motion verbs",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "学校へ行く"
+    }
+  },
+  {
+    "id": "15",
+    "title": "へ",
+    "q": "Translate",
+    "a": "Send letter to Japan",
+    "meta": {
+      "type": "speech",
+      "question_specific": "手紙を日本へ送る"
+    }
+  },
+]

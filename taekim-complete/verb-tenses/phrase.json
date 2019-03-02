@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1",
+    "title": "と",
+    "q": "How to quote a verb ending phrase?",
+    "a": "Add と to the end of the clause",
+    "meta": {
+      "type": "grammar",
+      "example": "「来ない」と言った"
+    }
+  },
+  {
+    "id": "2",
+    "title": "と",
+    "q": "How to quote a noun/na-adjective ending phrase?",
+    "a": "Add だと to the end of the clause",
+    "meta": {
+      "type": "grammar",
+      "example": "来週暇だと言った"
+    }
+  },
+  {
+    "id": "3",
+    "title": "と",
+    "q": "◯は日本語でなんと言いますか",
+    "a": "How (do you) say ◯ in Japanese?",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Translate"
+    }
+  },
+  {
+    "id": "4",
+    "title": "と",
+    "q": "おいしいと思いますか？",
+    "a": "Do (you) think (it) is tasty?",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Translate"
+    }
+  },
+  {
+    "id": "5",
+    "title": "と",
+    "q": "タバコは吸わないと約束した",
+    "a": "Promised not to smoke cigarettes",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Translate"
+    }
+  },
+  {
+    "id": "6",
+    "title": "と",
+    "q": "Introduce yourself using と",
+    "a": "私は◯と言います",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "7",
+    "title": "って",
+    "q": "Short version of と言う?",
+    "a": "って",
+    "meta": {
+      "type": "grammar"
+    }
+  }
+]

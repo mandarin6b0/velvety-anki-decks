@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1",
+    "title": "は",
+    "q": "- これ＿、何ですか？\n- それ＿、ペンです。",
+    "a": "は",
+    "meta": {
+      "type": "speech",
+      "question_specific": "- (As for) this, what is (it)?\n- (As for) that, (it’s) a pen."
+    }
+  },
+  {
+    "id": "2",
+    "title": "は",
+    "q": "- 今＿、忙しい？\n- 今＿、ちょっと忙しい。",
+    "a": "は",
+    "meta": {
+      "type": "speech",
+      "question_specific": "- (As for) now, busy?\n- (As for) now, (I’m) a little busy."
+    }
+  },
+  {
+    "id": "3",
+    "title": "は",
+    "q": "- 映画＿、好きですか？\n- 好きです。",
+    "a": "は",
+    "meta": {
+      "type": "speech",
+      "question_specific": "- (As for) movie(s), (do you) like?\n- (I) like (them)."
+    }
+  }, {
+    "id": "4",
+    "title": "も",
+    "q": "Topic particle that adds the meaning of \"as well\", \"also\"",
+    "a": "も",
+    "meta": {
+      "type": "grammar",
+    }
+  }, {
+    "id": "5",
+    "title": "も",
+    "q": "A: 今日は忙しい？\nB: うん、忙しい\nA: 明日は？\nB: 明日＿忙しい",
+    "a": "も",
+    "meta": {
+      "type": "speech",
+      "question_specific": "A: As for today, (are you) busy?\nB: Yeah, (I'm) busy\nA: What about tomorrow?\nB: Tomorrow is also busy"
+    }
+  }
+]

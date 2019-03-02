@@ -1,0 +1,20 @@
+[
+  {
+    "id": "jlpt-5-vocabs",
+    "title": "JLPT 5 Vocabs",
+    "type": "flat",
+    "cards_count": 676
+  },
+  {
+    "id": "jlpt-5-kanji",
+    "title": "JLPT 5 Kanji",
+    "type": "flat",
+    "cards_count": 103
+  },
+  {
+    "id": "taekim-complete",
+    "title": "Tae Kim: Complete Guide",
+    "type": "grouped",
+    "cards_count": 304
+  },
+]

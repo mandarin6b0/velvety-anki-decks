@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "title": "past",
+    "q": "How to conjugate verb into past tense?",
+    "a": "Conjugate to the te-form, replace て → た, で → だ",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "食べる, 食べている",
+      "example": "食べる → 食べた\n食べている → 食べていた"
+    }
+  },
+  {
+    "id": "2",
+    "title": "past",
+    "q": "How to conjugate verb into negative past tense?",
+    "a": "Conjugate to the negative, replace い → かった",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "食べる, 食べている",
+      "example": "食べる → 食べなかった\n食べている → 食べていなかった"
+    }
+  },
+  {
+    "id": "3",
+    "title": "past",
+    "q": "飲む",
+    "a": "飲んだ",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to past tense"
+    }
+  },
+  {
+    "id": "4",
+    "title": "past",
+    "q": "遊ぶ",
+    "a": "遊ばなかった",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to negative past tense"
+    }
+  },
+  {
+    "id": "5",
+    "title": "past",
+    "q": "見ている",
+    "a": "見ていた",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to past tense"
+    }
+  },
+  {
+    "id": "6",
+    "title": "past",
+    "q": "帰っている",
+    "a": "帰っていなかった",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to negative past tense"
+    }
+  },
+  {
+    "id": "7",
+    "title": "past",
+    "q": "How to conjugate verb into polite past tense?",
+    "a": "Add ました to the verb stem",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "食べる",
+      "example": "食べました"
+    }
+  },
+  {
+    "id": "8",
+    "title": "past",
+    "q": "How to conjugate verb into polite negative past tense?",
+    "a": "Add ませんでした to the verb stem",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "食べる",
+      "example": "食べませんでした"
+    }
+  },
+  {
+    "id": "9",
+    "title": "past",
+    "q": "行く",
+    "a": "行きました",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to polite past tense"
+    }
+  },
+  {
+    "id": "10",
+    "title": "past",
+    "q": "来る",
+    "a": "来ませんでした",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to polite negative past tense"
+    }
+  },
+]

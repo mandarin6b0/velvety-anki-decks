@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "title": "じ",
+    "q": "Suffix for hours",
+    "a": "〜時【じ】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "As in \"4 o'clock\""
+    }
+  },
+  {
+    "id": "2",
+    "title": "じ",
+    "q": "Suffix for minutes",
+    "a": "〜分【ぶん】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "As in \"17 minutes\""
+    }
+  },
+  {
+    "id": "3",
+    "title": "complex",
+    "q": "18＿19＿",
+    "a": "18時から19時まで",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "From 6pm until 7pm"
+    }
+  },
+  {
+    "id": "4",
+    "title": "complex",
+    "q": "授業は何時＿始まるの",
+    "a": "から",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "From what time is class start?"
+    }
+  },
+  {
+    "id": "5",
+    "title": "complex",
+    "q": "いつ＿この会社で働きたいですか",
+    "a": "まで",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Until when do (you) want to work at this company?"
+    }
+  },
+]
+

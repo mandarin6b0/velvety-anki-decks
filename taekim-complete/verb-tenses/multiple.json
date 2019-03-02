@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "title": "たり",
+    "q": "How to create partial list of verbs?",
+    "a": "Conjugate all verbs to past tense, add り to each, add する at the end",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Similar to や, とか",
+      "example": "食べたり飲んだりする"
+    }
+  },
+  {
+    "id": "2",
+    "title": "たり",
+    "q": "（寝る）、本を（読む）のが好き",
+    "a": "寝たり、本を 読んだりする のが好き",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Like to do things like sleeping and reading book(s)"
+    }
+  },
+  {
+    "id": "3",
+    "title": "たり",
+    "q": "ビールを（飲む）、テレビを（見る + masu-form in past form)",
+    "a": "ビールを 飲んだり、テレビを 見たりしました",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "(I) did things like drink beer and watch tv"
+    }
+  },
+  {
+    "id": "4",
+    "title": "し",
+    "q": "How to create partial list of reasons?",
+    "a": "Add し to the end of each clause. Add だ for plain nouns/na-adjectives",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Similar to や, とか",
+      "example": "きれいだし、優しいし、面白いから..."
+    }
+  },
+  {
+    "id": "5",
+    "title": "し",
+    "q": "今日は（暑い）、授業もないから",
+    "a": "今日は 暑いし、授業もないから",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Because today is hot (among other reasons) and there’s also no class"
+    }
+  },
+  {
+    "id": "6",
+    "title": "し",
+    "q": "（疲れた）、（眠い）、今日はどこにも行きたくないよ",
+    "a": "疲れたし、眠いし、今日はどこにも行きたくないよ",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "(I’m) tired and sleepy (among other reasons), (I) don’t want to go anywhere today."
+    }
+  },
+]

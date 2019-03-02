@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "title": "と",
+    "q": "スミス：親子丼の材料は何ですか？\n田中：ご飯＿玉ねぎ＿しょうゆ＿です。そして、鶏肉＿卵＿です。",
+    "a": "1) と\n2) と\n3)\n4) と\n5)",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Smith: What are the ingredients for Oyako-don?\nTanaka: Rice, onions, and soy sauce. And then chicken and egg."
+    }
+  },
+  {
+    "id": "2",
+    "title": "や",
+    "q": "What is the difference between「や」「と」「とか」?",
+    "a": "「や」implies that the list is not complete.「とか」is a more casual version of「や」",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "3",
+    "title": "や",
+    "q": "山本：どんな食べ物が好きですか？\nスミス：日本のお菓子＿チーズケーキ＿イチゴショートケーキ＿が好きです。",
+    "a": "1) や\n2) や\n3)",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Yamamoto: What kind of food do (you) like?\nSmith: (I) like things like Japanese candy, cheese cake, and strawberry short cake."
+    }
+  },
+  {
+    "id": "4",
+    "title": "か",
+    "q": "アリス：試験はいつ？\nジョン：今日＿明日だよ。",
+    "a": "か",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Alice: Exam is when?\nJohn: Today or tomorrow."
+    }
+  },
+]

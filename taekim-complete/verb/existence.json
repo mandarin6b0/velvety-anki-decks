@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "title": "いる",
+    "q": "For what things いる can be used?",
+    "a": "For things that can move of their own volition",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "2",
+    "title": "ある",
+    "q": "For what things ある can be used?",
+    "a": "For inanimate objects and abstract concepts",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "3",
+    "title": "いる",
+    "q": "アリスは、学校の後ろに＿",
+    "a": "いる",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Alice is behind (the) school"
+    }
+  },
+  {
+    "id": "4",
+    "title": "ある",
+    "q": "鍵は、テーブルの上に＿",
+    "a": "ある",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Key is above (the) table"
+    }
+  }
+]

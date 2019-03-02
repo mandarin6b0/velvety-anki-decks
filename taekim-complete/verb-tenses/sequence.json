@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1",
+    "title": "て",
+    "q": "How to conjugate nouns/na-adjectives into te-form?",
+    "a": "Attach で",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "学生",
+      "example": "学生で"
+    }
+  },
+  {
+    "id": "2",
+    "title": "て",
+    "q": "How to conjugate i-adjectives/negative into te-form?",
+    "a": "Replace い → くて",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "かわいい, 学生じゃない",
+      "example": "かわいい → かわいくて\n学生じゃない → 学生じゃなくて"
+    }
+  },
+  {
+    "id": "3",
+    "title": "て",
+    "q": "いい",
+    "a": "よくて",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate into te-form"
+    }
+  },
+  {
+    "id": "4",
+    "title": "sequence",
+    "q": "彼女は、きれい＿、優し＿から、皆に人気がある",
+    "a": "1) きれいで\n2) 優しくて",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Because she is pretty and gentle, (she's) popular with everybody"
+    }
+  },
+  {
+    "id": "5",
+    "title": "前",
+    "q": "寝＿、お風呂に入る",
+    "a": "寝る + 前に",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Take a bath before going to sleep"
+    }
+  },
+  {
+    "id": "6",
+    "title": "後",
+    "q": "食べ＿、泳ぐのは危ないです",
+    "a": "食べた + 後",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Swim after eating is dangerous"
+    }
+  },
+  {
+    "id": "7",
+    "title": "てから",
+    "q": "What is the difference between 後 and 〜てから",
+    "a": "てから conveys a more immediate relation between the two events",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "8",
+    "title": "てから",
+    "q": "晩ご飯を食べ＿、宿題をするよ",
+    "a": "食べて + から",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "(I’ll) do homework after (I) eat dinner"
+    }
+  },
+  {
+    "id": "9",
+    "title": "ながら",
+    "q": "How to express concurent actions?",
+    "a": "Change the first verb to the stem, add ながら",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "食べる + 話す",
+      "example": "食べながら話す"
+    }
+  },
+  {
+    "id": "10",
+    "title": "ながら",
+    "q": "テレビを見＿、宿題をする",
+    "a": "見ながら",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Do homework while watching TV"
+    }
+  },
+]

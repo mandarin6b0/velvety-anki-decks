@@ -1,0 +1,136 @@
+[
+  {
+    "id": "1",
+    "title": "stem",
+    "q": "How to change ru-verb to its stem?",
+    "a": "Drop the「る」",
+    "meta": {
+      "type": "grammar",
+      "example": "食べる → たべ",
+      "question_specific":"食べる"
+    }
+  },
+  {
+    "id": "2",
+    "title": "stem",
+    "q": "How to change u-verb to its stem?",
+    "a": "u-vowel → i-vowel equivalent",
+    "meta": {
+      "type": "grammar",
+      "example": "行く → 行き",
+      "question_specific":"行く"
+    }
+  },
+  {
+    "id": "3",
+    "title": "stem",
+    "q": "する",
+    "a": "し",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Change to stem"
+    }
+  },
+  {
+    "id": "4",
+    "title": "stem",
+    "q": "来る",
+    "a": "き",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Change to stem"
+    }
+  },
+  {
+    "id": "5",
+    "title": "stem",
+    "q": "見る",
+    "a": "見",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Change to stem"
+    }
+  },
+  {
+    "id": "6",
+    "title": "stem",
+    "q": "考える",
+    "a": "考え",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Change to stem"
+    }
+  },
+  {
+    "id": "7",
+    "title": "stem",
+    "q": "話す",
+    "a": "話し",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Change to stem"
+    }
+  },
+  {
+    "id": "8",
+    "title": "stem",
+    "q": "帰る",
+    "a": "帰り",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Change to stem"
+    }
+  },
+  {
+    "id": "9",
+    "title": "polite",
+    "q": "How to conjugate the verb to the polite positive form",
+    "a": "Attach「ます」to the stem",
+    "meta": {
+      "type": "grammar",
+      "example": "食べる → 食べます",
+      "question_specific":"食べる"
+    }
+  },
+  {
+    "id": "10",
+    "title": "polite",
+    "q": "How to conjugate the verb to the polite negative form",
+    "a": "Attach「ません」to the stem",
+    "meta": {
+      "type": "grammar",
+      "example": "買う → 買いません",
+      "question_specific":"買う"
+    }
+  },
+  {
+    "id": "11",
+    "title": "target",
+    "q": "How to make a verb a target for another verb?",
+    "a": "Attach「に」to the stem",
+    "meta": {
+      "type": "grammar",
+      "example": "食べる → 食べに + Verb",
+    }
+  },
+  {
+    "id": "12",
+    "title": "target",
+    "q": "会いに来る",
+    "a": "Coming to meet",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Translate"
+    }
+  },
+  {
+    "id": "13",
+    "title": "target",
+    "q": "Go to eat",
+    "a": "食べに行く",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Translate, using target particle"
+    }
+  },
+]

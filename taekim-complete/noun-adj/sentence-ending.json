@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "title": "よ",
+    "q": "Describe「よ」sentence ender",
+    "a": "Speaker wants to point something out or make something aware to listener. \"You know?\"",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": 2,
+    "title": "ね",
+    "q": "Describe「ね」sentence ender",
+    "a": "Speaker is seeking agreement and confirmation. \"Right?\", \"Isn't it?\"",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": 3,
+    "title": "よね",
+    "q": "What enders order is correct?",
+    "a": "よね",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "「よね」or「ねよ」"
+    }
+  },
+  {
+    "id": 4,
+    "title": "ね",
+    "q": "Translate sentence with「ね」",
+    "a": "As for today, (it's) hot, isn't it?",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "今日は、暑いですね"
+    }
+  },
+  {
+    "id": 5,
+    "title": "よ",
+    "q": "Translate sentence with「よ」",
+    "a": "As for tomorrow, (I'm) busy, you know",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "明日は、忙しいですよ"
+    }
+  },
+  {
+    "id": 6,
+    "title": "よね",
+    "q": "Translate sentence with「よね」",
+    "a": "As for ramen, (it's) tasty you know, isn't it?!",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "ラーメンは、おいしいですよね！"
+    }
+  },
+]

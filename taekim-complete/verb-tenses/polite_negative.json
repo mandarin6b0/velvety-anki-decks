@@ -1,0 +1,96 @@
+[
+  {
+    "id": "1",
+    "title": "ない",
+    "q": "How to conjugate verb to negative polite using ない form?",
+    "a": "Add です",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "行かない",
+      "example": "行かないです"
+    }
+  },
+  {
+    "id": "2",
+    "title": "ない",
+    "q": "How to conjugate verb to past negative polite using なかった form?",
+    "a": "Add です",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "行かなかった",
+      "example": "行かなかったです"
+    }
+  },
+  {
+    "id": "3",
+    "title": "ない",
+    "q": "食べない",
+    "a": "食べないです",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to negative polite form",
+    }
+  },
+  {
+    "id": "4",
+    "title": "ない",
+    "q": "しなかった",
+    "a": "しなかったです",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to past negative polite form",
+    }
+  },
+  {
+    "id": "5",
+    "title": "ない",
+    "q": "How to conjugate nouns/na-adjectives to non-past/past negative polite form using ある verb?",
+    "a": "Add じゃ + ありません / ありませんでした",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "元気",
+      "example": "元気じゃありません"
+    }
+  },
+  {
+    "id": "6",
+    "title": "ない",
+    "q": "How to conjugate i-adjectives to non-past/past negative polite form using ある verb?",
+    "a": "い→く + ありません / ありませんでした",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "忙しい",
+      "example": "忙しくありません"
+    }
+  },
+  {
+    "id": "7",
+    "title": "ない",
+    "q": "いい",
+    "a": "よくありません",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to non-past negative polite form using ある verb",
+    }
+  },
+  {
+    "id": "8",
+    "title": "ない",
+    "q": "かっこいい",
+    "a": "かっこよくありませんでした",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to past negative polite form using ある verb",
+    }
+  },
+  {
+    "id": "9",
+    "title": "ない",
+    "q": "What is the difference between です and ます for negative?",
+    "a": "です for negative is primarily for spoken Japanese only. Used to soften the negative aspect",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "行かないです / 行きません",
+    }
+  },
+]

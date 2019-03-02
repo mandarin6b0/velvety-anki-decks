@@ -1,0 +1,81 @@
+[
+  {
+    "id": "1",
+    "title": "方",
+    "q": "What does 方 define in comparisons?",
+    "a": "方 defines the direction the comparison is leaning toward",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "犬の方が猫より好き"
+    }
+  },
+  {
+    "id": "2",
+    "title": "方",
+    "q": "How 方 is read when used for comparison?",
+    "a": "ほう",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "3",
+    "title": "より",
+    "q": "What does より define in comparisons?",
+    "a": "より defines the side the comparison is leaning away from",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "犬の方が猫より好き"
+    }
+  },
+  {
+    "id": "4",
+    "title": "ほど",
+    "q": "What does ほど describe in comparisons?",
+    "a": "ほど describes the extent of something",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "ジョンさんほど猫が嫌い"
+    }
+  },
+  {
+    "id": "5",
+    "title": "方/より",
+    "q": "What part of speech are 方, より, ほど",
+    "a": "方 - noun\nより - particle\nほど - particle",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "noun or particle?"
+    }
+  },
+  {
+    "id": "6",
+    "title": "方",
+    "q": "犬と猫、どちらの＿が好き？",
+    "a": "方",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Which do (you) like more, dog or cat?"
+    }
+  },
+  {
+    "id": "7",
+    "title": "方",
+    "q": "犬の＿が猫＿嫌い",
+    "a": "1) 方\n2) より",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Hate dog more than cat"
+    }
+  },
+  {
+    "id": "8",
+    "title": "ほど",
+    "q": "猫は、犬＿好きじゃない",
+    "a": "ほど",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Don’t like cat as much as dog"
+    }
+  },
+]

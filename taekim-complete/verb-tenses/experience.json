@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "こと",
+    "q": "日本に行った＿？",
+    "a": "行ったことはある",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Have you ever gone to Japan?"
+    }
+  },
+  {
+    "id": "2",
+    "title": "こと",
+    "q": "Verb past tense + ことはある",
+    "a": "To describe experience of doing smthing",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Purpose of this construction?"
+    }
+  }
+]

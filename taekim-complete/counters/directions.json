@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "方",
+    "q": "How to use 方 as direction?",
+    "a": "Attach 方 to the verb stem",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "(way of doing)"
+    }
+  },
+  {
+    "id": "2",
+    "title": "方",
+    "q": "How 方 is read when used as direction?",
+    "a": "かた",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "3",
+    "title": "方",
+    "q": "駅までの (行く)＿ は分かりますか",
+    "a": "行き方",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Do (you) know the way to the train station?"
+    }
+  },
+  {
+    "id": "4",
+    "title": "どうやって",
+    "q": "How does どうやって relate to どうして",
+    "a": "やる is casual version of する, どうやって is more common for instructions because どうして also means \"why\"",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "5",
+    "title": "どうやって",
+    "q": "カレーは＿作りますか",
+    "a": "どうやって",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "How do (you) go about making curry?"
+    }
+  },
+]

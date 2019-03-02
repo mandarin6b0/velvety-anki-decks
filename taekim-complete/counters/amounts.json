@@ -1,0 +1,96 @@
+[
+  {
+    "id": "1",
+    "title": "だけ",
+    "q": "What is the difference between だけ and しか?",
+    "a": "しか must be used with the negative and emphasizes the lack of something",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "(only)"
+    }
+  },
+  {
+    "id": "2",
+    "title": "だけ",
+    "q": "肉＿（食べる）",
+    "a": "肉だけ食べる",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Eat only meat"
+    }
+  },
+  {
+    "id": "3",
+    "title": "だけ",
+    "q": "肉＿（食べる）",
+    "a": "肉しか食べない",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Not eat anything but meat"
+    }
+  },
+  {
+    "id": "4",
+    "title": "すぎる",
+    "q": "How to conjugate a verb with すぎる?",
+    "a": "Change the verb to the stem and attach すぎる",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "食べる",
+      "example": "食べすぎる"
+    }
+  },
+  {
+    "id": "5",
+    "title": "すぎる",
+    "q": "How to conjugate a na-adjective with すぎる?",
+    "a": "Attach すぎる",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "静か",
+      "example": "静かすぎる"
+    }
+  },
+  {
+    "id": "6",
+    "title": "すぎる",
+    "q": "How to conjugate an i-adjective with すぎる?",
+    "a": "Remove い, attach すぎる",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "高い",
+      "example": "高すぎる"
+    }
+  },
+  {
+    "id": "7",
+    "title": "すぎる",
+    "q": "How to conjugate negative verbs and adjectives with すぎる?",
+    "a": "い → さ, attach すぎる",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "食べない、面白くない",
+      "example": "食べなさすぎる、面白くなさすぎる"
+    }
+  },
+  {
+    "id": "8",
+    "title": "すぎる",
+    "q": "昨日は（飲む）＿（て）、二日酔いで頭が痛いです",
+    "a": "昨日は飲みすぎて、",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "(I) drank too much yesterday and (my) head hurts with hangover",
+    }
+  },
+  {
+    "id": "9",
+    "title": "すぎる",
+    "q": "量が多＿から、もっと小さいサイズを頼んだ",
+    "a": "量が多すぎるから、",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "The amount is too much so (I) ordered a much smaller size",
+    }
+  },
+]

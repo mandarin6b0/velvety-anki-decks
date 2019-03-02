@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "が",
+    "q": "ピザ＿、好きですか？\nどんなピザ＿好きですか？",
+    "a": "1) は\n2) が",
+    "meta": {
+      "type": "speech",
+      "question_specific": "As for pizza, do (you) like it?\nWhat kind of pizza do (like)? (Among all possibilities)"
+    }
+  },
+  {
+    "id": "2",
+    "title": "が",
+    "q": "は or が?",
+    "a": "が",
+    "meta": {
+      "type": "speech",
+      "question_specific": "スミスさん＿忙しい。\nSmith-san is the one that is busy."
+    }
+  },
+  {
+    "id": "3",
+    "title": "が",
+    "q": "は or が?",
+    "a": "は",
+    "meta": {
+      "type": "speech",
+      "question_specific": "スミスさん＿、忙しい。\nAs for Smith-san, busy."
+    }
+  },
+  {
+    "id": "4",
+    "title": "が",
+    "q": "リー：ジョンさん＿、どの先生＿一番好き？\nジョン： 田中先生＿好きだね。",
+    "a": "1) は\n2) が\n3) が",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Lee: As for John-san, which teacher do (you) like the most?\nJohn: (I) like Tanaka-sensei."
+    }
+  },
+]

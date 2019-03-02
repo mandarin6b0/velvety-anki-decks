@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "title": "na",
+    "q": "How to make na-adjective negative? (casual)",
+    "a": "Attach 「じゃない」to the end",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "2",
+    "title": "noun",
+    "q": "How to make noun negative? (casual)",
+    "a": "Attach 「じゃない」to the end",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "3",
+    "title": "i",
+    "q": "How to make i-adjective negative? (casual)",
+    "a": "Replace「い」at the end with 「くない」",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "4",
+    "title": "良い",
+    "q": "Negative form of「いい」? (casual)",
+    "a": "よくない",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "5",
+    "title": "かっこいい",
+    "q": "Negative form of「かっこいい」? (casual)",
+    "a": "かっこよくない",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "6",
+    "title": "好き",
+    "q": "Negative form of「好き」(casual)",
+    "a": "好きじゃない",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "7",
+    "title": "オタク",
+    "q": "Say \"I'm not otaku!\" (polite)",
+    "a": "オタクじゃないですよ!",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "title": "人",
+    "q": "Counter for number of people",
+    "a": "人【にん】",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "2",
+    "title": "円",
+    "q": "Counter for money in yen",
+    "a": "円【えん】",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "3",
+    "title": "本",
+    "q": "Counter for long, cylindrical objects (bottles, chopsticks)",
+    "a": "本【ほん】",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "4",
+    "title": "枚",
+    "q": "Counter for thin objects (paper, shirts)",
+    "a": "枚【まい】",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "5",
+    "title": "冊",
+    "q": "Counter for bounds objects (books)",
+    "a": "冊【さつ】",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "6",
+    "title": "匹",
+    "q": "Counter for small animals (cats, dogs)",
+    "a": "匹【ひき】",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "7",
+    "title": "才",
+    "q": "Counter for the age of a living creatures",
+    "a": "歳・才【さい】",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "8",
+    "title": "個",
+    "q": "Counter for small objects",
+    "a": "個【こ】",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "9",
+    "title": "ヶ所",
+    "q": "Counter for number of locations",
+    "a": "ヶ所【かしょ】",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+]

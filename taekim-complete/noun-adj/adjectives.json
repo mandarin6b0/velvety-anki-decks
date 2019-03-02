@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "title": "i",
+    "q": "Describe i-adjectives",
+    "a": "End in「い」",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "2",
+    "title": "na",
+    "q": "Describe na-adjectives",
+    "a": "1) All adjectives that do not end in「い」\n2) Some adjectives that end in「い」",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "3",
+    "title": "i",
+    "q": "いい＿人",
+    "a": "いい人",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "good person"
+    }
+  },
+  {
+    "id": "4",
+    "title": "na",
+    "q": "元気＿人",
+    "a": "元気な人",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "lively person"
+    }
+  },
+  {
+    "id": "5",
+    "title": "na",
+    "q": "きれい＿人",
+    "a": "きれいな人",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "pretty person"
+    }
+  },
+  {
+    "id": "6",
+    "title": "i",
+    "q": "忙しい＿時",
+    "a": "忙しい時",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "when busy"
+    }
+  },
+  {
+    "id": "7",
+    "title": "i",
+    "q": "楽しい＿ゲーム",
+    "a": "楽しいゲーム",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "fun game"
+    }
+  },
+  {
+    "id": "8",
+    "title": "na",
+    "q": "好き＿物",
+    "a": "好きな物",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "likable thing"
+    }
+  },
+]

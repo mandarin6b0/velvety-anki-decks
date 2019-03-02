@@ -1,0 +1,116 @@
+[
+  {
+    "id": "1",
+    "title": "たい",
+    "q": "How to conjugate a verb to show desire to do something",
+    "a": "Attach「たい」to the verb stem",
+    "meta": {
+      "type": "grammar",
+      "question_specific":"食べる",
+      "example": "食べる → 食べたい"
+    }
+  },
+  {
+    "id": "2",
+    "title": "たい",
+    "q": "食べる",
+    "a": "食べたい",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to want-to-do form"
+    }
+  },
+  {
+    "id": "3",
+    "title": "たい",
+    "q": "行く",
+    "a": "行きたくない",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate to negative want-to-do form"
+    }
+  },
+  {
+    "id": "4",
+    "title": "よう",
+    "q": "How to conjugate ru-verbs into volitional form",
+    "a": "「る」→「よう」",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "\"Let's-do\" form",
+      "example": "食べる → 食べよう"
+    }
+  },
+  {
+    "id": "5",
+    "title": "よう",
+    "q": "How to conjugate u-verbs into volitional form",
+    "a": "u-vowel → o-vowel equivalent, then add「う」",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "\"Let's-do\" form",
+      "example": "行く → 行こう"
+    }
+  },
+  {
+    "id": "6",
+    "title": "よう",
+    "q": "Conjugate「する」into volitional form",
+    "a": "しよう",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "\"Let's-do\" form",
+    }
+  },
+  {
+    "id": "7",
+    "title": "よう",
+    "q": "Conjugate「来る」into volitional form",
+    "a": "こよう",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "\"Let's-do\" form",
+    }
+  },
+  {
+    "id": "8",
+    "title": "よう",
+    "q": "Conjugate「帰る」into volitional form",
+    "a": "帰ろう",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "\"Let's-do\" form",
+    }
+  },
+  {
+    "id": "9",
+    "title": "よう",
+    "q": "Conjugate「見る」into volitional form",
+    "a": "見よう",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "\"Let's-do\" form",
+    }
+  },
+  {
+    "id": "10",
+    "title": "よう",
+    "q": "How to conjugate verbs into polite volitional form",
+    "a": "Add「ましょう」to the verb stem",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "\"Let's-do\" form. 食べる",
+      "example": "食べる → 食べましょう"
+    }
+  },
+  {
+    "id": "11",
+    "title": "よう",
+    "q": "Conjugate「考える」into polite volitional form",
+    "a": "考えましょう",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "\"Let's-do\" form",
+    }
+  },
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "id": "1",
+    "title": "But",
+    "q": "How「けど」and「が」are related?",
+    "a": "「が」, that means \"but\", is slightly more formal and polite then「けど」",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "2",
+    "title": "But",
+    "q": "今日は暇＿、明日は忙しい",
+    "a": "ですけど・ですが",
+    "meta": {
+      "type": "speech",
+      "question_specific": "(I’m) free today but (I’m) busy tomorrow. (polite)"
+    }
+  },
+  {
+    "id": "3",
+    "title": "But",
+    "q": "今日は忙しい＿、明日は暇",
+    "a": "けど・が",
+    "meta": {
+      "type": "speech",
+      "question_specific": "(I’m) busy but (I’m) free tomorrow. (casual)"
+    }
+  },
+  {
+    "id": "4",
+    "title": "But",
+    "q": "今日は暇＿、明日は忙しい",
+    "a": "だけど・だが",
+    "meta": {
+      "type": "speech",
+      "question_specific": "(I’m) free today but (I’m) busy tomorrow. (casual)"
+    }
+  },
+  {
+    "id": "5",
+    "title": "But",
+    "q": "今日は暇じゃない＿、明日は暇",
+    "a": "けど・が",
+    "meta": {
+      "type": "speech",
+      "question_specific": "(I’m) not free today but (I’m) free tomorrow. (casual)"
+    }
+  },
+  {
+    "id": "6",
+    "title": "So",
+    "q": "How「から」and「ので」are related?",
+    "a": "「ので」, that shows a reason and result, is slightly more polite and formal then「から」",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "7",
+    "title": "So",
+    "q": "ここは、うるさい＿、あまり好きじゃない",
+    "a": "から・ので",
+    "meta": {
+      "type": "speech",
+      "question_specific": "(It’s) noisy here so (I) don’t like it very much. (casual)"
+    }
+  },
+  {
+    "id": "8",
+    "title": "So",
+    "q": "ここは、うるさい＿、あまり好きじゃないです",
+    "a": "ですから・ですので",
+    "meta": {
+      "type": "speech",
+      "question_specific": "(It’s) noisy here so (I) don’t like it very much. (polite)"
+    }
+  },
+  {
+    "id": "9",
+    "title": "So",
+    "q": "ここは静か＿、好き",
+    "a": "だから・なので",
+    "meta": {
+      "type": "speech",
+      "question_specific": "(It’s) quiet here so (I) like it. (casual)"
+    }
+  },
+  {
+    "id": "10",
+    "title": "So",
+    "q": "ここは静か＿、好きです",
+    "a": "ですから・ですので",
+    "meta": {
+      "type": "speech",
+      "question_specific": "(It’s) quiet here so (I) like it. (polite)"
+    }
+  },
+  {
+    "id": "11",
+    "title": "So",
+    "q": "ここは静かじゃない＿、あまり好きじゃない",
+    "a": "から・ので",
+    "meta": {
+      "type": "speech",
+      "question_specific": "(It’s) not quiet here so (I) don’t like it very much. (casual)"
+    }
+  },
+  {
+    "id": "12",
+    "title": "Despite",
+    "q": "田中さんは、先生＿、とても若いです",
+    "a": "なのに",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Despite the fact that Tanaka-san is (a) teacher, (she) is very young"
+    }
+  },
+  {
+    "id": "13",
+    "title": "Complex",
+    "q": "アリスは、かわいい＿、真面目＿、男の友達が少ない",
+    "a": "1) のに\n2) だから",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Although Alice is cute, because (she’s) serious, (she has) few male friends."
+    }
+  },
+  {
+    "id": "14",
+    "title": "Part",
+    "q": "Translate the last sentence",
+    "a": "Because it’s noisy",
+    "meta": {
+      "type": "speech",
+      "question_specific": "スミス：ここは、好きじゃない。\nリー：なんで？\nスミス：うるさいから。"
+    }
+  },
+  {
+    "id": "15",
+    "title": "Part",
+    "q": "Translate the last sentence",
+    "a": "That’s why I don’t like (it) very much",
+    "meta": {
+      "type": "speech",
+      "question_specific": "りー：図書館なのに、ここはいつもうるさいよね。\nスミス：だから、あまり好きじゃない。"
+    }
+  },
+  {
+    "id": "16",
+    "title": "Part",
+    "q": "Translate the sentences",
+    "a": "Lee: I’m busy lately, you know?\nSmith: So?\nLee: So (it’s) tough, you know! But (I’m) finally free today so (I’m) happy!\nSmith: Oh, is that so?",
+    "meta": {
+      "type": "speech",
+      "question_specific": "リー：最近は、忙しいよ。\nスミス：だから？\nリー：だから、大変だよ！だけど今日は、やっと暇だから、うれしい！\nスミス： あっ、そう？"
+    }
+  },
+]

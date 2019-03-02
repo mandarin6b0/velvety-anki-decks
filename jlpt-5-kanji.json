@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "一",
+    "q": "一",
+    "a": "one",
+    "meta": {
+      "type": "kanji",
+      "on": "いち"
+    }
+  },
+  {
+    "id": "二",
+    "q": "二",
+    "a": "two",
+    "meta": {
+      "type": "kanji",
+      "on": "に"
+    }
+  },
+  {
+    "id": "三",
+    "q": "三",
+    "a": "three",
+    "meta": {
+      "type": "kanji",
+      "on": "さん"
+    }
+  },
+  {
+    "id": "四",
+    "q": "四",
+    "a": "four",
+    "meta": {
+      "type": "kanji",
+      "on": "し"
+    }
+  },
+  {
+    "id": "五",
+    "q": "五",
+    "a": "five",
+    "meta": {
+      "type": "kanji",
+      "on": "ご"
+    }
+  },
+  {
+    "id": "六",
+    "q": "六",
+    "a": "six",
+    "meta": {
+      "type": "kanji",
+      "on": "ろく"
+    }
+  },
+  {
+    "id": "七",
+    "q": "七",
+    "a": "seven",
+    "meta": {
+      "type": "kanji",
+      "on": "しち"
+    }
+  },
+  {
+    "id": "八",
+    "q": "八",
+    "a": "eight",
+    "meta": {
+      "type": "kanji",
+      "on": "はち"
+    }
+  },
+  {
+    "id": "九",
+    "q": "九",
+    "a": "nine",
+    "meta": {
+      "type": "kanji",
+      "on": "きゅう、く"
+    }
+  },
+  {
+    "id": "十",
+    "q": "十",
+    "a": "ten",
+    "meta": {
+      "type": "kanji",
+      "on": "じゅう"
+    }
+  },
+  {
+    "id": "百",
+    "q": "百",
+    "a": "hundred",
+    "meta": {
+      "type": "kanji",
+      "on": "ひゃく"
+    }
+  },
+  {
+    "id": "千",
+    "q": "千",
+    "a": "thousand",
+    "meta": {
+      "type": "kanji",
+      "on": "せん"
+    }
+  },
+  {
+    "id": "万",
+    "q": "万",
+    "a": "ten thousand, myriad",
+    "meta": {
+      "type": "kanji",
+      "on": "ばん、まん"
+    }
+  },
+  {
+    "id": "父",
+    "q": "父",
+    "a": "father",
+    "meta": {
+      "type": "kanji",
+      "on": "ふ",
+      "kun": "ちち",
+      "example": "お父さん (おとうさん) - father"
+    }
+  },
+  {
+    "id": "母",
+    "q": "母",
+    "a": "mother",
+    "meta": {
+      "type": "kanji",
+      "on": "ぼ、も",
+      "kun": "はは",
+      "example": "お母さん (おかあさん) - mother"
+    }
+  },
+  {
+    "id": "友",
+    "q": "友",
+    "a": "friend",
+    "meta": {
+      "type": "kanji",
+      "on": "ゆう",
+      "kun": "とも",
+      "example": "友達 (ともだち) - friend, 友人 (ゆうじん) - friend"
+    }
+  },
+  {
+    "id": "女",
+    "q": "女",
+    "a": "woman, female",
+    "meta": {
+      "type": "kanji",
+      "on": "じょ、にょ",
+      "kun": "おんあ",
+      "example": "女性 (じょせい) - woman, 女の子 (おんなのこ) - girl"
+    }
+  },
+  {
+    "id": "男",
+    "q": "男",
+    "a": "man, male",
+    "meta": {
+      "type": "kanji",
+      "on": "だん, なん",
+      "kun": "おとこ",
+      "example": "男性 (だんせい) - man, 男の子 (おとこのこ) - boy"
+    }
+  },
+  {
+    "id": "人",
+    "q": "人",
+    "a": "person",
+    "meta": {
+      "type": "kanji",
+      "on": "じん, にん",
+      "kun": "ひと",
+      "example": "日本人 (にほんじん) - Japanese person"
+    }
+  },
+  {
+    "id": "子",
+    "q": "子",
+    "a": "child",
+    "meta": {
+      "type": "kanji",
+      "on": "し, す",
+      "kun": "こ",
+      "example": "子ども (こども) - child"
+    }
+  },
+  {
+    "id": "日",
+    "q": "日",
+    "a": "day",
+    "meta": {
+      "type": "kanji",
+      "on": "じつ, にち",
+      "kun": "ひ",
+      "example": "日曜日 (にちようび) - Sunday"
+    }
+  },
+  {
+    "id": "月",
+    "q": "月",
+    "a": "month",
+    "meta": {
+      "type": "kanji",
+      "on": "がつ, げつ",
+      "kun": "つき",
+      "example": "月曜日 (げつようび) - Monday"
+    }
+  },
+  {
+    "id": "火",
+    "q": "火",
+    "a": "fire",
+    "meta": {
+      "type": "kanji",
+      "on": "か",
+      "kun": "ひ",
+      "example": "火曜日 (かようび) - Tuesday"
+    }
+  },
+  {
+    "id": "水",
+    "q": "水",
+    "a": "water",
+    "meta": {
+      "type": "kanji",
+      "on": "すい",
+      "kun": "みず",
+      "example": "水曜日 (すいようび) - Wednesday"
+    }
+  },
+  {
+    "id": "木",
+    "q": "木",
+    "a": "tree, wood",
+    "meta": {
+      "type": "kanji",
+      "on": "もく",
+      "kun": "き",
+      "example": "木曜日 (もくようび) - Thursday"
+    }
+  },
+  {
+    "id": "金",
+    "q": "金",
+    "a": "gold",
+    "meta": {
+      "type": "kanji",
+      "on": "きん",
+      "kun": "かね",
+      "example": "金曜日 (きんようび) - Friday"
+    }
+  },
+  {
+    "id": "土",
+    "q": "土",
+    "a": "earth, ground",
+    "meta": {
+      "type": "kanji",
+      "on": "ど",
+      "example": "土曜日 (どようび) - Saturday"
+    }
+  },
+  {
+    "id": "本",
+    "q": "本",
+    "a": "root, book",
+    "meta": {
+      "type": "kanji",
+      "on": "ほん",
+      "example": "日本 (にほん) - Japan"
+    }
+  },
+  {
+    "id": "休",
+    "q": "休",
+    "a": "rest",
+    "meta": {
+      "type": "kanji",
+      "on": "きゅう",
+      "example": "夏休み (なつやすみ) - summer vacation"
+    }
+  },
+  {
+    "id": "語",
+    "q": "語",
+    "a": "language, word",
+    "meta": {
+      "type": "kanji",
+      "on": "ご",
+      "example": "英語 (えいご) - English"
+    }
+  },
+  {
+    "id": "年",
+    "q": "年",
+    "a": "year",
+    "meta": {
+      "type": "kanji",
+      "on": "ねん",
+      "kun": "とし",
+      "example": "一年 (いちねん) - a year"
+    }
+  },
+  {
+    "id": "午",
+    "q": "午",
+    "a": "noon",
+    "meta": {
+      "type": "kanji",
+      "on": "ご",
+      "example": "正午 (しょうご) - noon"
+    }
+  },
+  {
+    "id": "前",
+    "q": "前",
+    "a": "before, in front",
+    "meta": {
+      "type": "kanji",
+      "on": "ぜん",
+      "kun": "まえ",
+      "example": "午前 (ごぜん) - before noon; morning"
+    }
+  },
+  {
+    "id": "後",
+    "q": "後",
+    "a": "behind; after",
+    "meta": {
+      "type": "kanji",
+      "on": "ご",
+      "example": "午後 (ごご) - afternoon"
+    }
+  },
+  {
+    "id": "時",
+    "q": "時",
+    "a": "time; hour counter",
+    "meta": {
+      "type": "kanji",
+      "on": "じ",
+      "kun": "とき",
+      "example": "時間 (じかん) - time"
+    }
+  },
+  {
+    "id": "間",
+    "q": "間",
+    "a": "interval, space",
+    "meta": {
+      "type": "kanji",
+      "on": "かん",
+      "kun": "あいだ",
+      "example": "三時間 (さんじかん) - a period of three hours"
+    }
+  },
+  {
+    "id": "毎",
+    "q": "毎",
+    "a": "every",
+    "meta": {
+      "type": "kanji",
+      "on": "まい",
+      "example": "毎日 (まいにち) - everyday"
+    }
+  },
+  {
+    "id": "先",
+    "q": "先",
+    "a": "previous, ahead",
+    "meta": {
+      "type": "kanji",
+      "on": "せん",
+      "kun": "さき",
+      "example": "先生 (せんせい) - teacher"
+    }
+  },
+  {
+    "id": "今",
+    "q": "今",
+    "a": "now",
+    "meta": {
+      "type": "kanji",
+      "on": "こん",
+      "kun": "いま",
+      "example": "今日 (きょう) - today"
+    }
+  },
+  {
+    "id": "何",
+    "q": "何",
+    "a": "what",
+    "meta": {
+      "type": "kanji",
+      "kun": "なに, なん",
+      "example": "何日 (なんにち) - which day"
+    }
+  },
+  {
+    "id": "上",
+    "q": "上",
+    "a": "top, above",
+    "meta": {
+      "type": "kanji",
+      "on": "じょう",
+      "kun": "うえ",
+      "example": "上手 (じょおず) - skillful"
+    }
+  },
+  {
+    "id": "下",
+    "q": "下",
+    "a": "bottom, down",
+    "meta": {
+      "type": "kanji",
+      "on": "か",
+      "kun": "した",
+      "example": "下着 (したぎ) - underwear"
+    }
+  },
+  {
+    "id": "左",
+    "q": "左",
+    "a": "left",
+    "meta": {
+      "type": "kanji",
+      "kun": "ひだり",
+      "example": "左足 (ひだりあし) - left foot"
+    }
+  },
+  {
+    "id": "右",
+    "q": "右",
+    "a": "right",
+    "meta": {
+      "type": "kanji",
+      "kun": "みぎ",
+      "example": "右手 (みぎて) - right hand"
+    }
+  },
+  {
+    "id": "北",
+    "q": "北",
+    "a": "north",
+    "meta": {
+      "type": "kanji",
+      "on": "ほく",
+      "kun": "きた",
+      "example": "北海道 (ほっかいどう) - Hokkaido"
+    }
+  },
+  {
+    "id": "南",
+    "q": "南",
+    "a": "south",
+    "meta": {
+      "type": "kanji",
+      "on": "なん",
+      "kun": "みなみ",
+      "example": "南アメリカ (みなみアメリカ) - South America"
+    }
+  },
+  {
+    "id": "東",
+    "q": "東",
+    "a": "east",
+    "meta": {
+      "type": "kanji",
+      "on": "とう",
+      "kun": "ひがし",
+      "example": "東京 (とうきょう) - Tokyo"
+    }
+  },
+  {
+    "id": "西",
+    "q": "西",
+    "a": "west",
+    "meta": {
+      "type": "kanji",
+      "on": "せい",
+      "kun": "にし",
+      "example": "関西 (かんさい) - Kansai region"
+    }
+  },
+  {
+    "id": "外",
+    "q": "外",
+    "a": "outside",
+    "meta": {
+      "type": "kanji",
+      "on": "がい",
+      "kun": "そと",
+      "example": "外国人 (がいこくじん) - foreigner, foreign person"
+    }
+  },
+  {
+    "id": "名",
+    "q": "名",
+    "a": "name",
+    "meta": {
+      "type": "kanji",
+      "on": "めい, みょう",
+      "kun": "な",
+      "example": "名前 (なまえ) - name"
+    }
+  },
+  {
+    "id": "高",
+    "q": "高",
+    "a": "high",
+    "meta": {
+      "type": "kanji",
+      "on": "こう",
+      "example": "高校 (こうこう) - high school"
+    }
+  },
+  {
+    "id": "小",
+    "q": "小",
+    "a": "small",
+    "meta": {
+      "type": "kanji",
+      "on": "しょう",
+      "example": "小学校 (しょうがっこう) - elementary school"
+    }
+  },
+  {
+    "id": "中",
+    "q": "中",
+    "a": "middle, center, within, inside",
+    "meta": {
+      "type": "kanji",
+      "on": "ちゅう",
+      "kun": "なか",
+      "example": "中学校 (ちゅうがっこう) - junior high school"
+    }
+  },
+  {
+    "id": "大",
+    "q": "大",
+    "a": "big, great",
+    "meta": {
+      "type": "kanji",
+      "on": "だい, たい",
+      "example": "大学 (だいがく) - university, college"
+    }
+  },
+  {
+    "id": "長",
+    "q": "長",
+    "a": "long, leader",
+    "meta": {
+      "type": "kanji",
+      "on": "ちょう",
+      "example": "社長 (しゃちょう) - company president"
+    }
+  },
+  {
+    "id": "半",
+    "q": "半",
+    "a": "half",
+    "meta": {
+      "type": "kanji",
+      "on": "はん",
+      "example": "半分 (はんぶん) - half"
+    }
+  },
+  {
+    "id": "分",
+    "q": "分",
+    "a": "part, minute counter",
+    "meta": {
+      "type": "kanji",
+      "on": "ぶん",
+      "example": "三分 (さんぶん) - three minutes"
+    }
+  },
+  {
+    "id": "学",
+    "q": "学",
+    "a": "learning",
+    "meta": {
+      "type": "kanji",
+      "on": "がく",
+      "example": "学校 (がっこう) - school"
+    }
+  },
+  {
+    "id": "校",
+    "q": "校",
+    "a": "school",
+    "meta": {
+      "type": "kanji",
+      "on": "こう",
+      "example": "学校 (がっこう) - school"
+    }
+  },
+  {
+    "id": "生",
+    "q": "生",
+    "a": "birth, life",
+    "meta": {
+      "type": "kanji",
+      "on": "せい",
+      "example": "誕生日 (たんじょうび) - birthday"
+    }
+  },
+  {
+    "id": "山",
+    "q": "山",
+    "a": "mountain",
+    "meta": {
+      "type": "kanji",
+      "on": "さん",
+      "kun": "やま",
+      "example": "富士山 (ふじさん) - Mt. Fuji"
+    }
+  },
+  {
+    "id": "川",
+    "q": "川",
+    "a": "river",
+    "meta": {
+      "type": "kanji",
+      "on": "せん",
+      "kun": "かわ",
+      "example": "川上 (かわかみ) - upstream"
+    }
+  },
+  {
+    "id": "白",
+    "q": "白",
+    "a": "white",
+    "meta": {
+      "type": "kanji",
+      "on": "はく",
+      "kun": "しろ",
+      "example": "告白 (こくはく) - confession"
+    }
+  },
+  {
+    "id": "天",
+    "q": "天",
+    "a": "heaven, sky",
+    "meta": {
+      "type": "kanji",
+      "on": "てん",
+      "example": "天気 (てんき) - weather"
+    }
+  },
+  {
+    "id": "雨",
+    "q": "雨",
+    "a": "rain",
+    "meta": {
+      "type": "kanji",
+      "kun": "あめ"
+    }
+  },
+  {
+    "id": "電",
+    "q": "電",
+    "a": "electricity",
+    "meta": {
+      "type": "kanji",
+      "on": "でん",
+      "example": "電話 (でんわ) - telephone"
+    }
+  },
+  {
+    "id": "気",
+    "q": "気",
+    "a": "energy, power, spirit",
+    "meta": {
+      "type": "kanji",
+      "on": "き",
+      "example": "空気 (くうき) - air"
+    }
+  },
+  {
+    "id": "車",
+    "q": "車",
+    "a": "car, vehicle",
+    "meta": {
+      "type": "kanji",
+      "on": "しゃ",
+      "kun": "くるま",
+      "example": "自転車 (じてんしゃ) - bicycle"
+    }
+  },
+  {
+    "id": "国",
+    "q": "国",
+    "a": "country",
+    "meta": {
+      "type": "kanji",
+      "on": "こく, ごく",
+      "kun": "くに",
+      "example": "中国 (ちゅうごく) - China"
+    }
+  },
+  {
+    "id": "円",
+    "q": "円",
+    "a": "circle, yen (money)",
+    "meta": {
+      "type": "kanji",
+      "on": "えん",
+      "example": "百円 (ひゃくえん) - 100 yen"
+    }
+  },
+  {
+    "id": "話",
+    "q": "話",
+    "a": "talk",
+    "meta": {
+      "type": "kanji",
+      "on": "わ",
+      "kun": "はなし",
+      "example": "会話 (かいわ) - conversation"
+    }
+  },
+  {
+    "id": "聞",
+    "q": "聞",
+    "a": "to hear",
+    "meta": {
+      "type": "kanji",
+      "on": "ぶん, もん",
+      "example": "新聞 (しんぶん) - newspaper"
+    }
+  },
+  {
+    "id": "食",
+    "q": "食",
+    "a": "food, meal",
+    "meta": {
+      "type": "kanji",
+      "on": "しょく",
+      "example": "食べ物 (たべもの) - food"
+    }
+  },
+  {
+    "id": "読",
+    "q": "読",
+    "a": "",
+    "meta": {
+      "type": "kanji",
+      "on": "どく",
+      "kun": "to read",
+      "example": "読書 (どくしょ) - reading"
+    }
+  },
+  {
+    "id": "来",
+    "q": "来",
+    "a": "to come",
+    "meta": {
+      "type": "kanji",
+      "on": "らい",
+      "example": "未来 (みらい) - future"
+    }
+  },
+  {
+    "id": "書",
+    "q": "書",
+    "a": "book, document, writing",
+    "meta": {
+      "type": "kanji",
+      "on": "しょ",
+      "example": "書道 (しょどう) - calligraphy"
+    }
+  },
+  {
+    "id": "見",
+    "q": "見",
+    "a": "to see",
+    "meta": {
+      "type": "kanji",
+      "on": "けん",
+      "example": "意見 (いけん) - opinion"
+    }
+  },
+  {
+    "id": "行",
+    "q": "行",
+    "a": "to go",
+    "meta": {
+      "type": "kanji",
+      "on": "こう",
+      "example": "旅行 (りょこう)　－ journey"
+    }
+  },
+  {
+    "id": "出",
+    "q": "出",
+    "a": "leave",
+    "meta": {
+      "type": "kanji",
+      "on": "しゅつ",
+      "example": "出口 (でぐち) - exit"
+    }
+  },
+  {
+    "id": "入",
+    "q": "入",
+    "a": "enter",
+    "meta": {
+      "type": "kanji",
+      "on": "にゅう",
+      "example": "入口 (いりぐち) - entrance"
+    }
+  },
+  {
+    "id": "会",
+    "q": "会",
+    "a": "meet",
+    "meta": {
+      "type": "kanji",
+      "on": "かい",
+      "example": "会社 (かいしゃ) - company, corporation"
+    }
+  },
+  {
+    "id": "口",
+    "q": "口",
+    "a": "mouth",
+    "meta": {
+      "type": "kanji",
+      "kun": "くち"
+    }
+  },
+  {
+    "id": "古",
+    "q": "古",
+    "a": "old",
+    "meta": {
+      "type": "kanji",
+      "on": "こ",
+      "example": "古本 (こほん) - ancient book"
+    }
+  },
+  {
+    "id": "多",
+    "q": "多",
+    "a": "many",
+    "meta": {
+      "type": "kanji",
+      "on": "た",
+      "example": "多い (おおい) - many"
+    }
+  },
+  {
+    "id": "安",
+    "q": "安",
+    "a": "relax, cheap",
+    "meta": {
+      "type": "kanji",
+      "on": "あん",
+      "example": "安全 (あんぜん) - safety"
+    }
+  },
+  {
+    "id": "少",
+    "q": "少",
+    "a": "few, little",
+    "meta": {
+      "type": "kanji",
+      "on": "しょう",
+      "example": "少年 (しょうねん) - boys"
+    }
+  },
+  {
+    "id": "店",
+    "q": "店",
+    "a": "store, shop",
+    "meta": {
+      "type": "kanji",
+      "on": "てん",
+      "kun": "みせ",
+      "example": "書店 (しょてん) - bookstore"
+    }
+  },
+  {
+    "id": "手",
+    "q": "手",
+    "a": "hand",
+    "meta": {
+      "type": "kanji",
+      "on": "しゅ",
+      "kun": "て",
+      "example": "右手 (みぎて) - right hand"
+    }
+  },
+  {
+    "id": "新",
+    "q": "新",
+    "a": "new",
+    "meta": {
+      "type": "kanji",
+      "on": "しん",
+      "example": "新しい (あたらしい) - new"
+    }
+  },
+  {
+    "id": "立",
+    "q": "立",
+    "a": "stand up",
+    "meta": {
+      "type": "kanji",
+      "on": "りつ",
+      "example": "起立 (きりつ) - standing up"
+    }
+  },
+  {
+    "id": "耳",
+    "q": "耳",
+    "a": "ear",
+    "meta": {
+      "type": "kanji",
+      "kun": "みみ"
+    }
+  },
+  {
+    "id": "花",
+    "q": "花",
+    "a": "flower",
+    "meta": {
+      "type": "kanji",
+      "on": "か",
+      "kun": "はな",
+      "example": "火花 (ひばな) - spark"
+    }
+  },
+  {
+    "id": "言",
+    "q": "言",
+    "a": "say",
+    "meta": {
+      "type": "kanji",
+      "on": "げん",
+      "example": "言返す (いいかえす) - to repeat, to talk back"
+    }
+  },
+  {
+    "id": "買",
+    "q": "買",
+    "a": "buy",
+    "meta": {
+      "type": "kanji",
+      "on": "ばい",
+      "example": "購買 (こうばい) - purchase"
+    }
+  },
+  {
+    "id": "足",
+    "q": "足",
+    "a": "leg, be sufficient",
+    "meta": {
+      "type": "kanji",
+      "kun": "あし",
+      "example": "足し算 (たしざん) - addition"
+    }
+  },
+  {
+    "id": "週",
+    "q": "週",
+    "a": "week",
+    "meta": {
+      "type": "kanji",
+      "on": "しゅう",
+      "example": "今週 (こんしゅう) - this week"
+    }
+  },
+  {
+    "id": "道",
+    "q": "道",
+    "a": "road",
+    "meta": {
+      "type": "kanji",
+      "on": "どう",
+      "kun": "みち",
+      "example": "柔道 (じゅうどう) - judo"
+    }
+  },
+  {
+    "id": "飲",
+    "q": "飲",
+    "a": "drink",
+    "meta": {
+      "type": "kanji",
+      "kun": "のみ",
+      "example": "飲水 (のみみず) - drinking water"
+    }
+  },
+  {
+    "id": "駅",
+    "q": "駅",
+    "a": "station",
+    "meta": {
+      "type": "kanji",
+      "on": "えき",
+      "example": "駅前 (えきまえ) - in front of station"
+    }
+  },
+  {
+    "id": "魚",
+    "q": "魚",
+    "a": "fish",
+    "meta": {
+      "type": "kanji",
+      "on": "ぎょ",
+      "kun": "さかな",
+      "example": "金魚 (きんぎょ) - goldfish"
+    }
+  },
+  {
+    "id": "空",
+    "q": "空",
+    "a": "enmpty, sky",
+    "meta": {
+      "type": "kanji",
+      "on": "くう",
+      "kun": "そら",
+      "example": "空間 (くうかん) - space, airspace"
+    }
+  },
+  {
+    "id": "社",
+    "q": "社",
+    "a": "company",
+    "meta": {
+      "type": "kanji",
+      "on": "しゃ",
+      "example": "会社 (かいしゃ) - company"
+    }
+  },
+  {
+    "id": "目",
+    "q": "目",
+    "a": "eye",
+    "meta": {
+      "type": "kanji",
+      "on": "もく",
+      "kun": "め",
+      "example": "目的 (もくてき) - goal"
+    }
+  }
+]

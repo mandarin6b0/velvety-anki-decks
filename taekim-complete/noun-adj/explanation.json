@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "なの",
+    "q": "Translate the sentence",
+    "a": "He’s a student? (Seeking explanation why he’s a student)",
+    "meta": {
+      "type": "speech",
+      "question_specific": "彼は、学生なの？"
+    }
+  },
+  {
+    "id": "2",
+    "title": "なの",
+    "q": "スミス：リー君はどうして忙しい＿？\nリー：僕は水泳部＿。\nスミス：え？そう＿？",
+    "a": "1) の\n2) だから\n3) なの",
+    "meta": {
+      "type": "speech",
+      "question_specific": "Smith: Lee-kun, why are you busy?\nLee: Because (I’m in) swim club.\nSmith: Eh? Is that so?"
+    }
+  },
+  {
+    "id": "3",
+    "title": "ん",
+    "q": "When「の」can be replaced with「ん」?",
+    "a": "When the sentence has additional things following the「の」such as「だ」or「です」",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "4",
+    "title": "ん",
+    "q": "Translate the sentence",
+    "a": "Smith: Is that so? But Lee-san is not an otaku so isn’t it fine?",
+    "meta": {
+      "type": "speech",
+      "question_specific": "スミス：そうなんですか？でも、リーさんはオタクじゃないから、いいんじゃないですか？"
+    }
+  },
+  {
+    "id": "5",
+    "title": "の",
+    "q": "How strong the explanation or expectation is when「の」is used?",
+    "a": "Depends on the context and tone",
+    "meta": {
+      "type": "grammar",
+    }
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "1",
+    "title": "さん",
+    "q": "Naming suffix use case\n〜さん",
+    "a": "Polite name-suffix (gender-neutral)",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "2",
+    "title": "君",
+    "q": "Naming suffix use case\n〜君\n【くん】",
+    "a": "Casual name-suffix (generally for males)",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "3",
+    "title": "ちゃん",
+    "q": "Naming suffix use case\n〜ちゃん",
+    "a": "Casual name-suffix (generally for females)",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "4",
+    "title": "私",
+    "q": "Self adressing use case\n私\n【わたし】",
+    "a": "Polite \"I\", gender-neutral",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "5",
+    "title": "私",
+    "q": "Self adressing use case\n私\n【わたくし】",
+    "a": "Polite \"I\", gender-neutral, very formal",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "6",
+    "title": "僕",
+    "q": "Self adressing use case\n僕\n【ぼく】",
+    "a": "Polite \"I\", masculine",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "7",
+    "title": "あたし",
+    "q": "Self adressing use case\nあたし",
+    "a": "Casual \"I\", very feminine",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "8",
+    "title": "俺",
+    "q": "Self adressing use case\n俺\n【おれ】",
+    "a": "Very casual and masculine \"I\"",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "9",
+    "title": "家族",
+    "q": "Addressing family",
+    "a": "家族【か・ぞく】\n\nご家族【ご・か・ぞく】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "one's own\n\nsomeone else's"
+    }
+  },
+  {
+    "id": "10",
+    "title": "両親",
+    "q": "Addressing parents",
+    "a": "両親【りょう・しん】\n\nご両親【ご・りょう・しん】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "one's own\n\nsomeone else's"
+    }
+  },
+  {
+    "id": "11",
+    "title": "母",
+    "q": "Addressing mother",
+    "a": "母【はは】\n\nお母さん【お・かあ・さん】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "one's own\n\nsomeone else's"
+    }
+  },
+  {
+    "id": "12",
+    "title": "父",
+    "q": "Addressing father",
+    "a": "父【ちち】\n\nお父さん【お・とう・さん】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "one's own\n\nsomeone else's"
+    }
+  },
+  {
+    "id": "13",
+    "title": "妻",
+    "q": "Addressing wife",
+    "a": "妻【つま】\n\n奥さん【おく・さん】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "one's own\n\nsomeone else's"
+    }
+  },
+  {
+    "id": "14",
+    "title": "夫",
+    "q": "Addressing husband",
+    "a": "夫【おっと】\n\nご主人【ご・しゅ・じん】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "one's own\n\nsomeone else's"
+    }
+  },
+  {
+    "id": "15",
+    "title": "姉",
+    "q": "Addressing older sister",
+    "a": "姉【あね】\n\nお姉さん【お・ねえ・さん】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "one's own\n\nsomeone else's"
+    }
+  },
+  {
+    "id": "16",
+    "title": "あに",
+    "q": "Addressing older brother",
+    "a": "兄【あに】\n\nお兄さん【お・にい・さん】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "one's own\n\nsomeone else's"
+    }
+  },
+  {
+    "id": "17",
+    "title": "妹",
+    "q": "Addressing younger sister",
+    "a": "妹【いもうと】\n\n妹さん【いもうと・さん】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "one's own\n\nsomeone else's"
+    }
+  },
+  {
+    "id": "18",
+    "title": "弟",
+    "q": "Addressing younger brother",
+    "a": "弟【おとうと】\n\n弟さん【おとうと・さん】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "one's own\n\nsomeone else's"
+    }
+  },
+  {
+    "id": "19",
+    "title": "息子",
+    "q": "Addressing son",
+    "a": "息子【むすこ】\n\n息子さん【むすこ・さん】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "one's own\n\nsomeone else's"
+    }
+  },
+  {
+    "id": "20",
+    "title": "娘",
+    "q": "Addressing daughter",
+    "a": "娘【むすめ】\n\n娘さん【むすめ・さん】",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "one's own\n\nsomeone else's"
+    }
+  },
+]

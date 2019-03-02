@@ -1,0 +1,179 @@
+[
+  {
+    "id": "1",
+    "title": "ている",
+    "q": "What does progressive tense indicate?",
+    "a": "Ongoing action or ongoing state resulting from the action",
+    "meta": {
+      "type": "grammar",
+    }
+  },
+  {
+    "id": "2",
+    "title": "て",
+    "q": "How to change ru-verb into te-form?",
+    "a": "「る」→「て」",
+    "meta": {
+      "type": "grammar",
+      "example": "食べる → 食べて",
+      "question_specific":"食べる"
+    }
+  },
+  {
+    "id": "3",
+    "title": "て",
+    "q": "How to change す-ending u-verb into te-form?",
+    "a": "「す」→「して」",
+    "meta": {
+      "type": "grammar",
+      "example": "話す → 話して",
+      "question_specific":"話す"
+    }
+  },
+  {
+    "id": "4",
+    "title": "て",
+    "q": "How to change く/ぐ-ending u-verb into te-form?",
+    "a": "「く」→「いて」\n「ぐ」→「いで」",
+    "meta": {
+      "type": "grammar",
+      "example": "書く → 書いて\n泳ぐ → 泳いで",
+      "question_specific":"書く\n泳ぐ"
+    }
+  },
+  {
+    "id": "5",
+    "title": "て",
+    "q": "How to change む-ending u-verb into te-form?",
+    "a": "「む」→「んで」",
+    "meta": {
+      "type": "grammar",
+      "example": "飲む → 飲んで",
+      "question_specific":"飲む"
+    }
+  },
+  {
+    "id": "6",
+    "title": "て",
+    "q": "How to change ぶ-ending u-verb into te-form?",
+    "a": "「ぶ」→「んで」",
+    "meta": {
+      "type": "grammar",
+      "example": "遊ぶ → 遊んで",
+      "question_specific":"遊ぶ"
+    }
+  },
+  {
+    "id": "7",
+    "title": "て",
+    "q": "How to change ぬ-ending u-verb into te-form?",
+    "a": "「ぬ」→「んで」",
+    "meta": {
+      "type": "grammar",
+      "example": "死ぬ → 死んで",
+      "question_specific":"死ぬ"
+    }
+  },
+  {
+    "id": "8",
+    "title": "て",
+    "q": "How to change る-ending u-verb into te-form?",
+    "a": "「る」→「って」",
+    "meta": {
+      "type": "grammar",
+      "example": "切る → 切って",
+      "question_specific":"切る"
+    }
+  },
+  {
+    "id": "9",
+    "title": "て",
+    "q": "How to change う-ending u-verb into te-form?",
+    "a": "「う」→「って」",
+    "meta": {
+      "type": "grammar",
+      "example": "買う → 買って",
+      "question_specific":"買う"
+    }
+  },
+  {
+    "id": "10",
+    "title": "て",
+    "q": "How to change つ-ending u-verb into te-form?",
+    "a": "「つ」→「って」",
+    "meta": {
+      "type": "grammar",
+      "example":"持つ → 持って",
+      "question_specific": "持つ"
+    }
+  },
+  {
+    "id": "11",
+    "title": "て",
+    "q": "How to change「する」into te-form?",
+    "a": "して",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "12",
+    "title": "て",
+    "q": "How to change「来る」into te-form?",
+    "a": "きて",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "13",
+    "title": "て",
+    "q": "How to change「行く」into te-form?",
+    "a": "行って",
+    "meta": {
+      "type": "grammar"
+    }
+  },
+  {
+    "id": "14",
+    "title": "ている",
+    "q": "How to conjugate a verb to progressive tense?",
+    "a": "Conjugate to te-form, attach「いる」",
+    "meta": {
+      "type": "grammar",
+      "example": "食べる → 食べている",
+      "question_specific":"食べる"
+    }
+  },
+  {
+    "id": "15",
+    "title": "ている",
+    "q": "見る",
+    "a": "見ている",
+    "meta": {
+      "type": "grammar",
+      "question_specific": "Conjugate into progressive tense"
+    }
+  },
+  {
+    "id": "16",
+    "title": "ている",
+    "q": "How ている verbs conjugate?",
+    "a": "As ru-verbs",
+    "meta": {
+      "type": "grammar",
+      "example": "見ている・見ていない・見ています",
+      "question_specific": "As u- or ru- verbs?"
+    }
+  },
+  {
+    "id": "17",
+    "title": "てる",
+    "q": "What is a shortened form of「ている」",
+    "a": "てる",
+    "meta": {
+      "type": "grammar",
+      "example": "持っている → 持ってる"
+    }
+  },
+]
