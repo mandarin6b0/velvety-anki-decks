@@ -1,0 +1,364 @@
+[
+  {
+    "id": "悶える",
+    "q": "悶える",
+    "a": "to writhe (in pain)",
+    "meta": {
+      "type": "vocab",
+      "kana": "もだえる",
+      "word_type": "verb",
+      "specific": "くぅ〜悶えるぅ〜",
+    }
+  },
+  {
+    "id": "効く",
+    "q": "効く",
+    "a": "to be effective",
+    "meta": {
+      "type": "vocab",
+      "kana": "きく",
+      "word_type": "verb",
+      "specific": "これは効く",
+    }
+  },
+  {
+    "id": "速攻",
+    "q": "速攻",
+    "a": "swift attack",
+    "meta": {
+      "type": "vocab",
+      "kana": "そっこう",
+      "word_type": "noun, suru verb",
+    }
+  },
+  {
+    "id": "マシ",
+    "q": "マシ",
+    "a": "preferable, less objectionable",
+    "meta": {
+      "type": "vocab",
+      "kanji": "増し (まし)",
+      "word_type": "na-adjective",
+      "specific": "まだ全然マシなの",
+    }
+  },
+  {
+    "id": "見過ごす",
+    "q": "見過ごす",
+    "a": "to let pass, to overlook",
+    "meta": {
+      "type": "vocab",
+      "kana": "みすごす",
+      "word_type": "verb",
+      "specific": "マシなので見過ごす",
+    }
+  },
+  {
+    "id": "当の本人",
+    "q": "当の本人",
+    "a": "the person himself",
+    "meta": {
+      "type": "vocab",
+      "kana": "とうのほんにん",
+      "word_type": "expression (noun)",
+    }
+  },
+  {
+    "id": "ちらと",
+    "q": "ちら、と",
+    "a": "at a glance, by accident",
+    "meta": {
+      "type": "vocab",
+      "word_type": "adverb",
+      "specific": "ちらっと見やる",
+    }
+  },
+  {
+    "id": "見やる",
+    "q": "見やる",
+    "a": "to look at, to gaze",
+    "meta": {
+      "type": "vocab",
+      "kana": "みやる",
+      "word_type": "verb",
+    }
+  },
+  {
+    "id": "斜向かい",
+    "q": "斜向かい",
+    "a": "catercorner, diagonally opposite",
+    "meta": {
+      "type": "vocab",
+      "kana": "はすむかい",
+      "word_type": "noun, no-adjective",
+      "specific": "斜向かいを見やる",
+    }
+  },
+  {
+    "id": "うっかり",
+    "q": "うっかり",
+    "a": "carelessly",
+    "meta": {
+      "type": "vocab",
+      "word_type": "onomatopoeic (adverb)",
+      "specific": "うっかり漏らす",
+    }
+  },
+  {
+    "id": "惚気話",
+    "q": "惚気話",
+    "a": "speaking fondly of",
+    "meta": {
+      "type": "vocab",
+      "kana": "のろけはなし",
+      "word_type": "noun",
+      "specific": "惚気話を漏らす",
+    }
+  },
+  {
+    "id": "漏らす",
+    "q": "漏らす",
+    "a": "to let leak, to reveal",
+    "meta": {
+      "type": "vocab",
+      "kana": "もらす",
+      "word_type": "verb",
+      "specific": "惚気話を漏らす",
+    }
+  },
+  {
+    "id": "鍛冶",
+    "q": "鍛冶",
+    "a": "smithing, blacksmith",
+    "meta": {
+      "type": "vocab",
+      "kana": "かじ",
+      "word_type": "noun"
+    }
+  },
+  {
+    "id": "向かう",
+    "q": "向かう",
+    "a": "to face",
+    "meta": {
+      "type": "vocab",
+      "kana": "むかう",
+      "word_type": "verb",
+      "specific": "方向を向かう",
+    }
+  },
+  {
+    "id": "しっかり",
+    "q": "しっかり",
+    "a": "tightly, firmly, strongly",
+    "meta": {
+      "type": "vocab",
+      "kana": "確り",
+      "word_type": "adverb",
+      "specific": "しっかり顔を赤く染める",
+    }
+  },
+  {
+    "id": "内気",
+    "q": "内気",
+    "a": "shy, bashful",
+    "meta": {
+      "type": "vocab",
+      "kana": "うちき",
+      "word_type": "noun, na-adjective",
+      "specific": "内気だ",
+    }
+  },
+  {
+    "id": "プンプン",
+    "q": "プンプン",
+    "a": "(smelling) strongly",
+    "meta": {
+      "type": "vocab",
+      "word_type": "onomatopoeic, adverb, suru-verb",
+      "specific": "香りがプンプンする",
+    }
+  },
+  {
+    "id": "命名式",
+    "q": "命名式",
+    "a": "christening (ceremony)​",
+    "meta": {
+      "type": "vocab",
+      "kana": "めいめいしき",
+      "word_type": "noun",
+    }
+  },
+  {
+    "id": "恙無い",
+    "q": "つつがない",
+    "a": "well, in good health",
+    "meta": {
+      "type": "vocab",
+      "kanji": "恙無い",
+      "word_type": "i-adjective",
+      "specific": "つつがなく進んでいく",
+    }
+  },
+  {
+    "id": "あっという間に",
+    "q": "あっという間に",
+    "a": "just like that, in the blink of an eye",
+    "meta": {
+      "type": "vocab",
+      "kana": "あっというまに",
+      "word_type": "expression (adverb)",
+      "specific": "あっという間に迎えた",
+    }
+  },
+  {
+    "id": "迎える",
+    "q": "迎える",
+    "a": "to go out to meet",
+    "meta": {
+      "type": "vocab",
+      "kana": "むかえる",
+      "word_type": "verb",
+      "specific": "番を迎える",
+    }
+  },
+  {
+    "id": "既視感",
+    "q": "既視感",
+    "a": "deja vu",
+    "meta": {
+      "type": "vocab",
+      "kana": "きしかん",
+      "word_type": "noun",
+      "specific": "既視感を覚える",
+    }
+  },
+  {
+    "id": "つつ",
+    "q": "つつ",
+    "a": "while, even though, despite",
+    "meta": {
+      "type": "vocab",
+      "word_type": "particle (after the stem of a verb)",
+      "specific": "覚えつつ",
+    }
+  },
+  {
+    "id": "ぐっと",
+    "q": "ぐっと",
+    "a": "suddenly, at once",
+    "meta": {
+      "type": "vocab",
+      "word_type": "onomatopoeic (adverb)",
+      "specific": "ぐっと吸う",
+    }
+  },
+  {
+    "id": "吸う",
+    "q": "吸う",
+    "a": "to breath, to inhale",
+    "meta": {
+      "type": "vocab",
+      "kana": "すう",
+      "word_type": "verb",
+      "specific": "息を吸う",
+    }
+  },
+  {
+    "id": "溜める",
+    "q": "溜める",
+    "a": "to amass, to accumulate",
+    "meta": {
+      "type": "vocab",
+      "kana": "ためる",
+      "word_type": "verb",
+      "specific": "息を吸って、溜めた",
+    }
+  },
+  {
+    "id": "正念場",
+    "q": "正念場",
+    "a": "critical moment",
+    "meta": {
+      "type": "vocab",
+      "kana": "しょうねんば",
+      "word_type": "noun",
+      "specific": "正念場である",
+    }
+  },
+  {
+    "id": "再三",
+    "q": "再三",
+    "a": "again and again",
+    "meta": {
+      "type": "vocab",
+      "kana": "さいさん",
+      "word_type": "adverb, no-adjective",
+      "specific": "再三言い聞かせる",
+    }
+  },
+  {
+    "id": "言い聞かせる",
+    "q": "言い聞かせる",
+    "a": "to tell someone to do something, to warn",
+    "meta": {
+      "type": "vocab",
+      "kana": "いいきかせる",
+      "word_type": "verb",
+    }
+  },
+  {
+    "id": "最中",
+    "q": "最中",
+    "a": "in the middle of, midst",
+    "meta": {
+      "type": "vocab",
+      "kana": "さなか",
+      "word_type": "noun",
+      "specific": "言い聞かせる最中",
+    }
+  },
+  {
+    "id": "口火",
+    "q": "口火",
+    "a": "fuse, cause (of war), trigger",
+    "meta": {
+      "type": "vocab",
+      "kana": "くちび",
+      "word_type": "noun",
+      "specific": "口火を切る",
+    }
+  },
+  {
+    "id": "牽制",
+    "q": "牽制",
+    "a": "restrain",
+    "meta": {
+      "type": "vocab",
+      "kana": "けんせい",
+      "word_type": "noun, suru-verb",
+      "specific": "視線で牽制し合って",
+    }
+  },
+  {
+    "id": "麗しい",
+    "q": "麗しい",
+    "a": "beautiful, lovely",
+    "meta": {
+      "type": "vocab",
+      "kana": "うるわしい",
+      "word_type": "i-adjective",
+    }
+  },
+  {
+    "id": "瑞々しい",
+    "q": "瑞々しい",
+    "a": "fresh and youthful, lively",
+    "meta": {
+      "type": "vocab",
+      "kana": "みずみずしい",
+      "word_type": "i-adjective",
+      "specific": "瑞々しい片腕",
+    }
+  },
+]

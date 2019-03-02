@@ -17,4 +17,17 @@
     "type": "grouped",
     "cards_count": 304
   },
+  {
+    "id": "taekim-grammars",
+    "title": "Tae Kim: Grammar Guide",
+    "type": "grouped",
+    "cards_count": 0,
+    "dev": true
+  },
+  {
+    "id": "home-reading",
+    "title": "Custom",
+    "cards_count": 34,
+    "dev": true
+  }
 ]
