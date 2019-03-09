@@ -12,6 +12,12 @@
     "cards_count": 103
   },
   {
+    "id": "jlpt-4-kanji",
+    "title": "JLPT 4 Kanji",
+    "type": "flat",
+    "cards_count": 177
+  },
+  {
     "id": "taekim-complete",
     "title": "Tae Kim: Complete Guide",
     "type": "grouped",
