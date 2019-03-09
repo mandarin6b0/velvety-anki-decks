@@ -1,3 +1,1854 @@
 [
-  
+  {
+    "id": "不",
+    "q": "不",
+    "a": "not",
+    "meta": {
+      "type": "kanji",
+      "on": "ふ / ぶ",
+      "example": "寝不足 (ねぶそく) - oversleeping"
+    }
+  },
+  {
+    "id": "世",
+    "q": "世",
+    "a": "world",
+    "meta": {
+      "type": "kanji",
+      "on": "せい / せ",
+      "kun": "よ",
+      "example": "世界 (せかい) - world"
+    }
+  },
+  {
+    "id": "主",
+    "q": "主",
+    "a": "master",
+    "meta": {
+      "type": "kanji",
+      "on": "しゅ / す",
+      "kun": "ぬし / おも / あるじ",
+      "example": "主義 (しゅぎ) - (one's) - principle"
+    }
+  },
+  {
+    "id": "事",
+    "q": "事",
+    "a": "abstract thing",
+    "meta": {
+      "type": "kanji",
+      "on": "じ / ず",
+      "kun": "こと",
+      "example": "食事 (しょくじ) - a meal"
+    }
+  },
+  {
+    "id": "乗",
+    "q": "乗",
+    "a": "ride",
+    "meta": {
+      "type": "kanji",
+      "on": "じょう",
+      "kun": "の－る",
+      "example": "乗り場 (のりば) - platform (train, bus, etc.)"
+    }
+  },
+  {
+    "id": "京",
+    "q": "京",
+    "a": "capital",
+    "meta": {
+      "type": "kanji",
+      "on": "きょう / けい / きん",
+      "kun": "みやこ",
+      "example": "京都 (きょうと) - Kyoto"
+    }
+  },
+  {
+    "id": "仕",
+    "q": "仕",
+    "a": "serve",
+    "meta": {
+      "type": "kanji",
+      "on": "し",
+      "kun": "つか－える",
+      "example": "仕事 (しごと) - work"
+    }
+  },
+  {
+    "id": "代",
+    "q": "代",
+    "a": "substitute",
+    "meta": {
+      "type": "kanji",
+      "on": "だい / たい",
+      "kun": "か－わる / よ",
+      "example": "古代 (こだい) - ancient times"
+    }
+  },
+  {
+    "id": "以",
+    "q": "以",
+    "a": "since",
+    "meta": {
+      "type": "kanji",
+      "on": "い",
+      "kun": "もっ－て",
+      "example": "以上 (いじょう) - more than (ex. more than 1 hour 「1時間以上」)"
+    }
+  },
+  {
+    "id": "低",
+    "q": "低",
+    "a": "low",
+    "meta": {
+      "type": "kanji",
+      "on": "てい",
+      "kun": "ひく－い",
+      "example": "最低 (さいてい) - worst"
+    }
+  },
+  {
+    "id": "作",
+    "q": "作",
+    "a": "make",
+    "meta": {
+      "type": "kanji",
+      "on": "さく / さ",
+      "kun": "つく－る",
+      "example": "手作り (てづくり) - handmade"
+    }
+  },
+  {
+    "id": "体",
+    "q": "体",
+    "a": "body",
+    "meta": {
+      "type": "kanji",
+      "on": "たい / てい",
+      "kun": "からだ",
+      "example": "体育館 (たいいくかん) - gymnasium"
+    }
+  },
+  {
+    "id": "住",
+    "q": "住",
+    "a": "dwell",
+    "meta": {
+      "type": "kanji",
+      "on": "じゅう",
+      "kun": "す－む",
+      "example": "住所 (じゅうしょ) - address"
+    }
+  },
+  {
+    "id": "使",
+    "q": "使",
+    "a": "use",
+    "meta": {
+      "type": "kanji",
+      "on": "し",
+      "kun": "つか－う",
+      "example": "大使館 (たいしかん) - embassy"
+    }
+  },
+  {
+    "id": "便",
+    "q": "便",
+    "a": "convenience",
+    "meta": {
+      "type": "kanji",
+      "on": "べん / びん",
+      "kun": "たよ－り",
+      "example": "郵便局 (ゆうびんきょく) - post office"
+    }
+  },
+  {
+    "id": "借",
+    "q": "借",
+    "a": "borrow",
+    "meta": {
+      "type": "kanji",
+      "on": "しゃく",
+      "kun": "か－りる",
+      "example": "貸借 (たいしゃく) - loan"
+    }
+  },
+  {
+    "id": "働",
+    "q": "働",
+    "a": "work",
+    "meta": {
+      "type": "kanji",
+      "on": "どう",
+      "kun": "はたら－く",
+      "example": "活動 (かつどう) - activity"
+    }
+  },
+  {
+    "id": "元",
+    "q": "元",
+    "a": "origin",
+    "meta": {
+      "type": "kanji",
+      "on": "げん / がん",
+      "kun": "もと",
+      "example": "地元 (じもと) - local; hometown"
+    }
+  },
+  {
+    "id": "兄",
+    "q": "兄",
+    "a": "older brother",
+    "meta": {
+      "type": "kanji",
+      "on": "けい / きょう",
+      "kun": "あに / え",
+      "example": "兄 (あに) - one's older brother"
+    }
+  },
+  {
+    "id": "光",
+    "q": "光",
+    "a": "light",
+    "meta": {
+      "type": "kanji",
+      "on": "こう",
+      "kun": "ひかり / ひか－る",
+      "example": "観光 (かんこう) - sight-seeing"
+    }
+  },
+  {
+    "id": "写",
+    "q": "写",
+    "a": "copy",
+    "meta": {
+      "type": "kanji",
+      "on": "しゃ",
+      "kun": "うつ－す",
+      "example": "写真 (しゃしん) - photograph"
+    }
+  },
+  {
+    "id": "冬",
+    "q": "冬",
+    "a": "winter",
+    "meta": {
+      "type": "kanji",
+      "on": "とう",
+      "kun": "ふゆ",
+      "example": "冬季 (とうき) - (season of) winter"
+    }
+  },
+  {
+    "id": "切",
+    "q": "切",
+    "a": "cut",
+    "meta": {
+      "type": "kanji",
+      "on": "せつ / さい",
+      "kun": "きーる",
+      "example": "大切 (たいせつ) - important"
+    }
+  },
+  {
+    "id": "別",
+    "q": "別",
+    "a": "separate",
+    "meta": {
+      "type": "kanji",
+      "on": "べつ",
+      "kun": "わか－れる",
+      "example": "送別 (そうべつ) - farewell; send off"
+    }
+  },
+  {
+    "id": "力",
+    "q": "力",
+    "a": "power",
+    "meta": {
+      "type": "kanji",
+      "on": "りき / りょく",
+      "kun": "ちから",
+      "example": "電力 (でんりょく) - electric power"
+    }
+  },
+  {
+    "id": "勉",
+    "q": "勉",
+    "a": "diligence",
+    "meta": {
+      "type": "kanji",
+      "on": "べん",
+      "kun": "つと－める",
+      "example": "勉強 (べんきょう) - study"
+    }
+  },
+  {
+    "id": "動",
+    "q": "動",
+    "a": "move",
+    "meta": {
+      "type": "kanji",
+      "on": "どう",
+      "kun": "うご－く / うご－かす",
+      "example": "自動車 (じどうしゃ) - automobile"
+    }
+  },
+  {
+    "id": "区",
+    "q": "区",
+    "a": "ward",
+    "meta": {
+      "type": "kanji",
+      "on": "く",
+      "example": "地区 (ちく) - district"
+    }
+  },
+  {
+    "id": "医",
+    "q": "医",
+    "a": "doctor",
+    "meta": {
+      "type": "kanji",
+      "on": "い",
+      "example": "医師 (いし) - doctor"
+    }
+  },
+  {
+    "id": "去",
+    "q": "去",
+    "a": "leave",
+    "meta": {
+      "type": "kanji",
+      "on": "きょ / こ",
+      "kun": "さ－る",
+      "example": "去年 (きょねん) - last year"
+    }
+  },
+  {
+    "id": "合",
+    "q": "合",
+    "a": "fit",
+    "meta": {
+      "type": "kanji",
+      "on": "ごう / かっ",
+      "kun": "あ－う / あ－わす / あ－わせる",
+    }
+  },
+  {
+    "id": "台",
+    "q": "台",
+    "a": "base",
+    "meta": {
+      "type": "kanji",
+      "on": "だい / たい",
+      "kun": "うてな",
+    }
+  },
+  {
+    "id": "同",
+    "q": "同",
+    "a": "same",
+    "meta": {
+      "type": "kanji",
+      "on": "どう",
+      "kun": "おな－じ",
+    }
+  },
+  {
+    "id": "味",
+    "q": "味",
+    "a": "flavor",
+    "meta": {
+      "type": "kanji",
+      "on": "み",
+      "kun": "あじ / あじ－わう",
+      "example": "意味 (いみ) - meaning"
+    }
+  },
+  {
+    "id": "品",
+    "q": "品",
+    "a": "article",
+    "meta": {
+      "type": "kanji",
+      "on": "ひん / ほん",
+      "kun": "しな",
+      "example": "食品 (しょくひん) - food products"
+    }
+  },
+  {
+    "id": "員",
+    "q": "員",
+    "a": "member",
+    "meta": {
+      "type": "kanji",
+      "on": "いん",
+      "example": "全員 (ぜんいん) - everyone; all members"
+    }
+  },
+  {
+    "id": "問",
+    "q": "問",
+    "a": "question",
+    "meta": {
+      "type": "kanji",
+      "on": "もん",
+      "kun": "と－う / とん",
+      "example": "質問 (しつもん) - question"
+    }
+  },
+  {
+    "id": "図",
+    "q": "図",
+    "a": "drawing",
+    "meta": {
+      "type": "kanji",
+      "on": "ず / と",
+      "kun": "はか－る",
+      "example": "地図 (ちず) - map"
+    }
+  },
+  {
+    "id": "地",
+    "q": "地",
+    "a": "ground",
+    "meta": {
+      "type": "kanji",
+      "on": "ち / じ",
+      "kun": "つち",
+      "example": "地球 (ちきゅう) - earth"
+    }
+  },
+  {
+    "id": "堂",
+    "q": "堂",
+    "a": "public chamber",
+    "meta": {
+      "type": "kanji",
+      "on": "どう",
+      "example": "食堂 (しょくどう) - cafeteria; restaurant"
+    }
+  },
+  {
+    "id": "場",
+    "q": "場",
+    "a": "place",
+    "meta": {
+      "type": "kanji",
+      "on": "じょう",
+      "kun": "ば",
+      "example": "場所 (ばしょ) - place"
+    }
+  },
+  {
+    "id": "声",
+    "q": "声",
+    "a": "voice",
+    "meta": {
+      "type": "kanji",
+      "on": "せい / しょう",
+      "kun": "こえ / こわ",
+    }
+  },
+  {
+    "id": "売",
+    "q": "売",
+    "a": "sell",
+    "meta": {
+      "type": "kanji",
+      "on": "ばい",
+      "kun": "う－る",
+    }
+  },
+  {
+    "id": "夏",
+    "q": "夏",
+    "a": "summer",
+    "meta": {
+      "type": "kanji",
+      "on": "か / げ",
+      "kun": "なつ",
+    }
+  },
+  {
+    "id": "夕",
+    "q": "夕",
+    "a": "evening",
+    "meta": {
+      "type": "kanji",
+      "on": "せき",
+      "kun": "ゆう / ゆうべ",
+      "example": "夕食 (ゆうしょく) - dinner"
+    }
+  },
+  {
+    "id": "夜",
+    "q": "夜",
+    "a": "night",
+    "meta": {
+      "type": "kanji",
+      "on": "や",
+      "kun": "よる",
+      "example": "今夜 (こんや) - tonight"
+    }
+  },
+  {
+    "id": "太",
+    "q": "太",
+    "a": "fat",
+    "meta": {
+      "type": "kanji",
+      "on": "た / たい",
+      "kun": "ふと－い / はなは－だ",
+    }
+  },
+  {
+    "id": "好",
+    "q": "好",
+    "a": "like",
+    "meta": {
+      "type": "kanji",
+      "on": "こう",
+      "kun": "す－く / この－む",
+      "example": "お好み焼き (おこのみやき) - Okonomiyaki"
+    }
+  },
+  {
+    "id": "妹",
+    "q": "妹",
+    "a": "younger sister",
+    "meta": {
+      "type": "kanji",
+      "on": "まい",
+      "kun": "いもうと / いも",
+    }
+  },
+  {
+    "id": "姉",
+    "q": "姉",
+    "a": "older sister",
+    "meta": {
+      "type": "kanji",
+      "on": "し",
+      "kun": "あね",
+    }
+  },
+  {
+    "id": "始",
+    "q": "始",
+    "a": "begin",
+    "meta": {
+      "type": "kanji",
+      "on": "し",
+      "kun": "はじ－める / はじ－まる",
+    }
+  },
+  {
+    "id": "字",
+    "q": "字",
+    "a": "character",
+    "meta": {
+      "type": "kanji",
+      "on": "じ",
+      "kun": "あざ / あざな",
+      "example": "漢字 (かんじ) - kanji"
+    }
+  },
+  {
+    "id": "室",
+    "q": "室",
+    "a": "room",
+    "meta": {
+      "type": "kanji",
+      "on": "しつ",
+      "kun": "むろ",
+      "example": "和室 (わしつ) - Japanese-style room"
+    }
+  },
+  {
+    "id": "家",
+    "q": "家",
+    "a": "house",
+    "meta": {
+      "type": "kanji",
+      "on": "か / け",
+      "kun": "いえ / や",
+    }
+  },
+  {
+    "id": "寒",
+    "q": "寒",
+    "a": "cold",
+    "meta": {
+      "type": "kanji",
+      "on": "かん",
+      "kun": "さむ－い",
+    }
+  },
+  {
+    "id": "屋",
+    "q": "屋",
+    "a": "premise",
+    "meta": {
+      "type": "kanji",
+      "on": "おく",
+      "kun": "や",
+      "example": "居酒屋 (いざかや) - Izakaya, Japaness-style bar"
+    }
+  },
+  {
+    "id": "工",
+    "q": "工",
+    "a": "craft",
+    "meta": {
+      "type": "kanji",
+      "on": "こう / く",
+      "kun": "たくみ",
+      "example": "工事 (こうじ) - construction"
+    }
+  },
+  {
+    "id": "市",
+    "q": "市",
+    "a": "city",
+    "meta": {
+      "type": "kanji",
+      "on": "し",
+      "kun": "いち",
+    }
+  },
+  {
+    "id": "帰",
+    "q": "帰",
+    "a": "return home",
+    "meta": {
+      "type": "kanji",
+      "on": "き",
+      "kun": "かえ－る / かえ－す",
+      "example": "帰国する (きこくする) - to return to one's own country"
+    }
+  },
+  {
+    "id": "広",
+    "q": "広",
+    "a": "wide",
+    "meta": {
+      "type": "kanji",
+      "on": "こう",
+      "kun": "ひろ－い / ひろ－める / ひろ－まる",
+      "example": "広島 (ひろしま) - Hiroshima (literally \"Wide island\")"
+    }
+  },
+  {
+    "id": "度",
+    "q": "度",
+    "a": "degrees",
+    "meta": {
+      "type": "kanji",
+      "on": "ど",
+      "kun": "たび",
+    }
+  },
+  {
+    "id": "建",
+    "q": "建",
+    "a": "build",
+    "meta": {
+      "type": "kanji",
+      "on": "けん / こん",
+      "kun": "た－てる / た－つ",
+      "example": "建物 (たてもの) - building"
+    }
+  },
+  {
+    "id": "引",
+    "q": "引",
+    "a": "pull",
+    "meta": {
+      "type": "kanji",
+      "on": "いん",
+      "kun": "ひ－く",
+      "example": "引越し (ひっこし) - move (to a new place)"
+    }
+  },
+  {
+    "id": "弟",
+    "q": "弟",
+    "a": "younger brother",
+    "meta": {
+      "type": "kanji",
+      "on": "てい",
+      "kun": "おとうと",
+    }
+  },
+  {
+    "id": "弱",
+    "q": "弱",
+    "a": "weak",
+    "meta": {
+      "type": "kanji",
+      "on": "じゃく",
+      "kun": "よわ－い",
+    }
+  },
+  {
+    "id": "強",
+    "q": "強",
+    "a": "strong",
+    "meta": {
+      "type": "kanji",
+      "on": "きょう / ごう",
+      "kun": "つよ－い / あなが－ち",
+    }
+  },
+  {
+    "id": "待",
+    "q": "待",
+    "a": "wait",
+    "meta": {
+      "type": "kanji",
+      "on": "たい",
+      "kun": "ま－つ",
+    }
+  },
+  {
+    "id": "心",
+    "q": "心",
+    "a": "heart",
+    "meta": {
+      "type": "kanji",
+      "on": "しん",
+      "kun": "こころ",
+    }
+  },
+  {
+    "id": "思",
+    "q": "思",
+    "a": "think",
+    "meta": {
+      "type": "kanji",
+      "on": "し",
+      "kun": "おも－う / おぼ－す",
+    }
+  },
+  {
+    "id": "急",
+    "q": "急",
+    "a": "hurry",
+    "meta": {
+      "type": "kanji",
+      "on": "きゅう",
+      "kun": "いそ－ぐ",
+      "example": "特急 (とっきゅう) - express (train, bus, etc.)"
+    }
+  },
+  {
+    "id": "悪",
+    "q": "悪",
+    "a": "bad",
+    "meta": {
+      "type": "kanji",
+      "on": "あく / お",
+      "kun": "わる－い / にく－む",
+    }
+  },
+  {
+    "id": "意",
+    "q": "意",
+    "a": "idea",
+    "meta": {
+      "type": "kanji",
+      "on": "い",
+      "example": "意見 (いけん) - opinion"
+    }
+  },
+  {
+    "id": "所",
+    "q": "所",
+    "a": "place",
+    "meta": {
+      "type": "kanji",
+      "on": "しょ",
+      "kun": "ところ",
+      "example": "休憩所 (きゅうけいじょ) - rest area"
+    }
+  },
+  {
+    "id": "持",
+    "q": "持",
+    "a": "hold",
+    "meta": {
+      "type": "kanji",
+      "on": "じ",
+      "kun": "も－つ",
+    }
+  },
+  {
+    "id": "教",
+    "q": "教",
+    "a": "teach",
+    "meta": {
+      "type": "kanji",
+      "on": "きょう",
+      "kun": "おし－える",
+      "example": "教育 (きょういく) - education"
+    }
+  },
+  {
+    "id": "文",
+    "q": "文",
+    "a": "writing",
+    "meta": {
+      "type": "kanji",
+      "on": "ぶん / もん",
+      "kun": "ふみ / あや",
+      "example": "作文 (さくぶん) - essay"
+    }
+  },
+  {
+    "id": "料",
+    "q": "料",
+    "a": "fee",
+    "meta": {
+      "type": "kanji",
+      "on": "りょう",
+      "kun": "とが / しな",
+      "example": "料金 (りょうきん) - fee"
+    }
+  },
+  {
+    "id": "方",
+    "q": "方",
+    "a": "direction",
+    "meta": {
+      "type": "kanji",
+      "on": "ほう",
+      "kun": "かた",
+      "example": "夕方 (ゆうがた) - early evening"
+    }
+  },
+  {
+    "id": "旅",
+    "q": "旅",
+    "a": "trip",
+    "meta": {
+      "type": "kanji",
+      "on": "りょ",
+      "kun": "たび",
+      "example": "旅行 (りょこう) - vacation"
+    }
+  },
+  {
+    "id": "族",
+    "q": "族",
+    "a": "tribe",
+    "meta": {
+      "type": "kanji",
+      "on": "ぞく",
+      "kun": "やから",
+      "example": "家族 (かぞく) - family"
+    }
+  },
+  {
+    "id": "早",
+    "q": "早",
+    "a": "early",
+    "meta": {
+      "type": "kanji",
+      "on": "そう",
+      "kun": "はや－い",
+    }
+  },
+  {
+    "id": "明",
+    "q": "明",
+    "a": "bright",
+    "meta": {
+      "type": "kanji",
+      "on": "めい / みょう",
+      "kun": "あか－るい / あ－ける / あき－らか / あ－かす / あ－く / あか－らす",
+    }
+  },
+  {
+    "id": "映",
+    "q": "映",
+    "a": "reflect",
+    "meta": {
+      "type": "kanji",
+      "on": "えい",
+      "kun": "うつ－る / うつ－す / は－える",
+      "example": "映画 (えいが) - movie"
+    }
+  },
+  {
+    "id": "春",
+    "q": "春",
+    "a": "spring",
+    "meta": {
+      "type": "kanji",
+      "on": "しゅん / とう",
+      "kun": "はる",
+      "example": "青春 (せいしゅん) - youth"
+    }
+  },
+  {
+    "id": "昼",
+    "q": "昼",
+    "a": "daytime",
+    "meta": {
+      "type": "kanji",
+      "on": "ちゅう",
+      "kun": "ひる",
+      "example": "昼間 (ひるま) - daytime"
+    }
+  },
+  {
+    "id": "暑",
+    "q": "暑",
+    "a": "hot",
+    "meta": {
+      "type": "kanji",
+      "on": "しょ",
+      "kun": "あつ－い",
+    }
+  },
+  {
+    "id": "暗",
+    "q": "暗",
+    "a": "dark",
+    "meta": {
+      "type": "kanji",
+      "on": "あん",
+      "kun": "くら－い",
+      "example": "暗記 (あんき) - memorization"
+    }
+  },
+  {
+    "id": "曜",
+    "q": "曜",
+    "a": "weekday",
+    "meta": {
+      "type": "kanji",
+      "on": "よう",
+      "example": "月曜日 (げつようび) - Monday"
+    }
+  },
+  {
+    "id": "有",
+    "q": "有",
+    "a": "be",
+    "meta": {
+      "type": "kanji",
+      "on": "ゆう / う",
+      "kun": "あ－る",
+      "example": "有名 (ゆうめい) - famous"
+    }
+  },
+  {
+    "id": "服",
+    "q": "服",
+    "a": "clothes",
+    "meta": {
+      "type": "kanji",
+      "on": "ふく",
+      "kun": "の－む",
+      "example": "洋服 (ようふく) - Western clothes"
+    }
+  },
+  {
+    "id": "朝",
+    "q": "朝",
+    "a": "morning",
+    "meta": {
+      "type": "kanji",
+      "on": "ちょう",
+      "kun": "あさ / あした",
+      "example": "朝食 (ちょうしょく) - breakfast"
+    }
+  },
+  {
+    "id": "村",
+    "q": "村",
+    "a": "village",
+    "meta": {
+      "type": "kanji",
+      "on": "そん",
+      "kun": "むら",
+      "example": "山村 (さんそん) - mountain village"
+    }
+  },
+  {
+    "id": "林",
+    "q": "林",
+    "a": "woods",
+    "meta": {
+      "type": "kanji",
+      "on": "りん",
+      "kun": "はやし",
+    }
+  },
+  {
+    "id": "森",
+    "q": "森",
+    "a": "forest",
+    "meta": {
+      "type": "kanji",
+      "on": "しん",
+      "kun": "もり",
+    }
+  },
+  {
+    "id": "業",
+    "q": "業",
+    "a": "business",
+    "meta": {
+      "type": "kanji",
+      "on": "ぎょう / ごう",
+      "kun": "わざ",
+      "example": "営業 (えいぎょう) - business"
+    }
+  },
+  {
+    "id": "楽",
+    "q": "楽",
+    "a": "pleasure",
+    "meta": {
+      "type": "kanji",
+      "on": "らく / がく",
+      "kun": "たの－しい",
+    }
+  },
+  {
+    "id": "歌",
+    "q": "歌",
+    "a": "song",
+    "meta": {
+      "type": "kanji",
+      "on": "か",
+      "kun": "うた / うた－う",
+    }
+  },
+  {
+    "id": "止",
+    "q": "止",
+    "a": "stop",
+    "meta": {
+      "type": "kanji",
+      "on": "し",
+      "kun": "と－まる / と－める / とど－まる / とど－める",
+      "example": "禁止 (きんし) - prohibition"
+    }
+  },
+  {
+    "id": "死",
+    "q": "死",
+    "a": "death",
+    "meta": {
+      "type": "kanji",
+      "on": "し",
+      "kun": "し－ぬ",
+    }
+  },
+  {
+    "id": "民",
+    "q": "民",
+    "a": "people",
+    "meta": {
+      "type": "kanji",
+      "on": "みん",
+      "kun": "たみ",
+    }
+  },
+  {
+    "id": "池",
+    "q": "池",
+    "a": "pond",
+    "meta": {
+      "type": "kanji",
+      "on": "ち",
+      "kun": "いけ",
+    }
+  },
+  {
+    "id": "注",
+    "q": "注",
+    "a": "pour",
+    "meta": {
+      "type": "kanji",
+      "on": "ちゅう",
+      "kun": "そそ－ぐ",
+      "example": "注文 (ちゅうもん) - order"
+    }
+  },
+  {
+    "id": "洋",
+    "q": "洋",
+    "a": "ocean, western",
+    "meta": {
+      "type": "kanji",
+      "on": "よう",
+      "example": "洋食 (ようしょく) - Western food"
+    }
+  },
+  {
+    "id": "洗",
+    "q": "洗",
+    "a": "wash",
+    "meta": {
+      "type": "kanji",
+      "on": "せん",
+      "kun": "あら－う",
+      "example": "洗濯 (せんたく) - washing (clothes)"
+    }
+  },
+  {
+    "id": "海",
+    "q": "海",
+    "a": "sea",
+    "meta": {
+      "type": "kanji",
+      "on": "かい",
+      "kun": "うみ",
+      "example": "海岸 (かいがん) - sea-side; beach"
+    }
+  },
+  {
+    "id": "漢",
+    "q": "漢",
+    "a": "China",
+    "meta": {
+      "type": "kanji",
+      "on": "かん",
+    }
+  },
+  {
+    "id": "牛",
+    "q": "牛",
+    "a": "cow",
+    "meta": {
+      "type": "kanji",
+      "on": "ぎゅう / ご",
+      "kun": "うし",
+      "example": "牛肉 (ぎゅうにく) - beef"
+    }
+  },
+  {
+    "id": "物",
+    "q": "物",
+    "a": "thing",
+    "meta": {
+      "type": "kanji",
+      "on": "ぶつ / もつ",
+      "kun": "もの",
+      "example": "博物館 (はくぶつかん) - museum"
+    }
+  },
+  {
+    "id": "特",
+    "q": "特",
+    "a": "special",
+    "meta": {
+      "type": "kanji",
+      "on": "とく",
+      "kun": "とりわ－け",
+      "example": "特別 (とくべつ) - special"
+    }
+  },
+  {
+    "id": "犬",
+    "q": "犬",
+    "a": "dog",
+    "meta": {
+      "type": "kanji",
+      "on": "けん",
+      "kun": "いぬ",
+    }
+  },
+  {
+    "id": "理",
+    "q": "理",
+    "a": "reason",
+    "meta": {
+      "type": "kanji",
+      "on": "り",
+      "kun": "ことわり",
+    }
+  },
+  {
+    "id": "産",
+    "q": "産",
+    "a": "give birth",
+    "meta": {
+      "type": "kanji",
+      "on": "さん",
+      "kun": "う－む",
+    }
+  },
+  {
+    "id": "用",
+    "q": "用",
+    "a": "use",
+    "meta": {
+      "type": "kanji",
+      "on": "よう",
+      "kun": "もち－いる",
+    }
+  },
+  {
+    "id": "田",
+    "q": "田",
+    "a": "rice paddy",
+    "meta": {
+      "type": "kanji",
+      "on": "でん",
+      "kun": "た",
+    }
+  },
+  {
+    "id": "町",
+    "q": "町",
+    "a": "town",
+    "meta": {
+      "type": "kanji",
+      "on": "ちょう",
+      "kun": "まち",
+    }
+  },
+  {
+    "id": "画",
+    "q": "画",
+    "a": "picture",
+    "meta": {
+      "type": "kanji",
+      "on": "が / かく",
+      "kun": "えが－く",
+      "example": "計画 (けいかく) - plan"
+    }
+  },
+  {
+    "id": "界",
+    "q": "界",
+    "a": "world",
+    "meta": {
+      "type": "kanji",
+      "on": "かい",
+    }
+  },
+  {
+    "id": "病",
+    "q": "病",
+    "a": "sick",
+    "meta": {
+      "type": "kanji",
+      "on": "びょう / へい",
+      "kun": "やまい",
+      "example": "病院 (びょういん) - hospital"
+    }
+  },
+  {
+    "id": "発",
+    "q": "発",
+    "a": "departure",
+    "meta": {
+      "type": "kanji",
+      "on": "はつ / ほつ",
+      "kun": "た－つ",
+      "example": "出発 (しゅっぱつ) - departure"
+    }
+  },
+  {
+    "id": "県",
+    "q": "県",
+    "a": "prefecture",
+    "meta": {
+      "type": "kanji",
+      "on": "けん",
+      "kun": "あがた",
+    }
+  },
+  {
+    "id": "真",
+    "q": "真",
+    "a": "true",
+    "meta": {
+      "type": "kanji",
+      "on": "しん",
+      "kun": "ま / まこと",
+    }
+  },
+  {
+    "id": "着",
+    "q": "着",
+    "a": "wear / arrive",
+    "meta": {
+      "type": "kanji",
+      "on": "ちゃく / じゃく",
+      "kun": "き－る / つ－く",
+      "example": "到着 (とうちゃく) - arrival"
+    }
+  },
+  {
+    "id": "知",
+    "q": "知",
+    "a": "know",
+    "meta": {
+      "type": "kanji",
+      "on": "ち",
+      "kun": "し－る / し－らす",
+    }
+  },
+  {
+    "id": "短",
+    "q": "短",
+    "a": "short",
+    "meta": {
+      "type": "kanji",
+      "on": "たん",
+      "kun": "みじか－い",
+    }
+  },
+  {
+    "id": "研",
+    "q": "研",
+    "a": "sharpen",
+    "meta": {
+      "type": "kanji",
+      "on": "けん",
+      "kun": "と－ぐ",
+    }
+  },
+  {
+    "id": "私",
+    "q": "私",
+    "a": "me",
+    "meta": {
+      "type": "kanji",
+      "on": "し",
+      "kun": "わたくし / わたし",
+      "example": "私立 (しりつ) - private"
+    }
+  },
+  {
+    "id": "秋",
+    "q": "秋",
+    "a": "autumn",
+    "meta": {
+      "type": "kanji",
+      "on": "しゅう",
+      "kun": "あき",
+    }
+  },
+  {
+    "id": "究",
+    "q": "究",
+    "a": "research",
+    "meta": {
+      "type": "kanji",
+      "on": "きゅう",
+      "kun": "きわ－める / きわ－まる",
+    }
+  },
+  {
+    "id": "答",
+    "q": "答",
+    "a": "answer",
+    "meta": {
+      "type": "kanji",
+      "on": "とう",
+      "kun": "こた－え / こた－える",
+      "example": "解答欄 (かいとうらん) - answer sheet"
+    }
+  },
+  {
+    "id": "紙",
+    "q": "紙",
+    "a": "paper　",
+    "meta": {
+      "type": "kanji",
+      "on": "し",
+      "kun": "かみ",
+      "example": "紙袋 (かみふくろ) - paper bag"
+    }
+  },
+  {
+    "id": "終",
+    "q": "終",
+    "a": "end",
+    "meta": {
+      "type": "kanji",
+      "on": "しゅう",
+      "kun": "お－わる / お－える",
+    }
+  },
+  {
+    "id": "習",
+    "q": "習",
+    "a": "learn",
+    "meta": {
+      "type": "kanji",
+      "on": "しゅう",
+      "kun": "なら－う",
+    }
+  },
+  {
+    "id": "考",
+    "q": "考",
+    "a": "think about",
+    "meta": {
+      "type": "kanji",
+      "on": "こう",
+      "kun": "かんが－える",
+    }
+  },
+  {
+    "id": "者",
+    "q": "者",
+    "a": "someone",
+    "meta": {
+      "type": "kanji",
+      "on": "しゃ",
+      "kun": "もの",
+    }
+  },
+  {
+    "id": "肉",
+    "q": "肉",
+    "a": "meat",
+    "meta": {
+      "type": "kanji",
+      "on": "にく",
+      "kun": "しし",
+      "example": "豚肉 (ぶたにく) - pork"
+    }
+  },
+  {
+    "id": "自",
+    "q": "自",
+    "a": "oneself",
+    "meta": {
+      "type": "kanji",
+      "on": "じ / し",
+      "kun": "みずか－ら / おの－ずから",
+      "example": "自分 (じぶん) - oneself"
+    }
+  },
+  {
+    "id": "色",
+    "q": "色",
+    "a": "color",
+    "meta": {
+      "type": "kanji",
+      "on": "しょく / しき",
+      "kun": "いろ",
+    }
+  },
+  {
+    "id": "英",
+    "q": "英",
+    "a": "England",
+    "meta": {
+      "type": "kanji",
+      "on": "えい",
+      "kun": "はなぶさ",
+      "example": "英語 (えいご) - English (language)"
+    }
+  },
+  {
+    "id": "茶",
+    "q": "茶",
+    "a": "tea",
+    "meta": {
+      "type": "kanji",
+      "on": "ちゃ / さ",
+      "example": "茶色 (ちゃいろ) - brown (literally \"tea color\")"
+    }
+  },
+  {
+    "id": "菜",
+    "q": "菜",
+    "a": "vegetable",
+    "meta": {
+      "type": "kanji",
+      "on": "さい",
+      "kun": "な",
+    }
+  },
+  {
+    "id": "薬",
+    "q": "薬",
+    "a": "medicine",
+    "meta": {
+      "type": "kanji",
+      "on": "やく",
+      "kun": "くすり",
+    }
+  },
+  {
+    "id": "親",
+    "q": "親",
+    "a": "parent",
+    "meta": {
+      "type": "kanji",
+      "on": "しん",
+      "kun": "おや / みずか－ら",
+      "example": "両親 (りょうしん) - (both) parents"
+    }
+  },
+  {
+    "id": "計",
+    "q": "計",
+    "a": "measure",
+    "meta": {
+      "type": "kanji",
+      "on": "けい",
+      "kun": "はか－る / はか－らう",
+    }
+  },
+  {
+    "id": "試",
+    "q": "試",
+    "a": "test",
+    "meta": {
+      "type": "kanji",
+      "on": "し",
+      "kun": "こころ－みる",
+    }
+  },
+  {
+    "id": "説",
+    "q": "説",
+    "a": "theory",
+    "meta": {
+      "type": "kanji",
+      "on": "せつ / ぜい",
+      "kun": "と－く",
+      "example": "小説 (しょうせつ) - novel"
+    }
+  },
+  {
+    "id": "貸",
+    "q": "貸",
+    "a": "lend",
+    "meta": {
+      "type": "kanji",
+      "on": "たい",
+      "kun": "か－す",
+    }
+  },
+  {
+    "id": "質",
+    "q": "質",
+    "a": "quality",
+    "meta": {
+      "type": "kanji",
+      "on": "しつ / しち",
+      "kun": "ただ－す",
+    }
+  },
+  {
+    "id": "赤",
+    "q": "赤",
+    "a": "red",
+    "meta": {
+      "type": "kanji",
+      "on": "せき / しゃく",
+      "kun": "あか / あか－い",
+    }
+  },
+  {
+    "id": "走",
+    "q": "走",
+    "a": "run",
+    "meta": {
+      "type": "kanji",
+      "on": "そう",
+      "kun": "はし－る",
+    }
+  },
+  {
+    "id": "起",
+    "q": "起",
+    "a": "wake up",
+    "meta": {
+      "type": "kanji",
+      "on": "き",
+      "kun": "お－きる / お－こす",
+    }
+  },
+  {
+    "id": "転",
+    "q": "転",
+    "a": "revolve",
+    "meta": {
+      "type": "kanji",
+      "on": "てん",
+      "kun": "ころ－ぶ",
+    }
+  },
+  {
+    "id": "軽",
+    "q": "軽",
+    "a": "light",
+    "meta": {
+      "type": "kanji",
+      "on": "けい",
+      "kun": "かる－い",
+    }
+  },
+  {
+    "id": "近",
+    "q": "近",
+    "a": "near",
+    "meta": {
+      "type": "kanji",
+      "on": "きん / こん",
+      "kun": "ちか－い",
+    }
+  },
+  {
+    "id": "送",
+    "q": "送",
+    "a": "send",
+    "meta": {
+      "type": "kanji",
+      "on": "そう",
+      "kun": "おく－る",
+      "example": "回送 (かいそう) - out of service (bus, train, etc.)"
+    }
+  },
+  {
+    "id": "進",
+    "q": "進",
+    "a": "advance",
+    "meta": {
+      "type": "kanji",
+      "on": "しん",
+      "kun": "すす－む / すす－める",
+    }
+  },
+  {
+    "id": "運",
+    "q": "運",
+    "a": "carry",
+    "meta": {
+      "type": "kanji",
+      "on": "うん",
+      "kun": "はこ－ぶ",
+    }
+  },
+  {
+    "id": "遠",
+    "q": "遠",
+    "a": "far　",
+    "meta": {
+      "type": "kanji",
+      "on": "えん / おん",
+      "kun": "とお－い",
+    }
+  },
+  {
+    "id": "都",
+    "q": "都",
+    "a": "metropolis",
+    "meta": {
+      "type": "kanji",
+      "on": "と / つ",
+      "kun": "みやこ / すべ－て",
+    }
+  },
+  {
+    "id": "重",
+    "q": "重",
+    "a": "heavy",
+    "meta": {
+      "type": "kanji",
+      "on": "じゅう / ちょう",
+      "kun": "おも－い / かさ－ねる / かさ－なる",
+    }
+  },
+  {
+    "id": "野",
+    "q": "野",
+    "a": "field",
+    "meta": {
+      "type": "kanji",
+      "on": "や",
+      "kun": "の",
+    }
+  },
+  {
+    "id": "銀",
+    "q": "銀",
+    "a": "silver",
+    "meta": {
+      "type": "kanji",
+      "on": "ぎん",
+      "kun": "しろがね",
+      "example": "銀行 (ぎんこう) - bank"
+    }
+  },
+  {
+    "id": "門",
+    "q": "門",
+    "a": "gates",
+    "meta": {
+      "type": "kanji",
+      "on": "もん",
+      "kun": "かど",
+    }
+  },
+  {
+    "id": "開",
+    "q": "開",
+    "a": "open",
+    "meta": {
+      "type": "kanji",
+      "on": "かい",
+      "kun": "ひら－く / あ－く",
+    }
+  },
+  {
+    "id": "院",
+    "q": "院",
+    "a": "institution",
+    "meta": {
+      "type": "kanji",
+      "on": "いん",
+    }
+  },
+  {
+    "id": "集",
+    "q": "集",
+    "a": "collect",
+    "meta": {
+      "type": "kanji",
+      "on": "しゅう",
+      "kun": "あつ－まる",
+    }
+  },
+  {
+    "id": "青",
+    "q": "青",
+    "a": "blue",
+    "meta": {
+      "type": "kanji",
+      "on": "せい / しょう",
+      "kun": "あお",
+    }
+  },
+  {
+    "id": "音",
+    "q": "音",
+    "a": "sound",
+    "meta": {
+      "type": "kanji",
+      "on": "おん",
+      "kun": "ね / おと",
+      "example": "音節 (おんせつ) - syllable"
+    }
+  },
+  {
+    "id": "頭",
+    "q": "頭",
+    "a": "head",
+    "meta": {
+      "type": "kanji",
+      "on": "とう / ず",
+      "kun": "あたま",
+    }
+  },
+  {
+    "id": "題",
+    "q": "題",
+    "a": "topic",
+    "meta": {
+      "type": "kanji",
+      "on": "だい",
+    }
+  },
+  {
+    "id": "顔",
+    "q": "顔",
+    "a": "face",
+    "meta": {
+      "type": "kanji",
+      "on": "がん",
+      "kun": "かお",
+    }
+  },
+  {
+    "id": "風",
+    "q": "風",
+    "a": "wind",
+    "meta": {
+      "type": "kanji",
+      "on": "ふう / ふ",
+      "kun": "かぜ / かざ",
+      "example": "台風 (たいふう) - typhoon"
+    }
+  },
+  {
+    "id": "飯",
+    "q": "飯",
+    "a": "meal",
+    "meta": {
+      "type": "kanji",
+      "on": "はん",
+      "kun": "めし / いい",
+    }
+  },
+  {
+    "id": "館",
+    "q": "館",
+    "a": "public building",
+    "meta": {
+      "type": "kanji",
+      "on": "かん",
+      "kun": "やかた / たち / たて",
+    }
+  },
+  {
+    "id": "首",
+    "q": "首",
+    "a": "neck",
+    "meta": {
+      "type": "kanji",
+      "on": "しゅ",
+      "kun": "くび",
+    }
+  },
+  {
+    "id": "験",
+    "q": "験",
+    "a": "test",
+    "meta": {
+      "type": "kanji",
+      "on": "けん / げん",
+      "kun": "しるし",
+    }
+  },
+  {
+    "id": "鳥",
+    "q": "鳥",
+    "a": "bird",
+    "meta": {
+      "type": "kanji",
+      "on": "ちょう",
+      "kun": "とり",
+      "example": "七面鳥 (しちめんちょう) - turkey"
+    }
+  },
+  {
+    "id": "黒",
+    "q": "黒",
+    "a": "black",
+    "meta": {
+      "type": "kanji",
+      "on": "こく",
+      "kun": "くろ",
+      "example": "黒板 (こくばん) - blackboard"
+    }
+  }
 ]
