@@ -3,7 +3,8 @@
     "id": "jlpt-5-vocabs",
     "title": "JLPT 5 Vocabs",
     "type": "flat",
-    "cards_count": 676
+    "modes": ["default", "reversed"],
+    "cards_count": 676,
   },
   {
     "id": "jlpt-5-kanji",

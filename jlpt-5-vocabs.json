@@ -3874,7 +3874,7 @@
     "id": "~たち",
     "title": "~たち",
     "q": "~たち",
-    "a": "(plural suffix) e.g. watashi = I; watashi-tachi = we",
+    "a": "(plural suffix) e.g. watashi = I; watashi+suffix = we",
     "meta": {
       "type": "vocab",
       "kanji": "~達"
@@ -7222,23 +7222,21 @@
   {
     "id": "私",
     "title": "私",
-    "q": "私",
-    "a": "I",
+    "q": "私 (わたくし)",
+    "a": "I (formal)",
     "meta": {
       "type": "vocab",
-      "word_type": "pronoun",
-      "kana": "わたくし"
+      "word_type": "pronoun"
     }
   },
   {
     "id": "私-1",
     "title": "私",
-    "q": "私",
+    "q": "私 (わたし)",
     "a": "I",
     "meta": {
       "type": "vocab",
-      "word_type": "pronoun",
-      "kana": "わたし"
+      "word_type": "pronoun"
     }
   },
   {
