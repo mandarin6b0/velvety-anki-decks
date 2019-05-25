@@ -19,6 +19,20 @@
     "cards_count": 177
   },
   {
+    "id": "jlpt-5-verbs",
+    "title": "JLPT 5 Verbs",
+    "type": "flat",
+    "modes": ["default", "reversed"],
+    "cards_count": 105
+  },
+  {
+    "id": "jlpt-4-verbs",
+    "title": "JLPT 4 Verbs",
+    "type": "flat",
+    "modes": ["default", "reversed"],
+    "cards_count": 116
+  },
+  {
     "id": "taekim-complete",
     "title": "Tae Kim: Complete Guide",
     "type": "grouped",
