@@ -90,15 +90,6 @@
     }
   },
   {
-    "id": "くださる",
-    "title": "くださる",
-    "q": "くださる",
-    "a": "to give (to me) respectful",
-    "meta": {
-      "type": "vocab"
-    }
-  },
-  {
     "id": "比べる",
     "title": "比べる",
     "q": "比べる",
@@ -1060,7 +1051,7 @@
     "id": "止める-1",
     "title": "止める",
     "q": "止める",
-    "a": "to stop",
+    "a": "to stop (an activity)",
     "meta": {
       "type": "vocab",
       "kana": "やめる"

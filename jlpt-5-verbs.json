@@ -72,21 +72,10 @@
     "id": "有る",
     "title": "有る",
     "q": "有る",
-    "a": "to be, to exist",
+    "a": "to be, to exist, to possess",
     "meta": {
       "type": "vocab",
       "kana": "ある"
-    }
-  },
-  {
-    "id": "ある",
-    "title": "ある",
-    "q": "ある",
-    "a": "to possess",
-    "meta": {
-      "type": "vocab",
-      "kana": "ある",
-      "kanji": "有る"
     }
   },
   {
@@ -123,7 +112,7 @@
     "id": "いる",
     "title": "いる",
     "q": "いる",
-    "a": "need, must haven be required",
+    "a": "need, must have, be required",
     "meta": {
       "type": "vocab",
       "kanji": "要る"
@@ -515,8 +504,7 @@
     "q": "する",
     "a": "to do",
     "meta": {
-      "type": "vocab",
-      "kana": "する"
+      "type": "vocab"
     }
   },
   {
