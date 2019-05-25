@@ -1,0 +1,1169 @@
+[
+  {
+    "id": "合う",
+    "title": "合う",
+    "q": "合う",
+    "a": "to fit, to suit",
+    "meta": {
+      "type": "vocab",
+      "kana": "あう"
+    }
+  },
+  {
+    "id": "上がる",
+    "title": "上がる",
+    "q": "上がる",
+    "a": "to go up",
+    "meta": {
+      "type": "vocab",
+      "kana": "あがる"
+    }
+  },
+  {
+    "id": "空く",
+    "title": "空く",
+    "q": "空く",
+    "a": "empty, with space",
+    "meta": {
+      "type": "vocab",
+      "kana": "あく"
+    }
+  },
+  {
+    "id": "上げる",
+    "title": "上げる",
+    "q": "上げる",
+    "a": "to rise",
+    "meta": {
+      "type": "vocab",
+      "kana": "あげる"
+    }
+  },
+  {
+    "id": "置く",
+    "title": "置く",
+    "q": "置く",
+    "a": "to put",
+    "meta": {
+      "type": "vocab",
+      "kana": "おく"
+    }
+  },
+  {
+    "id": "掛かる",
+    "title": "掛かる",
+    "q": "掛かる",
+    "a": "to take time or money",
+    "meta": {
+      "type": "vocab",
+      "kana": "かかる"
+    }
+  },
+  {
+    "id": "聞こえる",
+    "title": "聞こえる",
+    "q": "聞こえる",
+    "a": "hear, can hear, be audible",
+    "meta": {
+      "type": "vocab",
+      "kana": "きこえる"
+    }
+  },
+  {
+    "id": "決まる",
+    "title": "決まる",
+    "q": "決まる",
+    "a": "to be decided",
+    "meta": {
+      "type": "vocab",
+      "kana": "きまる"
+    }
+  },
+  {
+    "id": "決める",
+    "title": "決める",
+    "q": "決める",
+    "a": "to decide",
+    "meta": {
+      "type": "vocab",
+      "kana": "きめる"
+    }
+  },
+  {
+    "id": "くださる",
+    "title": "くださる",
+    "q": "くださる",
+    "a": "to give (to me) respectful",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "比べる",
+    "title": "比べる",
+    "q": "比べる",
+    "a": "to compare",
+    "meta": {
+      "type": "vocab",
+      "kana": "くらべる"
+    }
+  },
+  {
+    "id": "暮れる",
+    "title": "暮れる",
+    "q": "暮れる",
+    "a": "to get dark",
+    "meta": {
+      "type": "vocab",
+      "kana": "くれる"
+    }
+  },
+  {
+    "id": "くれる",
+    "title": "くれる",
+    "q": "くれる",
+    "a": "to give (to me) simple form",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "込む",
+    "title": "込む",
+    "q": "込む",
+    "a": "to be crowded",
+    "meta": {
+      "type": "vocab",
+      "kana": "こむ"
+    }
+  },
+  {
+    "id": "壊す",
+    "title": "壊す",
+    "q": "壊す",
+    "a": "to break",
+    "meta": {
+      "type": "vocab",
+      "kana": "こわす"
+    }
+  },
+  {
+    "id": "壊れる",
+    "title": "壊れる",
+    "q": "壊れる",
+    "a": "to be broken",
+    "meta": {
+      "type": "vocab",
+      "kana": "こわれる"
+    }
+  },
+  {
+    "id": "探す",
+    "title": "探す",
+    "q": "探す",
+    "a": "to look for, to search",
+    "meta": {
+      "type": "vocab",
+      "kana": "さがす"
+    }
+  },
+  {
+    "id": "下がる",
+    "title": "下がる",
+    "q": "下がる",
+    "a": "to get down",
+    "meta": {
+      "type": "vocab",
+      "kana": "さがる"
+    }
+  },
+  {
+    "id": "下げる",
+    "title": "下げる",
+    "q": "下げる",
+    "a": "to lower",
+    "meta": {
+      "type": "vocab",
+      "kana": "さげる"
+    }
+  },
+  {
+    "id": "差し上げる",
+    "title": "差し上げる",
+    "q": "差し上げる",
+    "a": "to give (respectful)",
+    "meta": {
+      "type": "vocab",
+      "kana": "さしあげる"
+    }
+  },
+  {
+    "id": "騒ぐ",
+    "title": "騒ぐ",
+    "q": "騒ぐ",
+    "a": "to make noise, to be excited",
+    "meta": {
+      "type": "vocab",
+      "kana": "さわぐ"
+    }
+  },
+  {
+    "id": "触る",
+    "title": "触る",
+    "q": "触る",
+    "a": "to touch",
+    "meta": {
+      "type": "vocab",
+      "kana": "さわる"
+    }
+  },
+  {
+    "id": "叱る",
+    "title": "叱る",
+    "q": "叱る",
+    "a": "to scold",
+    "meta": {
+      "type": "vocab",
+      "kana": "しかる"
+    }
+  },
+  {
+    "id": "知らせる",
+    "title": "知らせる",
+    "q": "知らせる",
+    "a": "to notify",
+    "meta": {
+      "type": "vocab",
+      "kana": "しらせる"
+    }
+  },
+  {
+    "id": "調べる",
+    "title": "調べる",
+    "q": "調べる",
+    "a": "to investigate",
+    "meta": {
+      "type": "vocab",
+      "kana": "しらべる"
+    }
+  },
+  {
+    "id": "知らせる-1",
+    "title": "知らせる",
+    "q": "知らせる",
+    "a": "to notify",
+    "meta": {
+      "type": "vocab",
+      "kana": "しらせる"
+    }
+  },
+  {
+    "id": "調べる-1",
+    "title": "調べる",
+    "q": "調べる",
+    "a": "to investigate",
+    "meta": {
+      "type": "vocab",
+      "kana": "しらべる"
+    }
+  },
+  {
+    "id": "過ぎる",
+    "title": "過ぎる",
+    "q": "過ぎる",
+    "a": "to exceed",
+    "meta": {
+      "type": "vocab",
+      "kana": "すぎる"
+    }
+  },
+  {
+    "id": "進む",
+    "title": "進む",
+    "q": "進む",
+    "a": "to make progress",
+    "meta": {
+      "type": "vocab",
+      "kana": "すすむ"
+    }
+  },
+  {
+    "id": "捨てる",
+    "title": "捨てる",
+    "q": "捨てる",
+    "a": "to throw away",
+    "meta": {
+      "type": "vocab",
+      "kana": "すてる"
+    }
+  },
+  {
+    "id": "滑る",
+    "title": "滑る",
+    "q": "滑る",
+    "a": "to slide, to slip",
+    "meta": {
+      "type": "vocab",
+      "kana": "すべる"
+    }
+  },
+  {
+    "id": "済む",
+    "title": "済む",
+    "q": "済む",
+    "a": "to finish",
+    "meta": {
+      "type": "vocab",
+      "kana": "すむ"
+    }
+  },
+  {
+    "id": "育てる",
+    "title": "育てる",
+    "q": "育てる",
+    "a": "to rear, to bring up",
+    "meta": {
+      "type": "vocab",
+      "kana": "そだてる"
+    }
+  },
+  {
+    "id": "倒れる",
+    "title": "倒れる",
+    "q": "倒れる",
+    "a": "to break down",
+    "meta": {
+      "type": "vocab",
+      "kana": "たおれる"
+    }
+  },
+  {
+    "id": "足す",
+    "title": "足す",
+    "q": "足す",
+    "a": "to add a number",
+    "meta": {
+      "type": "vocab",
+      "kana": "たす"
+    }
+  },
+  {
+    "id": "訪ねる",
+    "title": "訪ねる",
+    "q": "訪ねる",
+    "a": "to visit",
+    "meta": {
+      "type": "vocab",
+      "kana": "たずねる"
+    }
+  },
+  {
+    "id": "尋ねる",
+    "title": "尋ねる",
+    "q": "尋ねる",
+    "a": "to ask",
+    "meta": {
+      "type": "vocab",
+      "kana": "たずねる"
+    }
+  },
+  {
+    "id": "建てる",
+    "title": "建てる",
+    "q": "建てる",
+    "a": "to build",
+    "meta": {
+      "type": "vocab",
+      "kana": "たてる"
+    }
+  },
+  {
+    "id": "立てる",
+    "title": "立てる",
+    "q": "立てる",
+    "a": "to stand up, to put up",
+    "meta": {
+      "type": "vocab",
+      "kana": "たてる"
+    }
+  },
+  {
+    "id": "楽しむ",
+    "title": "楽しむ",
+    "q": "楽しむ",
+    "a": "to enjoy",
+    "meta": {
+      "type": "vocab",
+      "kana": "たのしむ"
+    }
+  },
+  {
+    "id": "足りる",
+    "title": "足りる",
+    "q": "足りる",
+    "a": "to be sufficient",
+    "meta": {
+      "type": "vocab",
+      "kana": "たりる"
+    }
+  },
+  {
+    "id": "捕まえる",
+    "title": "捕まえる",
+    "q": "捕まえる",
+    "a": "to seize",
+    "meta": {
+      "type": "vocab",
+      "kana": "つかまえる"
+    }
+  },
+  {
+    "id": "付く",
+    "title": "付く",
+    "q": "付く",
+    "a": "to be attached",
+    "meta": {
+      "type": "vocab",
+      "kana": "つく"
+    }
+  },
+  {
+    "id": "漬ける",
+    "title": "漬ける",
+    "q": "漬ける",
+    "a": "to soak, to pickle",
+    "meta": {
+      "type": "vocab",
+      "kana": "つける"
+    }
+  },
+  {
+    "id": "伝える",
+    "title": "伝える",
+    "q": "伝える",
+    "a": "to report",
+    "meta": {
+      "type": "vocab",
+      "kana": "つたえる"
+    }
+  },
+  {
+    "id": "続く",
+    "title": "続く",
+    "q": "続く",
+    "a": "to continue, to last",
+    "meta": {
+      "type": "vocab",
+      "kana": "つづく"
+    }
+  },
+  {
+    "id": "続ける",
+    "title": "続ける",
+    "q": "続ける",
+    "a": "to continue, go on",
+    "meta": {
+      "type": "vocab",
+      "kana": "つづける"
+    }
+  },
+  {
+    "id": "包む",
+    "title": "包む",
+    "q": "包む",
+    "a": "to wrap",
+    "meta": {
+      "type": "vocab",
+      "kana": "つつむ"
+    }
+  },
+  {
+    "id": "釣る",
+    "title": "釣る",
+    "q": "釣る",
+    "a": "to fish",
+    "meta": {
+      "type": "vocab",
+      "kana": "つる"
+    }
+  },
+  {
+    "id": "連れる",
+    "title": "連れる",
+    "q": "連れる",
+    "a": "to lead",
+    "meta": {
+      "type": "vocab",
+      "kana": "つれる"
+    }
+  },
+  {
+    "id": "手伝う",
+    "title": "手伝う",
+    "q": "手伝う",
+    "a": "to assist",
+    "meta": {
+      "type": "vocab",
+      "kana": "てつだう"
+    }
+  },
+  {
+    "id": "通る",
+    "title": "通る",
+    "q": "通る",
+    "a": " to go through",
+    "meta": {
+      "type": "vocab",
+      "kana": "とおる"
+    }
+  },
+  {
+    "id": "届ける",
+    "title": "届ける",
+    "q": "届ける",
+    "a": " to reach",
+    "meta": {
+      "type": "vocab",
+      "kana": "とどける"
+    }
+  },
+  {
+    "id": "泊まる",
+    "title": "泊まる",
+    "q": "泊まる",
+    "a": " to lodge at",
+    "meta": {
+      "type": "vocab",
+      "kana": "とまる"
+    }
+  },
+  {
+    "id": "止める",
+    "title": "止める",
+    "q": "止める",
+    "a": " to stop",
+    "meta": {
+      "type": "vocab",
+      "kana": "とめる"
+    }
+  },
+  {
+    "id": "取り替える",
+    "title": "取り替える",
+    "q": "取り替える",
+    "a": " to exchange",
+    "meta": {
+      "type": "vocab",
+      "kana": "とりかえる"
+    }
+  },
+  {
+    "id": "直す",
+    "title": "直す",
+    "q": "直す",
+    "a": "to fix, to repair",
+    "meta": {
+      "type": "vocab",
+      "kana": "なおす"
+    }
+  },
+  {
+    "id": "直る",
+    "title": "直る",
+    "q": "直る",
+    "a": "to be fixed, repaired",
+    "meta": {
+      "type": "vocab",
+      "kana": "なおる"
+    }
+  },
+  {
+    "id": "治る",
+    "title": "治る",
+    "q": "治る",
+    "a": "to be cured, to heal",
+    "meta": {
+      "type": "vocab",
+      "kana": "なおる"
+    }
+  },
+  {
+    "id": "泣く",
+    "title": "泣く",
+    "q": "泣く",
+    "a": "to cry",
+    "meta": {
+      "type": "vocab",
+      "kana": "なく"
+    }
+  },
+  {
+    "id": "無くなる",
+    "title": "無くなる",
+    "q": "無くなる",
+    "a": "to disappear, to get lost",
+    "meta": {
+      "type": "vocab",
+      "kana": "なくなる"
+    }
+  },
+  {
+    "id": "亡くなる",
+    "title": "亡くなる",
+    "q": "亡くなる",
+    "a": "to die",
+    "meta": {
+      "type": "vocab",
+      "kana": "なくなる"
+    }
+  },
+  {
+    "id": "投げる",
+    "title": "投げる",
+    "q": "投げる",
+    "a": "to throw away",
+    "meta": {
+      "type": "vocab",
+      "kana": "なげる"
+    }
+  },
+  {
+    "id": "なさる",
+    "title": "なさる",
+    "q": "なさる",
+    "a": "to do (respectful)",
+    "meta": {
+      "type": "vocab"
+    }
+  },
+  {
+    "id": "慣れる",
+    "title": "慣れる",
+    "q": "慣れる",
+    "a": "to grow accustomed to",
+    "meta": {
+      "type": "vocab",
+      "kana": "なれる"
+    }
+  },
+  {
+    "id": "逃げる",
+    "title": "逃げる",
+    "q": "逃げる",
+    "a": "to escape",
+    "meta": {
+      "type": "vocab",
+      "kana": "にげる"
+    }
+  },
+  {
+    "id": "似る",
+    "title": "似る",
+    "q": "似る",
+    "a": "to be similar",
+    "meta": {
+      "type": "vocab",
+      "kana": "にる"
+    }
+  },
+  {
+    "id": "盗む",
+    "title": "盗む",
+    "q": "盗む",
+    "a": "to steal",
+    "meta": {
+      "type": "vocab",
+      "kana": "ぬすむ"
+    }
+  },
+  {
+    "id": "塗る",
+    "title": "塗る",
+    "q": "塗る",
+    "a": "to paint, lacquer",
+    "meta": {
+      "type": "vocab",
+      "kana": "ぬる"
+    }
+  },
+  {
+    "id": "濡れる",
+    "title": "濡れる",
+    "q": "濡れる",
+    "a": "to get wet",
+    "meta": {
+      "type": "vocab",
+      "kana": "ぬれる"
+    }
+  },
+  {
+    "id": "眠る",
+    "title": "眠る",
+    "q": "眠る",
+    "a": "to sleep",
+    "meta": {
+      "type": "vocab",
+      "kana": "ねむる"
+    }
+  },
+  {
+    "id": "残る",
+    "title": "残る",
+    "q": "残る",
+    "a": "to remain",
+    "meta": {
+      "type": "vocab",
+      "kana": "のこる"
+    }
+  },
+  {
+    "id": "乗り換える",
+    "title": "乗り換える",
+    "q": "乗り換える",
+    "a": "to take off clothes",
+    "meta": {
+      "type": "vocab",
+      "kana": "のりかえる"
+    }
+  },
+  {
+    "id": "運ぶ",
+    "title": "運ぶ",
+    "q": "運ぶ",
+    "a": "to transport",
+    "meta": {
+      "type": "vocab",
+      "kana": "はこぶ"
+    }
+  },
+  {
+    "id": "始める",
+    "title": "始める",
+    "q": "始める",
+    "a": "to begin",
+    "meta": {
+      "type": "vocab",
+      "kana": "はじめる"
+    }
+  },
+  {
+    "id": "払う",
+    "title": "払う",
+    "q": "払う",
+    "a": "to pay",
+    "meta": {
+      "type": "vocab",
+      "kana": "はらう"
+    }
+  },
+  {
+    "id": "冷える",
+    "title": "冷える",
+    "q": "冷える",
+    "a": "get cold, feel chilly",
+    "meta": {
+      "type": "vocab",
+      "kana": "ひえる"
+    }
+  },
+  {
+    "id": "光る",
+    "title": "光る",
+    "q": "光る",
+    "a": "to shine",
+    "meta": {
+      "type": "vocab",
+      "kana": "ひかる"
+    }
+  },
+  {
+    "id": "引き出す",
+    "title": "引き出す",
+    "q": "引き出す",
+    "a": "to draw out",
+    "meta": {
+      "type": "vocab",
+      "kana": "ひきだす"
+    }
+  },
+  {
+    "id": "引っ越す",
+    "title": "引っ越す",
+    "q": "引っ越す",
+    "a": "to move (house)",
+    "meta": {
+      "type": "vocab",
+      "kana": "ひっこす"
+    }
+  },
+  {
+    "id": "開く-1",
+    "title": "開く",
+    "q": "開く",
+    "a": "to open an event",
+    "meta": {
+      "type": "vocab",
+      "kana": "ひらく"
+    }
+  },
+  {
+    "id": "拾う",
+    "title": "拾う",
+    "q": "拾う",
+    "a": "topic up, to gather",
+    "meta": {
+      "type": "vocab",
+      "kana": "ひろう"
+    }
+  },
+  {
+    "id": "増える",
+    "title": "増える",
+    "q": "増える",
+    "a": "to　increase",
+    "meta": {
+      "type": "vocab",
+      "kana": "ふえる"
+    }
+  },
+  {
+    "id": "太る",
+    "title": "太る",
+    "q": "太る",
+    "a": "to grow fat",
+    "meta": {
+      "type": "vocab",
+      "kana": "ふとる"
+    }
+  },
+  {
+    "id": "踏む",
+    "title": "踏む",
+    "q": "踏む",
+    "a": "to step on",
+    "meta": {
+      "type": "vocab",
+      "kana": "ふむ"
+    }
+  },
+  {
+    "id": "降り出す",
+    "title": "降り出す",
+    "q": "降り出す",
+    "a": "start to rain",
+    "meta": {
+      "type": "vocab",
+      "kana": "ふりだす"
+    }
+  },
+  {
+    "id": "褒める",
+    "title": "褒める",
+    "q": "褒める",
+    "a": "to praise",
+    "meta": {
+      "type": "vocab",
+      "kana": "ほめる"
+    }
+  },
+  {
+    "id": "参る",
+    "title": "参る",
+    "q": "参る",
+    "a": "to go, to come (humble form)",
+    "meta": {
+      "type": "vocab",
+      "kana": "まいる"
+    }
+  },
+  {
+    "id": "負ける",
+    "title": "負ける",
+    "q": "負ける",
+    "a": "to lose",
+    "meta": {
+      "type": "vocab",
+      "kana": "まける"
+    }
+  },
+  {
+    "id": "間違える",
+    "title": "間違える",
+    "q": "間違える",
+    "a": "to make a mistake",
+    "meta": {
+      "type": "vocab",
+      "kana": "まちがえる"
+    }
+  },
+  {
+    "id": "間に合う",
+    "title": "間に合う",
+    "q": "間に合う",
+    "a": "to be in time for",
+    "meta": {
+      "type": "vocab",
+      "kana": "まにあう"
+    }
+  },
+  {
+    "id": "回る",
+    "title": "回る",
+    "q": "回る",
+    "a": "to go around",
+    "meta": {
+      "type": "vocab",
+      "kana": "まわる"
+    }
+  },
+  {
+    "id": "見える",
+    "title": "見える",
+    "q": "見える",
+    "a": "to be visible, to be seen",
+    "meta": {
+      "type": "vocab",
+      "kana": "みえる"
+    }
+  },
+  {
+    "id": "見つかる",
+    "title": "見つかる",
+    "q": "見つかる",
+    "a": "to be discovered",
+    "meta": {
+      "type": "vocab",
+      "kana": "みつかる"
+    }
+  },
+  {
+    "id": "見つける",
+    "title": "見つける",
+    "q": "見つける",
+    "a": "to discover",
+    "meta": {
+      "type": "vocab",
+      "kana": "みつける"
+    }
+  },
+  {
+    "id": "向かう",
+    "title": "向かう",
+    "q": "向かう",
+    "a": "to face",
+    "meta": {
+      "type": "vocab",
+      "kana": "むかう"
+    }
+  },
+  {
+    "id": "迎える",
+    "title": "迎える",
+    "q": "迎える",
+    "a": "to go to meet",
+    "meta": {
+      "type": "vocab",
+      "kana": "むかえる"
+    }
+  },
+  {
+    "id": "召し上がる",
+    "title": "召し上がる",
+    "q": "召し上がる",
+    "a": "to eat (respectful)",
+    "meta": {
+      "type": "vocab",
+      "kana": "めしあがる"
+    }
+  },
+  {
+    "id": "申し上げる",
+    "title": "申し上げる",
+    "q": "申し上げる",
+    "a": "to say, to tell (respectful)",
+    "meta": {
+      "type": "vocab",
+      "kana": "もうしあげる"
+    }
+  },
+  {
+    "id": "申す",
+    "title": "申す",
+    "q": "申す",
+    "a": "to be called, to say (respectful)",
+    "meta": {
+      "type": "vocab",
+      "kana": "もうす"
+    }
+  },
+  {
+    "id": "戻る",
+    "title": "戻る",
+    "q": "戻る",
+    "a": "to return, to go back",
+    "meta": {
+      "type": "vocab",
+      "kana": "もどる"
+    }
+  },
+  {
+    "id": "貰う",
+    "title": "貰う",
+    "q": "貰う",
+    "a": "to receive",
+    "meta": {
+      "type": "vocab",
+      "kana": "もらう"
+    }
+  },
+  {
+    "id": "焼く",
+    "title": "焼く",
+    "q": "焼く",
+    "a": "to bake, to grill",
+    "meta": {
+      "type": "vocab",
+      "kana": "やく"
+    }
+  },
+  {
+    "id": "役に立つ",
+    "title": "役に立つ",
+    "q": "役に立つ",
+    "a": "to be helpful",
+    "meta": {
+      "type": "vocab",
+      "kana": "やくにたつ"
+    }
+  },
+  {
+    "id": "痩せる",
+    "title": "痩せる",
+    "q": "痩せる",
+    "a": "to become thin",
+    "meta": {
+      "type": "vocab",
+      "kana": "やせる"
+    }
+  },
+  {
+    "id": "止む",
+    "title": "止む",
+    "q": "止む",
+    "a": "to stop",
+    "meta": {
+      "type": "vocab",
+      "kana": "やむ"
+    }
+  },
+  {
+    "id": "止める-1",
+    "title": "止める",
+    "q": "止める",
+    "a": "to stop",
+    "meta": {
+      "type": "vocab",
+      "kana": "やめる"
+    }
+  },
+  {
+    "id": "ゆれる",
+    "title": "ゆれる",
+    "q": "ゆれる",
+    "a": "to shake, to sway",
+    "meta": {
+      "type": "vocab",
+      "kana": "ゆれる"
+    }
+  },
+  {
+    "id": "汚れる",
+    "title": "汚れる",
+    "q": "汚れる",
+    "a": "to get dirty",
+    "meta": {
+      "type": "vocab",
+      "kana": "よごれる"
+    }
+  },
+  {
+    "id": "寄る",
+    "title": "寄る",
+    "q": "寄る",
+    "a": "to visit",
+    "meta": {
+      "type": "vocab",
+      "kana": "よる"
+    }
+  },
+  {
+    "id": "喜ぶ",
+    "title": "喜ぶ",
+    "q": "喜ぶ",
+    "a": "to be delighted",
+    "meta": {
+      "type": "vocab",
+      "kana": "よろこぶ"
+    }
+  },
+  {
+    "id": "沸かす",
+    "title": "沸かす",
+    "q": "沸かす",
+    "a": "to boil, to heat",
+    "meta": {
+      "type": "vocab",
+      "kana": "わかす"
+    }
+  },
+  {
+    "id": "別れる",
+    "title": "別れる",
+    "q": "別れる",
+    "a": "to separate",
+    "meta": {
+      "type": "vocab",
+      "kana": "わかれる"
+    }
+  },
+  {
+    "id": "沸く",
+    "title": "沸く",
+    "q": "沸く",
+    "a": "to boil, to grow hot",
+    "meta": {
+      "type": "vocab",
+      "kana": "わく"
+    }
+  },
+  {
+    "id": "笑う",
+    "title": "笑う",
+    "q": "笑う",
+    "a": "to laugh, to smile",
+    "meta": {
+      "type": "vocab",
+      "kana": "わらう"
+    }
+  },
+  {
+    "id": "割れる",
+    "title": "割れる",
+    "q": "割れる",
+    "a": "to break",
+    "meta": {
+      "type": "vocab",
+      "kana": "われる"
+    }
+  },
+  {
+    "id": "忘る",
+    "title": "忘る",
+    "q": "忘る",
+    "a": "to forget",
+    "meta": {
+      "type": "vocab",
+      "kana": "わすれる"
+    }
+  }
+]
